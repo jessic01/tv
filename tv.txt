@@ -110,31 +110,46 @@ iHot爱都市 7.5M1080,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/8
 iHot爱青春 7.5M1080,http://39.135.98.8/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 
 $c_startNewTv$c_end
-NewTV中国功夫 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226321/1.m3u8
-NewTV怡伴健康 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226327/1.m3u8
-NewTV军事评论 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226326/1.m3u8
-NewTV军旅剧场 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226324/1.m3u8
-NewTV农业致富 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226304/1.m3u8
-NewTV动作电影 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226329/1.m3u8
-NewTV惊悚悬疑 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225921/1.m3u8
-NewTV明星大片 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221225929/1.m3u8
-NewTV明星大片 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226425/1.m3u8
-NewTV武搏世界 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226320/1.m3u8
-NewTV海外剧场 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/1.m3u8
-NewTV潮妈辣婆 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226286/1.m3u8
-NewTV炫舞未来 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226248/1.m3u8
-NewTV爱情喜剧 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226322/1.m3u8
-NewTV精品体育 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226328/1.m3u8
-NewTV精品大剧 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226331/1.m3u8
-NewTV精品纪录 2.5M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226332/1.m3u8
-NewTV超级体育 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226348/1.m3u8
-NewTV超级电影 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226233/1.m3u8
-NewTV超级电影 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226369/1.m3u8
-NewTV超级电视剧 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226253/1.m3u8
-NewTV超级电视剧 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226368/1.m3u8
-NewTV超级综艺 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226231/1.m3u8
-NewTV超级综艺 8M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226370/1.m3u8
-NewTV金牌综艺 4M1080,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226347/1.m3u8
+NewTV精品記錄FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225681/index.m3u8?
+NewTV精品體育FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225724/index.m3u8?
+NewTV精品大劇FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225737/index.m3u8?
+NewTV中國功夫FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225690/index.m3u8?
+NewTV愛情喜劇FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225698/index.m3u8?
+NewTV動作電影FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225703/index.m3u8?
+NewTV古裝劇場FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225706/index.m3u8?
+NewTV潮媽辣婆FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225709/index.m3u8?
+NewTV軍旅劇場FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225727/index.m3u8?
+NewTV炫舞未來FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225728/index.m3u8?
+NewTV家庭劇場FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225743/index.m3u8?
+NewTV驚悚懸疑FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225746/index.m3u8?
+NewTV軍事評論FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225749/index.m3u8?
+NewTV金牌綜藝FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225755/index.m3u8?
+NewTV武博世界FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225758/index.m3u8?
+NewTV農業致富FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225687/index.m3u8?
+NewTV怡伴健康FHD,http://111.12.102.68:6610/PLTV/77777777/224/3221225684/index.m3u8?
+NewTV超級體育FHD,http://39.134.66.66/PLTV/88888888/224/3221225635/index.m3u8
+NewTV東北熱劇FHD,http://39.134.66.66/PLTV/88888888/224/3221225679/index.m3u8
+NewTV驚悚懸疑FHD,http://39.134.66.66/PLTV/88888888/224/3221225553/index.m3u8
+NewTV愛情喜劇,http://39.134.66.66/PLTV/88888888/224/3221225533/index.m3u8
+NewTV搏擊運動,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8
+NewTV動畫王國,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+NewTV動作電影,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8
+NewTV海外劇場,http://117.169.119.199:8080/live/xiqumd/index.m3u8
+NewTV歡樂劇場,http://39.135.135.81:80/wh7f454c46tw1744894462_1818032107/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225742/index.m3u8?icpid=88888888&RTS=1554599517&from=1&hms_devid=690
+NewTV精品電影,http://39.134.65.4:80/wh7f454c46tw1749080918_-1055122425/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8?icpid=88888888&RTS=1554599521&from=1&hms_devid=4
+NewTV軍旅劇場,http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
+NewTV軍事頻道,http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
+NewTV軍事評論,http://117.169.119.199:8080/live/junshipl/index.m3u8
+NewTV完美遊戲,http://121.31.30.90:8085/ysten-business/live/wmyx/1.m3u8
+NewTV功夫劇場,http://39.134.65.84:80/wh7f454c46tw1933122944_256139629/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579029479&from=1&hms_devid=130
+NEW安徽,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225790/index.m3u8
+NEW廣東,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225791/index.m3u8
+NEW廣西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225792/index.m3u8
+NEW吉林,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225794/index.m3u8
+NEW江西,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225789/index.m3u8
+NEW山東,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225788/index.m3u8
+NEW四川,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225793/index.m3u8
+NEW雲南,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225795/index.m3u8
 
 $c_startCIBN$c_end
 CIBN精品影院,https://live.elibei.com/tv/channel/cibn?id=0
