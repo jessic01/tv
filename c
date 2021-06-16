@@ -1838,7 +1838,43 @@ C-SPAN-3,mitv://fccseuro.pvbox.live:18912/5b59392a000cefb4d68204bf9bb1d680.ts
 TENNIS,mitv://fccsovh.pvbox.live:18912/5b593cba0006ee82ab33f64743ebd5de.ts
 TENNIS,mitv://fccseuro.pvbox.live:18912/5b593cba0006ee82ab33f64743ebd5de.ts
 
-
+彩虹-01,mitv://fccseuro.pvbox.live:18912/5d6a0806000d63cef223bbfc37f92b76.ts
+彩虹-21,mitv://fccseuro.pvbox.live:18912/5d6a07e9000416e0f2234852304c222b.ts
+彩虹-22,mitv://fccseuro.pvbox.live:18912/5d6a07ea000e574cf2234eda026d5ca6.ts
+彩虹-23,mitv://fccseuro.pvbox.live:18912/5d6a07ec00095602f22355622f884b03.ts
+彩虹-24,mitv://fccseuro.pvbox.live:18912/5d6a07ee00026be4f2235b6d117b6415.ts
+彩虹-25,mitv://fccseuro.pvbox.live:18912/5d6a07ef000ed1caf2236282449b3bd2.ts
+彩虹-26,mitv://fccseuro.pvbox.live:18912/5d6a07f10007e7bff223688c3f74797e.ts
+彩虹-27,mitv://fccseuro.pvbox.live:18912/5d6a07f300013abef2236ea73c983ca3.ts
+彩虹-28,mitv://fccseuro.pvbox.live:18912/5d6a07f40009cfe3f22374c1474f00d8.ts
+彩虹-29,mitv://fccseuro.pvbox.live:18912/5d6a07f60003605bf2237aec214c42ad.ts
+彩虹-30,mitv://fccseuro.pvbox.live:18912/5d6a07f8000046b8f22381f044671c0c.ts
+彩虹-31,mitv://fccseuro.pvbox.live:18912/5d6a07f9000a49f5f22388694a751449.ts
+彩虹-32,mitv://fccseuro.pvbox.live:18912/5d6a07fb00045469f2238eb252eb1e01.ts
+彩虹-33,mitv://fccseuro.pvbox.live:18912/5d6a07fd000d269ef22398c458fa7bf6.ts
+彩虹-34,mitv://fccseuro.pvbox.live:18912/5d6a07ff00063cf2f2239ecf0aa951c6.ts
+彩虹-35,mitv://fccseuro.pvbox.live:18912/5d6a0800000ddda7f223a4ab5a3777a3.ts
+彩虹-36,mitv://fccseuro.pvbox.live:18912/5d6a0802000a4a82f223ab91448742c5.ts
+彩虹-37,mitv://fccseuro.pvbox.live:18912/5d6a080400099377f223b332034756e1.ts
+彩虹-2,mitv://fccseuro.pvbox.live:18912/5d56990e0007faaba63a397803c671df.ts
+彩虹-3,mitv://fccseuro.pvbox.live:18912/5d569911000a5ce1a63a45cc114b4afe.ts
+彩虹-4,mitv://fccseuro.pvbox.live:18912/5d5699130003b044a63a4be70cb4400b.ts
+彩虹-5,mitv://fccseuro.pvbox.live:18912/5d569914000e6ad3a63a528e595f4888.ts
+彩虹-6,mitv://fccseuro.pvbox.live:18912/5d5699160008b1ada63a58e70c3e588d.ts
+彩虹-7,mitv://fccseuro.pvbox.live:18912/5d56991800055b3ba63a5fdc78587e73.ts
+彩虹-8,mitv://fccseuro.pvbox.live:18912/5d56991b0008b19aa63a6c6f7d6570e4.ts
+彩虹-9,mitv://fccseuro.pvbox.live:18912/5d56991d000ea78ea63a75c566f14998.ts
+彩虹-10,mitv://fccseuro.pvbox.live:18912/5d56991f0007facaa63a7be06c335bd0.ts
+彩虹-11,mitv://fccseuro.pvbox.live:18912/5d5699220007bd90a63a878809d5222e.ts
+彩虹-12,mitv://fccseuro.pvbox.live:18912/5d5699240002f8dfa63a8e2003ef3115.ts
+彩虹-13,mitv://fccseuro.pvbox.live:18912/5d56992c0004e0cda63aaddd58b83432.ts
+彩虹-14,mitv://fccseuro.pvbox.live:18912/5d56992d000ea76ca63ab4452fd9223c.ts
+彩虹-15,mitv://fccseuro.pvbox.live:18912/5d5699310003ecafa63ac1265ba106f3.ts
+彩虹-16,mitv://fccseuro.pvbox.live:18912/5d569934000466f9a63accfd055c7a09.ts
+彩虹-17,mitv://fccseuro.pvbox.live:18912/5d569935000c07faa63ad2d97eec0187.ts
+彩虹-18,mitv://fccseuro.pvbox.live:18912/5d56993700064efea63ad93252483bb0.ts
+彩虹-19,mitv://fccseuro.pvbox.live:18912/5d569938000f216ba63adf5d5195476b.ts
+彩虹-20,mitv://fccseuro.pvbox.live:18912/5d56993a0008b184a63ae58729997700.ts
 
 
 
