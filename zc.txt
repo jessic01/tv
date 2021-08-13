@@ -20,23 +20,23 @@ CCTV-15音乐,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
 
 上海,#genre#
-东方卫视,http://140.207.241.3:8080/live/program/live/hddfws/4000000/mnf.m3u8 
-上海新闻综合,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-东方影视,http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-上海都市,http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
-上海纪实人文,http://140.207.241.3:8080/live/program/live/jspdhd/4000000/mnf.m3u8
-上海ICS,http://140.207.241.3:8080/live/program/live/wypdhd/4000000/mnf.m3u8
-都市剧场,http://140.207.241.3:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-生活时尚,http://140.207.241.3:8080/live/program/live/shsshd/4000000/mnf.m3u8
-五星体育,http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8 
-劲爆体育,http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-极速汽车,http://140.207.241.3:8080/live/program/live/jsqchd/4000000/mnf.m3u8
-第一财经,http://140.207.241.3:8080/live/program/live/dycjhd/4000000/mnf.m3u8
-哈哈炫动,http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-欢笑剧场,http://140.207.241.3:8080/live/program/live/hxjchd/4000000/mnf.m3u8
-动漫秀场,http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-新视觉,http://140.207.241.3:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-游戏风云,http://140.207.241.3:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+东方卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8 
+上海新闻综合,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xwzhhd/4000000/mnf.m3u8
+东方影视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海都市,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海纪实人文,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jspdhd/4000000/mnf.m3u8
+上海ICS,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/wypdhd/4000000/mnf.m3u8
+都市剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dsjchd/4000000/mnf.m3u8
+生活时尚,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/shsshd/4000000/mnf.m3u8
+五星体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/ssty/4000000/mnf.m3u8 
+劲爆体育,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jbtyhd/4000000/mnf.m3u8
+极速汽车,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/jsqchd/4000000/mnf.m3u8
+第一财经,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dycjhd/4000000/mnf.m3u8
+哈哈炫动,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hhxdhd/4000000/mnf.m3u8
+欢笑剧场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hxjchd/4000000/mnf.m3u8
+动漫秀场,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/dmxchd/4000000/mnf.m3u8
+新视觉,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/xsjhd/4000000/mnf.m3u8
+游戏风云,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/yxfyhd/4000000/mnf.m3u8
 
 卫视,#genre#
 天津卫视,http://ivi.bupt.edu.cn/hls/tjhd.m3u8
@@ -62,8 +62,29 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 广西卫视,http://ivi.bupt.edu.cn/hls/gxhd.m3u8
 海南卫视,http://ivi.bupt.edu.cn/hls/lyhd.m3u8
 贵州卫视,http://ivi.bupt.edu.cn/hls/gzhd.m3u8
-凤凰卫视资讯台,http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
-凤凰卫视中文台,http://111.13.42.10/PLTV/88888888/224/3221225942/1.m3u8#http://223.82.250.72/live/fhchinese/1.m3u8
+凤凰中文 ,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
+凤凰资讯,http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
+凤凰中文,http://111.13.42.10/PLTV/88888888/224/3221225942/1.m3u8#http://223.82.250.72/live/fhchinese/1.m3u8
+HBO高清,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
+HBO家庭,http://198.16.106.61:8277/streams/d/hbofamily_twn/playlist.m3u8
+HBO强档,http://198.16.106.61:8277/streams/d/hbofhits_twn/playlist.m3u8
+HBO原創,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+FOX高清,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX犯罪,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+FOX家庭,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+FOX動作,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
+动物星球,http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
+BBC Earth HD,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
+BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+Natgeowild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+NatGeogpeople,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+Discovery eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 求索动物 8M1080,http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 求索生活 8M1080,http://117.148.187.105/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
 求索科学 8M1080,http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
