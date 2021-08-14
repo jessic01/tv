@@ -1,49 +1,59 @@
 1,#genre# 
-Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
-Hustler HD,http://ott3.gearhostpreview.com/xxav.php?id=169
-花花,http://ott3.gearhostpreview.com/xxav.php?id=170
-Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
-BlackX,http://ott3.gearhostpreview.com/xxav.php?id=172
-penth,http://ott3.gearhostpreview.com/xxav.php?id=173
-Redlight hd,http://ott3.gearhostpreview.com/xxav.php?id=174
-Private TV (Italia),http://ott3.gearhostpreview.com/xxav.php?id=176
-Russkaya Noch,http://ott3.gearhostpreview.com/xxav.php?id=177
-O la la,http://ott3.gearhostpreview.com/xxav.php?id=180
-bang,http://ott3.gearhostpreview.com/xxav.php?id=182
-bang1,http://ott3.gearhostpreview.com/xxav.php?id=183
-w,http://ott3.gearhostpreview.com/xxav.php?id=184
-private1,http://ott3.gearhostpreview.com/xxav.php?id=185
-legal,http://ott3.gearhostpreview.com/xxav.php?id=186
-brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
 ana,http://ott3.gearhostpreview.com/xxav.php?id=188
-Hot,http://ott3.gearhostpreview.com/xxav.php?id=189
-sloppy,http://ott3.gearhostpreview.com/xxav.php?id=190
-brazze2,http://ott3.gearhostpreview.com/xxav.php?id=191
-brazzers europe,http://ott3.gearhostpreview.com/xxav.php?id=192
-ultrafil,http://ott3.gearhostpreview.com/xxav.php?id=193
-blackd,http://ott3.gearhostpreview.com/xxav.php?id=194
-brazze3,http://ott3.gearhostpreview.com/xxav.php?id=195
-girsdopp,http://ott3.gearhostpreview.com/xxav.php?id=196
-xxl,http://ott3.gearhostpreview.com/xxav.php?id=197
-bang2,http://ott3.gearhostpreview.com/xxav.php?id=198
-HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=204
+BANE,http://ott3.gearhostpreview.com/xxav.php?id=250
+bang,http://ott3.gearhostpreview.com/xxav.php?id=182
+bang,http://ott3.gearhostpreview.com/xxav.php?id=315
+bang1,http://ott3.gearhostpreview.com/xxav.php?id=183
 bang1,http://ott3.gearhostpreview.com/xxav.php?id=205
-brazze2,http://ott3.gearhostpreview.com/xxav.php?id=206
-HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
-Superone,http://ott3.gearhostpreview.com/xxav.php?id=213
-BRAZZE5,http://ott3.gearhostpreview.com/xxav.php?id=215
-Sexation,http://ott3.gearhostpreview.com/xxav.php?id=217
-XY Plus,http://ott3.gearhostpreview.com/xxav.php?id=218
-DUSK,http://ott3.gearhostpreview.com/xxav.php?id=222
-Hustler TV,http://ott3.gearhostpreview.com/xxav.php?id=223
-RKTV,http://ott3.gearhostpreview.com/xxav.php?id=226
-Hot,http://ott3.gearhostpreview.com/xxav.php?id=228
-Venus,http://ott3.gearhostpreview.com/xxav.php?id=229
-LEO,http://ott3.gearhostpreview.com/xxav.php?id=231
-VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
-BOXXX,http://ott3.gearhostpreview.com/xxav.php?id=234
+bang2,http://ott3.gearhostpreview.com/xxav.php?id=198
+bang2,http://ott3.gearhostpreview.com/xxav.php?id=266
 bang3,http://ott3.gearhostpreview.com/xxav.php?id=235
-VIVID1,http://ott3.gearhostpreview.com/xxav.php?id=236
+blackd,http://ott3.gearhostpreview.com/xxav.php?id=194
+BOXXX,http://ott3.gearhostpreview.com/xxav.php?id=234
+brack,http://ott3.gearhostpreview.com/xxav.php?id=172
+brazze,http://ott3.gearhostpreview.com/xxav.php?id=185
+brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
+brazze2,http://ott3.gearhostpreview.com/xxav.php?id=191
+brazze3,http://ott3.gearhostpreview.com/xxav.php?id=195
+brazze4,http://ott3.gearhostpreview.com/xxav.php?id=206
+BRAZZE5,http://ott3.gearhostpreview.com/xxav.php?id=215
+brazzers europe,http://ott3.gearhostpreview.com/xxav.php?id=192
+brrtv,http://ott3.gearhostpreview.com/xxav.php?id=192
+candy,http://ott3.gearhostpreview.com/xxav.php?id=186
+dp,http://ott3.gearhostpreview.com/xxav.php?id=176
+DUSK,http://ott3.gearhostpreview.com/xxav.php?id=222
+EMAN,http://ott3.gearhostpreview.com/xxav.php?id=257
+ERO,http://ott3.gearhostpreview.com/xxav.php?id=237
+ERO2,http://ott3.gearhostpreview.com/xxav.php?id=238
+ERO3,http://ott3.gearhostpreview.com/xxav.php?id=239
+ERO4,http://ott3.gearhostpreview.com/xxav.php?id=240
+ERO5,http://ott3.gearhostpreview.com/xxav.php?id=241
+ERO6,http://ott3.gearhostpreview.com/xxav.php?id=242
+ERO7,http://ott3.gearhostpreview.com/xxav.php?id=243
+ERO8,http://ott3.gearhostpreview.com/xxav.php?id=244
+Erox ,http://ott3.gearhostpreview.com/xxav.php?id=171
+Erox,http://ott3.gearhostpreview.com/xxav.php?id=171
+EXTSY,http://ott3.gearhostpreview.com/xxav.php?id=315
+girsdopp,http://ott3.gearhostpreview.com/xxav.php?id=196
+HOT ,http://ott3.gearhostpreview.com/xxav.php?id=211
+hot,http://ott3.gearhostpreview.com/xxav.php?id=189
+HOT,http://ott3.gearhostpreview.com/xxav.php?id=211
+HOT1,http://ott3.gearhostpreview.com/xxav.php?id=228
+HOT2,http://ott3.gearhostpreview.com/xxav.php?id=231
+HOT3,http://ott3.gearhostpreview.com/xxav.php?id=251
+Hustler,http://ott3.gearhostpreview.com/xxav.php?id=169
+HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=223
+HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=204
+jasmin,http://ott3.gearhostpreview.com/xxav.php?id=175
+legal,http://ott3.gearhostpreview.com/xxav.php?id=186
+LEO,http://ott3.gearhostpreview.com/xxav.php?id=231
+LEO,http://ott3.gearhostpreview.com/xxav.php?id=248
+LES,http://ott3.gearhostpreview.com/xxav.php?id=256
+MR,http://ott3.gearhostpreview.com/xxav.php?id=252
+mrtv,http://ott3.gearhostpreview.com/xxav.php?id=203
+NELXX,http://ott3.gearhostpreview.com/xxav.php?id=249
+O la la,http://ott3.gearhostpreview.com/xxav.php?id=180
+penth,http://ott3.gearhostpreview.com/xxav.php?id=173
 PINK EROTIC 1,http://ott3.gearhostpreview.com/xxav.php?id=237
 PINK EROTIC 2,http://ott3.gearhostpreview.com/xxav.php?id=238
 PINK EROTIC 3,http://ott3.gearhostpreview.com/xxav.php?id=239
@@ -52,17 +62,43 @@ PINK EROTIC 5,http://ott3.gearhostpreview.com/xxav.php?id=241
 PINK EROTIC 6,http://ott3.gearhostpreview.com/xxav.php?id=242
 PINK EROTIC 7,http://ott3.gearhostpreview.com/xxav.php?id=243
 PINK EROTIC 8,http://ott3.gearhostpreview.com/xxav.php?id=244
-PUR,http://ott3.gearhostpreview.com/xxav.php?id=245
-PUR1,http://ott3.gearhostpreview.com/xxav.php?id=246
-LEO,http://ott3.gearhostpreview.com/xxav.php?id=248
-NELXX,http://ott3.gearhostpreview.com/xxav.php?id=249
 Play House,http://ott3.gearhostpreview.com/xxav.php?id=250
 Pleasure,http://ott3.gearhostpreview.com/xxav.php?id=251
-Milf Tv,http://ott3.gearhostpreview.com/xxav.php?id=252
-LES,http://ott3.gearhostpreview.com/xxav.php?id=256
+Private TV (Italia),http://ott3.gearhostpreview.com/xxav.php?id=176
+private1,http://ott3.gearhostpreview.com/xxav.php?id=185
 private2,http://ott3.gearhostpreview.com/xxav.php?id=257
-bang2,http://ott3.gearhostpreview.com/xxav.php?id=266
-bang,http://ott3.gearhostpreview.com/xxav.php?id=315
+PUR,http://ott3.gearhostpreview.com/xxav.php?id=245
+PUR1,http://ott3.gearhostpreview.com/xxav.php?id=246
+Redlight ,http://ott3.gearhostpreview.com/xxav.php?id=174
+Redlight,http://ott3.gearhostpreview.com/xxav.php?id=174
+RKTV,http://ott3.gearhostpreview.com/xxav.php?id=226
+Russkaya Noch,http://ott3.gearhostpreview.com/xxav.php?id=177
+Sexation,http://ott3.gearhostpreview.com/xxav.php?id=217
+sloppy,http://ott3.gearhostpreview.com/xxav.php?id=190
+Superone,http://ott3.gearhostpreview.com/xxav.php?id=213
+ultrafil,http://ott3.gearhostpreview.com/xxav.php?id=193
+USK,http://ott3.gearhostpreview.com/xxav.php?id=222
+VENUS,http://ott3.gearhostpreview.com/xxav.php?id=229
+VEO ,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO HD,http://ott3.gearhostpreview.com/xxav.php?id=233
+VEO,http://ott3.gearhostpreview.com/xxav.php?id=233
+Vivid Red ,http://ott3.gearhostpreview.com/xxav.php?id=168
+Vivid Red,http://ott3.gearhostpreview.com/xxav.php?id=168
+VIVID1,http://ott3.gearhostpreview.com/xxav.php?id=236
+VLXEN,http://ott3.gearhostpreview.com/xxav.php?id=266
+w,http://ott3.gearhostpreview.com/xxav.php?id=184
+xxl,http://ott3.gearhostpreview.com/xxav.php?id=197
+xxl1,http://ott3.gearhostpreview.com/xxav.php?id=204
+xxl2,http://ott3.gearhostpreview.com/xxav.php?id=205
+XXL3,http://ott3.gearhostpreview.com/xxav.php?id=213
+XXL4,http://ott3.gearhostpreview.com/xxav.php?id=217
+XXL5,http://ott3.gearhostpreview.com/xxav.php?id=235
+XY,http://ott3.gearhostpreview.com/xxav.php?id=218
+花花,http://ott3.gearhostpreview.com/xxav.php?id=170
+菊花,http://ott3.gearhostpreview.com/xxav.php?id=177
+男,http://ott3.gearhostpreview.com/xxav.php?id=208
+心,http://ott3.gearhostpreview.com/xxav.php?id=180
+
 
 2,#genre# 
 Original P-rnBox 1,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215379
@@ -171,9 +207,20 @@ STARS EXCLUSIVE: GINA VALENTINA,http://extremetv.club:80/charles12/12charles/851
 STARS EXCLUSIVE: LANA RHOADES,http://extremetv.club:80/charles12/12charles/85132
 STARS EXCLUSIVE: MIA MALKOVA,http://extremetv.club:80/charles12/12charles/85136
 STARS EXCLUSIVE: VALENTINA NAPPI,http://extremetv.club:80/charles12/12charles/85140
-DORCELXXX,http://svrfit.com:25461/Ednar889967/536286/189363
-superone,http://185.96.176.139:8080/superone/index.m3u8
+RUsskayanoch,http://93.189.224.117:9030/russkayanoch
+hustler hd,http://51.15.0.141:88/hustlerhd/index.m3u8
+hustler hd,http://51.15.0.141:88/hustlerhd/mpegts
+hustler hd,http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+redlight hd,http://51.15.0.141:88/redlightHD/index.m3u8
+redlight hd,http://51.15.0.141:88/redlightHD/mpegts
+redlight hd,http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+BARELY,http://91.237.126.50:9001/udp/239.10.13.1:1234?token=test
+PLAYBOY ,http://91.237.126.50:9001/udp/239.10.12.69:1234?token=test
+Nieuwe sinds ,http://80.24.75.92:5555/udp/239.111.4.1:1234
+Penthouse,http://80.24.75.92:5555/udp/239.111.4.1:1234
 
+
+7,#genre# 
 sext 6 传感器,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6254/index.m3u8
 21 性感,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6164/index.m3u8
 性感火辣,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6282/index.m3u8
@@ -279,3 +326,20 @@ SCT,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/876/index.m3u8
 SuperOne HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6298/index.m3u8
 SuperOne HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6252/index.m3u8
 SexArt,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6253/index.m3u8
+
+
+8,#genre# 
+Adult Playboy TV,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87443
+Adult Sensation 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/88544
+Adult Xtreme Satisfaction,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87457
+Adult Pinko 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87441
+Adult Pinko 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/87442
+Adult Paradise 1,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91592
+Adult Paradise 2,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91593
+Adult Paradise 3,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91594
+Adult Paradise 4,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91595
+Adult Paradise,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91596
+Adult Paradise 6,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91597
+Adult Paradise 7,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91598
+Adult Paradise 8,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91599
+Adult Paradise 9,http://pvserver.link:8080/mkZ5D3DteY/6178378546/91600
