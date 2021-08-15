@@ -81,6 +81,7 @@ HBO家庭,http://198.16.106.61:8277/streams/d/hbofamily_twn/playlist.m3u8
 HBO强档,http://198.16.106.61:8277/streams/d/hbofhits_twn/playlist.m3u8
 HBO原創,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 FOX高清,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX Life,http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
 FOX犯罪,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 FOX家庭,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
 FOX動作,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
