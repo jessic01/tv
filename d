@@ -1,11 +1,11 @@
 1,#genre# 
 ana,http://ott3.gearhostpreview.com/xxav.php?id=188
-bang,http://ott3.gearhostpreview.com/xxav.php?id=182
+PINK CLUB,http://ott3.gearhostpreview.com/xxav.php?id=182
 bang1,http://ott3.gearhostpreview.com/xxav.php?id=183
 bang1,http://ott3.gearhostpreview.com/xxav.php?id=205
 bang2,http://ott3.gearhostpreview.com/xxav.php?id=198
 bang2,http://ott3.gearhostpreview.com/xxav.php?id=266
-bang3,http://ott3.gearhostpreview.com/xxav.php?id=235
+PETHOUSE GLOD,http://ott3.gearhostpreview.com/xxav.php?id=235
 blackd,http://ott3.gearhostpreview.com/xxav.php?id=194
 WEAK,http://ott3.gearhostpreview.com/xxav.php?id=234
 ALL BLACKX,http://ott3.gearhostpreview.com/xxav.php?id=172
