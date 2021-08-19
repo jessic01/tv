@@ -81,6 +81,7 @@ HBO家庭,http://198.16.106.61:8277/streams/d/hbofamily_twn/playlist.m3u8
 HBO强档,http://198.16.106.61:8277/streams/d/hbofhits_twn/playlist.m3u8
 HBO原創,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
 FOX高清,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+FOX MOVIES,http://60.251.59.179:8530/xoxo.m3u8
 FOX Life,http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
 FOX犯罪,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
 FOX家庭,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
@@ -88,19 +89,24 @@ FOX動作,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
-动物星球,http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-动物星球,http://77.83.117.60:8888/02_AnimalPlanet/chunklist.m3u8
+动物星球,http://60.251.59.179:8503/xoxo.m3u8
 BBC Earth HD,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
 Natgeowild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
 NatGeogpeople,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 Discovery eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-求索动物 8M1080,http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-求索生活 8M1080,http://117.148.187.105/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-求索科学 8M1080,http://117.148.187.100/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-求索纪录 8M1080,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
-
-
+TVBS高清,http://60.251.59.179:8510/xoxo.m3u8
+TVBS新闻,http://60.251.59.179:8513/xoxo.m3u8
+TVBS欢乐,http://60.251.59.179:8520/xoxo.m3u8
+中天新闻,http://60.251.59.179:8515/xoxo.m3u8
+卫视中文,http://60.251.59.179:8521/xoxo.m3u8
+卫视电影,http://60.251.59.179:8529/xoxo.m3u8
+东森新闻,http://60.251.59.179:8514/xoxo.m3u8
+东森财经新闻,http://60.251.59.179:8517/xoxo.m3u8
+东森综合,http://60.251.59.179:8518/xoxo.m3u8
+东森戏剧,http://60.251.59.179:8519/xoxo.m3u8
+东森幼幼,http://60.251.59.179:8506/xoxo.m3u8
+TLC,http://60.251.59.179:8504/xoxo.m3u8
 
 iHOT频道,#genre#
 iHot爱喜剧 8M1080,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
@@ -137,44 +143,36 @@ iHot爱都市 7.5M1080,http://117.148.187.57/hwltc.tv.cdn.zj.chinamobile.com/PLT
 iHot爱青春 7.5M1080,http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230130/index.m3u8
 
 NewTV,#genre#
-NewTV中国功夫 4M1080,http://117.148.187.52/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229663/index.m3u8
-NewTV中国功夫 4M1080,http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229019/index.m3u8
-NewTV军事评论 4M1080,http://117.148.187.50/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229716/index.m3u8
-NewTV军事评论 4M1080,http://117.148.187.52/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229008/index.m3u8
-NewTV军旅剧场 4M1080,http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229004/index.m3u8
-NewTV军旅剧场 4M1080,http://39.134.176.163/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229698/index.m3u8
-NewTV农业致富 4M1080,http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229666/index.m3u8
-NewTV农业致富 4M1080,http://117.148.187.97/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229029/index.m3u8
-NewTV动作电影 4M1080,http://117.148.187.41/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229672/index.m3u8
-NewTV动作电影 4M1080,http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229034/index.m3u8
-NewTV古装剧场 4M1080,http://117.148.187.14/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229011/index.m3u8
-NewTV古装剧场 4M1080,http://117.148.187.97/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229710/index.m3u8
-NewTV家庭剧场 4M1080,http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229695/index.m3u8
-NewTV家庭剧场 4M1080,http://39.134.176.160/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229007/index.m3u8
-NewTV怡伴健康 4M1080,http://117.148.187.59/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229692/index.m3u8
-NewTV怡伴健康 4M1080,http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229016/index.m3u8
-NewTV惊悚悬疑 4M1080,http://117.148.187.52/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229701/index.m3u8
-NewTV惊悚悬疑 4M1080,http://117.148.187.97/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229001/index.m3u8
-NewTV明星大片 4M1080,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229660/index.m3u8
-NewTV明星大片 4M1080,http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229005/index.m3u8
-NewTV武搏世界 4M1080,http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229722/index.m3u8
-NewTV武搏世界 4M1080,http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229041/index.m3u8
-NewTV海外剧场 4M1080,http://117.148.187.40/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229654/index.m3u8
-NewTV海外剧场 4M1080,http://117.148.187.70/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229062/index.m3u8
-NewTV潮妈辣婆 4M1080,http://117.148.187.51/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229725/index.m3u8
-NewTV潮妈辣婆 4M1080,http://117.148.187.97/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229031/index.m3u8
-NewTV炫舞未来 4M1080,http://117.148.187.55/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229669/index.m3u8
-NewTV炫舞未来 4M1080,http://117.148.187.91/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229155/index.m3u8
-NewTV爱情喜剧 4M1080,http://117.148.187.40/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229731/index.m3u8
-NewTV爱情喜剧 4M1080,http://117.148.187.84/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229014/index.m3u8
-NewTV精品体育 2.5M1080,http://117.148.187.44/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229719/index.m3u8
-NewTV精品体育 2.5M1080,http://39.134.176.144/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229026/index.m3u8
-NewTV精品大剧 4M1080,http://117.148.187.71/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229017/index.m3u8
-NewTV精品大剧 4M1080,http://117.148.187.75/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229713/index.m3u8
-NewTV精品纪录 4M1080,http://117.148.187.14/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229707/index.m3u8
-NewTV精品纪录 4M1080,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229013/index.m3u8
-NewTV金牌综艺 4M1080,http://117.148.187.52/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229704/index.m3u8
-NewTV金牌综艺 4M1080,http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229002/index.m3u8
+NewTV爱情喜剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225748/index.m3u8
+NewTV超级电视剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225765/index.m3u8
+NewTV超级电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225766/index.m3u8
+NewTV超级体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225648/index.m3u8
+NewTV超级综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225768/index.m3u8
+NewTV潮妈辣婆,http://39.135.138.60:18890/PLTV/88888910/224/3221225708/index.m3u8
+NewTV动画王国,http://223.110.245.161/ott.js.chinamobile.com/PLTV/3/224/3221225555/index.m3u8
+NewTV动作电影,http://39.135.138.60:18890/PLTV/88888910/224/3221225671/index.m3u8
+NewTV古装剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225678/index.m3u8
+NewTV广东频道,http://39.135.138.60:18890/PLTV/88888910/224/3221226185/index.m3u8
+NewTV广西频道,http://39.135.138.60:18890/PLTV/88888910/224/3221226186/index.m3u8
+NewTV海外剧场 HD,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226325/1.m3u8
+NewTV家庭剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225713/index.m3u8
+NewTV健康有约,http://39.135.138.60:18890/PLTV/88888910/224/3221225666/index.m3u8
+NewTV江西频道,http://39.135.138.60:18890/PLTV/88888910/224/3221225979/index.m3u8
+NewTV金牌综艺,http://39.135.138.60:18890/PLTV/88888910/224/3221225711/index.m3u8
+NewTV惊悚悬疑,http://39.135.138.60:18890/PLTV/88888910/224/3221225717/index.m3u8
+NewTV精品大剧,http://39.135.138.60:18890/PLTV/88888910/224/3221225714/index.m3u8
+NewTV精品纪录,http://39.135.138.60:18890/PLTV/88888910/224/3221225710/index.m3u8
+NewTV精品体育,http://39.135.138.60:18890/PLTV/88888910/224/3221225709/index.m3u8
+NewTV军旅剧场,http://39.135.138.60:18890/PLTV/88888910/224/3221225669/index.m3u8
+NewTV军事评论,http://39.135.138.60:18890/PLTV/88888910/224/3221225757/index.m3u8
+NewTV明星大片 HD,http://otttv.bj.chinamobile.com/TVOD/88888888/224/3221226425/1.m3u8
+NewTV农业致富,http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.m3u8
+NewTV山东频道,http://39.135.138.60:18890/PLTV/88888910/224/3221226184/index.m3u8
+NewTV四川频道,http://39.135.138.60:18890/PLTV/88888910/224/3221226187/index.m3u8
+NewTV武博世界,http://39.135.138.60:18890/PLTV/88888910/224/3221225656/index.m3u8
+NewTV炫舞未来,http://39.135.138.60:18890/PLTV/88888910/224/3221225707/index.m3u8
+NewTV云南频道,http://39.135.138.60:18890/PLTV/88888910/224/3221226188/index.m3u8
+NewTV中国功夫,http://39.135.138.60:18890/PLTV/88888910/224/3221225660/index.m3u8
 
 CIBN,#genre#
 CIBN炫佳动漫,https://live.elibei.com/tv/channel/cibn?id=0
