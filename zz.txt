@@ -18,6 +18,18 @@ CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14少儿,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15音乐,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
+怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+央视精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 
 上海,#genre#
 东方卫视,http://112.132.209.46/liveplay-kk.rtxapp.com/live/program/live/hddfws/4000000/mnf.m3u8 
@@ -106,7 +118,12 @@ TVBS欢乐,http://60.251.59.179:8520/xoxo.m3u8
 东森综合,http://60.251.59.179:8518/xoxo.m3u8
 东森戏剧,http://60.251.59.179:8519/xoxo.m3u8
 东森幼幼,http://60.251.59.179:8506/xoxo.m3u8
+东森超视,rtmp://59.124.75.153:1935/sat/tv771
 TLC,http://60.251.59.179:8504/xoxo.m3u8
+台视,rtmp://59.124.75.153/sat/tv071
+华视,rtmp://59.124.75.153/sat/tv111
+中视,rtmp://59.124.75.153/sat/tv091
+
 
 iHOT频道,#genre#
 iHot爱喜剧 8M1080,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
@@ -244,7 +261,19 @@ best电影2,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjh
 电影爱情大片,http://dl.shanxiyaxing.com/优酷.php?id=8020411
 科幻电影,http://dl.shanxiyaxing.com/优酷.php?id=8019682
 YY電影,http://106.54.30.243/dl/YY.php?t=35133142
-
+影视1,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226741/index.m3u8
+影视2,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226736/index.m3u8
+影视3,http://39.135.230.87/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
+影视5,http://39.135.230.86ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
+影视4,http://39.135.230.82/ott.fj.chinamobile.com/PLTV/88888888/224/3221226754/index.m3u8
+影视5,http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221226732/index.m3u8
+影视6,http://39.135.230.86/ott.fj.chinamobile.com/PLTV/88888888/224/3221226712/index.m3u8
+影视7,http://39.135.230.80/ott.fj.chinamobile.com/PLTV/88888888/224/3221226743/index.m3u8
+影视8,http://112.5.223.39/ott.fj.chinamobile.com/PLTV/88888888/224/3221227045/index.m3u8
+影视9,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+影视8,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
+影视9,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
+影视10,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
 
 18+_111,#genre#
 HOT,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
