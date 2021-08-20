@@ -104,7 +104,7 @@ BANG4,http://ott3.gearhostpreview.com/xxav.php?id=198
 brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
 brazze2,http://ott3.gearhostpreview.com/xxav.php?id=195
 
-ADULT IPTV GAY,http://ott3.gearhostpreview.com/xxav.php?id=209
+
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=193
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=199
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=256
@@ -142,7 +142,7 @@ ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=309
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=312
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=314
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=316
-FASTBOYS GAY,http://ott3.gearhostpreview.com/xxav.php?id=208
+
 
 ?11,http://ott3.gearhostpreview.com/xxav.php?id=212
 ?26,http://ott3.gearhostpreview.com/xxav.php?id=258
