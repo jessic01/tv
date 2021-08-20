@@ -105,8 +105,8 @@ FOX動作,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 动物星球,http://60.251.59.179:8503/xoxo.m3u8
 BBC Earth HD,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-Natgeowild,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-NatGeogpeople,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+地理野生,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+地理悠人,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
 Discovery eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
 TVBS高清,http://60.251.59.179:8512/xoxo.m3u8
 TVBS新闻,http://60.251.59.179:8513/xoxo.m3u8
