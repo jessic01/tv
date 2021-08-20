@@ -101,6 +101,7 @@ FOX動作,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
 亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
 美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
 亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+国家地理,http://60.251.59.179:8502/xoxo.m3u8
 动物星球,http://60.251.59.179:8503/xoxo.m3u8
 BBC Earth HD,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
 BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
