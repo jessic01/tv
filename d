@@ -6,7 +6,7 @@ BABES TV,http://ott3.gearhostpreview.com/xxav.php?id=216
 BANG U,http://ott3.gearhostpreview.com/xxav.php?id=255
 BARELY LEGAL TV,http://ott3.gearhostpreview.com/xxav.php?id=261
 BEATE UHSE TV,http://ott3.gearhostpreview.com/xxav.php?id=264
-blackd,http://ott3.gearhostpreview.com/xxav.php?id=194
+BANG BROS,http://ott3.gearhostpreview.com/xxav.php?id=194
 BLAKAN EROCIT HD,http://ott3.gearhostpreview.com/xxav.php?id=304
 BLUE HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=260
 BLUS HUSTLER,http://ott3.gearhostpreview.com/xxav.php?id=201
@@ -55,7 +55,7 @@ PASSIONXXX,http://ott3.gearhostpreview.com/xxav.php?id=179
 PENTHOUSE GOLD,http://ott3.gearhostpreview.com/xxav.php?id=297
 PENTHOUSE QUICKIES,http://ott3.gearhostpreview.com/xxav.php?id=173
 PENTTHOUSE GOLD,http://ott3.gearhostpreview.com/xxav.php?id=265
-PETHOUSE GLOD,http://ott3.gearhostpreview.com/xxav.php?id=235
+
 PINK CLUB,http://ott3.gearhostpreview.com/xxav.php?id=182
 PINK EROTIC 1,http://ott3.gearhostpreview.com/xxav.php?id=237
 PINK EROTIC 2,http://ott3.gearhostpreview.com/xxav.php?id=238
@@ -66,7 +66,7 @@ PINK EROTIC 6,http://ott3.gearhostpreview.com/xxav.php?id=242
 PINK EROTIC 7,http://ott3.gearhostpreview.com/xxav.php?id=243
 PINK EROTIC 8,http://ott3.gearhostpreview.com/xxav.php?id=244
 PLAY BOY,http://ott3.gearhostpreview.com/xxav.php?id=170
-PLAY HOUSE,http://ott3.gearhostpreview.com/xxav.php?id=250
+
 PRIVATE HD (Italia),http://ott3.gearhostpreview.com/xxav.php?id=176
 PRIVATE,http://ott3.gearhostpreview.com/xxav.php?id=257
 PRIVATE,http://ott3.gearhostpreview.com/xxav.php?id=308
@@ -100,6 +100,8 @@ BANG1,http://ott3.gearhostpreview.com/xxav.php?id=271
 BANG2,http://ott3.gearhostpreview.com/xxav.php?id=310
 BANG3,http://ott3.gearhostpreview.com/xxav.php?id=313
 BANG4,http://ott3.gearhostpreview.com/xxav.php?id=198
+BANG5,http://ott3.gearhostpreview.com/xxav.php?id=250
+BANG6,http://ott3.gearhostpreview.com/xxav.php?id=235
 
 brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
 brazze2,http://ott3.gearhostpreview.com/xxav.php?id=195
@@ -122,7 +124,7 @@ ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=280
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=281
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=282
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=283
-ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=284
+
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=285
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=286
 ADULT IPTV,http://ott3.gearhostpreview.com/xxav.php?id=287
@@ -228,7 +230,13 @@ BLACK TV,http://my.streamerstv.com:25461/Andy/Andy/2826
 5,#genre# 
 (Adult) +18 Hot_Club 2,http://41.231.44.20:80/tolgax1x/tolgax1x/2126
 (Adult) +18 Hot_Club 3,http://41.231.44.20:80/tolgax1x/tolgax1x/2530
+(Adult) +18 Hot_Club 4,http://41.231.44.20:80/tolgax1x/tolgax1x/1392
 (Adult) +18 Hot_Club 5,http://41.231.44.20:80/tolgax1x/tolgax1x/2062
+(Adult) +18 Hot_Club 6,http://41.231.44.20:80/tolgax1x/tolgax1x/606
+(Adult) +18 Hot_Club 7,http://41.231.44.20:80/tolgax1x/tolgax1x/607
+(Adult) +18 Hot_Club 8,http://41.231.44.20:80/tolgax1x/tolgax1x/608
+(Adult) +18 Hot_Club 9,http://41.231.44.20:80/tolgax1x/tolgax1x/609
+(Adult) +18 Hot_Club 10,http://41.231.44.20:80/tolgax1x/tolgax1x/610
 (Adult) +18 Hot_Club 11,http://41.231.44.20:80/tolgax1x/tolgax1x/2063
 (Adult) +18 Hot_Club 12,http://41.231.44.20:80/tolgax1x/tolgax1x/3213
 (Adult) +18 Hot_Club 13,http://41.231.44.20:80/tolgax1x/tolgax1x/3214
@@ -239,12 +247,8 @@ BLACK TV,http://my.streamerstv.com:25461/Andy/Andy/2826
 (Adult) +18 Hot_Club 18,http://41.231.44.20:80/tolgax1x/tolgax1x/3535
 (Adult) +18 Hot_Club 19,http://41.231.44.20:80/tolgax1x/tolgax1x/3536
 (Adult) +18 Hot_Club 20,http://41.231.44.20:80/tolgax1x/tolgax1x/3537
-(Adult) +18 Hot_Club 6,http://41.231.44.20:80/tolgax1x/tolgax1x/606
-(Adult) +18 Hot_Club 7,http://41.231.44.20:80/tolgax1x/tolgax1x/607
-(Adult) +18 Hot_Club 8,http://41.231.44.20:80/tolgax1x/tolgax1x/608
-(Adult) +18 Hot_Club 9,http://41.231.44.20:80/tolgax1x/tolgax1x/609
-(Adult) +18 Hot_Club 10,http://41.231.44.20:80/tolgax1x/tolgax1x/610
-(Adult) +18 Hot_Club 4,http://41.231.44.20:80/tolgax1x/tolgax1x/1392
+
+
 (Adult) MEGA XXX,http://41.231.44.20:80/tolgax1x/tolgax1x/7224
 (Adult) MEGA XXX 2,http://41.231.44.20:80/tolgax1x/tolgax1x/7225
 (Adult) MEGA XXX 3,http://41.231.44.20:80/tolgax1x/tolgax1x/7226
