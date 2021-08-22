@@ -1,7 +1,6 @@
 1,#genre# 
 ALL BLACKX,http://ott3.gearhostpreview.com/xxav.php?id=172
 ANA,http://ott3.gearhostpreview.com/xxav.php?id=188
-BABES PURE,http://ott3.gearhostpreview.com/xxav.php?id=298
 BABES TV,http://ott3.gearhostpreview.com/xxav.php?id=216
 BANG U,http://ott3.gearhostpreview.com/xxav.php?id=255
 BARELY LEGAL TV,http://ott3.gearhostpreview.com/xxav.php?id=261
@@ -53,8 +52,9 @@ OLDTIMER,http://ott3.gearhostpreview.com/xxav.php?id=247
 PASSIEXXX,http://ott3.gearhostpreview.com/xxav.php?id=225
 PASSIONXXX,http://ott3.gearhostpreview.com/xxav.php?id=179
 PENTHOUSE GOLD,http://ott3.gearhostpreview.com/xxav.php?id=297
+PENTHOUSE GOLD,http://ott3.gearhostpreview.com/xxav.php?id=265
 PENTHOUSE QUICKIES,http://ott3.gearhostpreview.com/xxav.php?id=173
-PENTTHOUSE GOLD,http://ott3.gearhostpreview.com/xxav.php?id=265
+
 
 PINK CLUB,http://ott3.gearhostpreview.com/xxav.php?id=182
 PINK EROTIC 1,http://ott3.gearhostpreview.com/xxav.php?id=237
@@ -102,6 +102,7 @@ BANG3,http://ott3.gearhostpreview.com/xxav.php?id=313
 BANG4,http://ott3.gearhostpreview.com/xxav.php?id=198
 BANG5,http://ott3.gearhostpreview.com/xxav.php?id=250
 BANG6,http://ott3.gearhostpreview.com/xxav.php?id=235
+BANG7,http://ott3.gearhostpreview.com/xxav.php?id=298
 
 brazze1,http://ott3.gearhostpreview.com/xxav.php?id=187
 brazze2,http://ott3.gearhostpreview.com/xxav.php?id=195
@@ -371,8 +372,8 @@ Nubiles TV HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6238/index.m3u8
 ox-ax HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6239/index.m3u8
 Penthouse Gold HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5011/index.m3u8
 Penthouse Gold HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5012/index.m3u8
-阁楼Quickies HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5013/index.m3u8
-抖电视,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/1073/index.m3u8
+Penthouse Quickies HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/5013/index.m3u8
+Penthouse Passion HD,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/1073/index.m3u8
 花花公子加,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6242/index.m3u8
 私人高清,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/6245/index.m3u8
 私人电视,http://d9af5a60.edmonst.net/iptv/N8RG6LD442U365/243/index.m3u8
