@@ -942,7 +942,7 @@
                 {
                     "name": "东方卫视",
                     "urls": [     
-                         "http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8"               
+                         "http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8",               
                          "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226237/1.m3u8",
                          "http://39.134.135.126/otttv.bj.chinamobile.com/TVOD/88888888/224/3221226364/1.m3u8",
                          "http://111.40.196.9/PLTV/88888888/224/3221225507/index.m3u8",
