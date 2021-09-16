@@ -452,10 +452,10 @@
             "categories": []
         },
         {
-            "key": "速度资源",
-            "name": "速度资源",
+            "key": "环亚资源",
+            "name": "环亚资源",
             "type": 0,
-            "api": "http://www.ggmmzy.com:9999/inc/xml",
+            "api": "http://wmcj8.com/inc/sapi.php",
             "playUrl": "",
             "categories": []
         },
