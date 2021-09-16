@@ -18,62 +18,80 @@ CCTV-13新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 CCTV-14少儿,http://39.135.138.59:18890/PLTV/88888910/224/3221225639/index.m3u8
 CCTV-15音乐,http://39.135.138.59:18890/PLTV/88888910/224/3221225641/index.m3u8
 CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/index.m3u8
+怀旧剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+风云音乐,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+兵器科技,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+第一剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+电视指南,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226120/1/index.m3u8?fmt=ts2hls
+风云剧场,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226107/1/index.m3u8?fmt=ts2hls
+风云足球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226153/1/index.m3u8?fmt=ts2hls
+高尔夫网球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+女性时尚,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+世界地理,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+央视精品,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+央视台球,http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
 
 
 
 
 
 $c_start上海$c_end
-东方卫视,http://140.207.241.3:8080/live/program/live/hddfws/4000000/mnf.m3u8 
-上海新闻综合HD,http://140.207.241.3:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
-东方影视HD,http://140.207.241.3:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
-上海都市HD,http://140.207.241.3:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
-上海纪实人文HD,http://140.207.241.3:8080/live/program/live/jspdhd/4000000/mnf.m3u8
-上海ICSHD,http://140.207.241.3:8080/live/program/live/wypdhd/4000000/mnf.m3u8
-都市剧场HD,http://140.207.241.3:8080/live/program/live/dsjchd/4000000/mnf.m3u8
-生活时尚HD,http://140.207.241.3:8080/live/program/live/shsshd/4000000/mnf.m3u8
-五星体育HD,http://140.207.241.3:8080/live/program/live/ssty/4000000/mnf.m3u8 
-劲爆体育HD,http://140.207.241.3:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
-极速汽车HD,http://140.207.241.3:8080/live/program/live/jsqchd/4000000/mnf.m3u8
-第一财经HD,http://140.207.241.3:8080/live/program/live/dycjhd/4000000/mnf.m3u8
-哈哈炫动HD,http://140.207.241.3:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
-欢笑剧场HD,http://140.207.241.3:8080/live/program/live/hxjchd/4000000/mnf.m3u8
-动漫秀场HD,http://140.207.241.3:8080/live/program/live/dmxchd/4000000/mnf.m3u8
-新视觉HD,http://140.207.241.3:8080/live/program/live/xsjhd/4000000/mnf.m3u8
-游戏风云HD,http://140.207.241.3:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+东方卫视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8 
+上海新闻综合,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xwzhhd/4000000/mnf.m3u8
+东方影视,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjpdhd/4000000/mnf.m3u8
+上海都市,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ylpdhd/4000000/mnf.m3u8
+上海纪实人文,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jspdhd/4000000/mnf.m3u8
+上海ICS,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/wypdhd/4000000/mnf.m3u8
+都市剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dsjchd/4000000/mnf.m3u8
+生活时尚,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/shsshd/4000000/mnf.m3u8
+五星体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/ssty/4000000/mnf.m3u8 
+劲爆体育,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jbtyhd/4000000/mnf.m3u8
+极速汽车,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/jsqchd/4000000/mnf.m3u8
+第一财经,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dycjhd/4000000/mnf.m3u8
+哈哈炫动,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hhxdhd/4000000/mnf.m3u8
+欢笑剧场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hxjchd/4000000/mnf.m3u8
+动漫秀场,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dmxchd/4000000/mnf.m3u8
+新视觉,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/xsjhd/4000000/mnf.m3u8
+游戏风云,http://shbu.live.bestvcdn.com.cn:8080/live/program/live/yxfyhd/4000000/mnf.m3u8
+
 
 $c_start卫视$c_end
-天津卫视,http://ivi.bupt.edu.cn/hls/tjhd.m3u8
-北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
-东方卫视,http://140.207.241.3:8080/live/program/live/hddfws/4000000/mnf.m3u8 
-重庆卫视,http://ivi.bupt.edu.cn/hls/cqhd.m3u8
-黑龙江卫视,http://ivi.bupt.edu.cn/hls/hljhd.m3u8
-辽宁卫视,http://ivi.bupt.edu.cn/hls/lnhd.m3u8
-河北卫视,http://ivi.bupt.edu.cn/hls/hebhd.m3u8
-河南卫视,http://ivi.bupt.edu.cn/hls/hnhd.m3u8
-山东卫视,http://ivi.bupt.edu.cn/hls/sdhd.m3u8
-安徽卫视,http://ivi.bupt.edu.cn/hls/ahhd.m3u8
-湖北卫视,http://ivi.bupt.edu.cn/hls/hbhd.m3u8
-湖南卫视,http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-江西卫视,http://ivi.bupt.edu.cn/hls/jxhd.m3u8
-江苏卫视,http://ivi.bupt.edu.cn/hls/jshd.m3u8
-浙江卫视,http://ivi.bupt.edu.cn/hls/zjhd.m3u8
-东南卫视,http://ivi.bupt.edu.cn/hls/dnhd.m3u8
-广东卫视,http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-深圳卫视,http://ivi.bupt.edu.cn/hls/szhd.m3u8
-四川卫视,http://ivi.bupt.edu.cn/hls/schd.m3u8
-吉林卫视,http://ivi.bupt.edu.cn/hls/jlhd.m3u8
-广西卫视,http://ivi.bupt.edu.cn/hls/gxhd.m3u8
-海南卫视,http://ivi.bupt.edu.cn/hls/lyhd.m3u8
-贵州卫视,http://ivi.bupt.edu.cn/hls/gzhd.m3u8
-擂台，http://121.12.115.14/tx.hls.huya.com/src/1099531728893-1099531728893-86333640128069632-2199063581242-10057-A-0-1_2000.m3u8
-凤凰卫视资讯台,http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
-凤凰卫视中文台,http://111.13.42.10/PLTV/88888888/224/3221225942/1.m3u8#http://223.82.250.72/live/fhchinese/1.m3u8
-求索动物 8M1080,http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
-求索生活 8M1080,http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
-求索科学 8M1080,http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
-求索纪录 8M1080,http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
 
+江蘇衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225743/index.m3u8
+浙江衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225744/index.m3u8
+湖南衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225745/index.m3u8
+北京衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225673/index.m3u8
+東方衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225658/index.m3u8
+山西衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225730/index.m3u8
+山東衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
+天津衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225739/index.m3u8
+四川衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225733/index.m3u8
+甘肅衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
+吉林衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
+安徽衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225737/index.m3u8
+江西衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
+東南衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+河北衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
+青海衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225727/index.m3u8
+重慶衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+海南衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225722/index.m3u8
+陜西衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225729/index.m3u8
+深圳衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225741/index.m3u8
+湖北衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225740/index.m3u8
+貴州衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225728/index.m3u8
+雲南衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
+新疆衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225725/index.m3u8
+寧夏衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225726/index.m3u8
+廣西衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
+廣東衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
+遼寧衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225735/index.m3u8
+純享4K,http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+內蒙古衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
+黑龍江衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8
+
+凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
+凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
+凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
 $c_startIHOT$c_end
 iHot爱喜剧 8M1080,http://39.134.176.159/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230022/01.m3u8?fmt=ts2hls
@@ -198,324 +216,246 @@ CIBN嗨播9,https://live.elibei.com/tv/channel/cibn?id=44
 CIBN嗨播10,https://live.elibei.com/tv/channel/cibn?id=45
 CIBN新知,https://live.elibei.com/tv/channel/cibn?id=46
 
-$c_start电影频道$c_end
-CHC高清电影,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/01.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/01.m3u8
-CHC动作电影,http://125.210.152.18:9090/live/DZDYHD_H265.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/01.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/01.m3u8
-CHC家庭影院,http://125.210.152.18:9090/live/JTYYHD_H265.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/01.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/01.m3u8
-黑莓动画 4M1080,http://117.148.187.43/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229675/index.m3u8
-黑莓动画 4M1080,http://117.148.187.51/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228998/index.m3u8
-黑莓电影 4M1080,http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229734/index.m3u8
-黑莓电影 4M1080,http://117.148.187.85/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229010/index.m3u8
-黑莓电竞 4M1080,http://117.148.187.45/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229678/index.m3u8
-黑莓电竞 4M1080,http://117.148.187.49/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229059/index.m3u8
-私人影院2,http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
-私人影院3,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
-私人影院4,http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_2000p.flv?uuid=
-终极影院,http://pull.kktv8.com/livekktv/111536805.flv
-邵氏老电影,http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-kk金马影院,http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-kk开心影院,http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-best电影1,http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-best电影2,http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-百视通BEST-4K,http://117.148.187.46/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
-纯享4K,http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
-百事4K频道,http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
-爱上4K频道,http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-电影HD,http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8 
-电影动作大片,http://dl.shanxiyaxing.com/优酷.php?id=8020409
-电影喜剧大片,http://dl.shanxiyaxing.com/优酷.php?id=8020410
-电影爱情大片,http://dl.shanxiyaxing.com/优酷.php?id=8020411
-科幻电影,http://dl.shanxiyaxing.com/优酷.php?id=8019682
-YY電影,http://106.54.30.243/dl/YY.php?t=35133142
+$c_start其他1$c_end
+
+日本J-Girl,p9p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
+西方21Member,p9p://45.86.67.154:9906/5d59934300011aba076f33001616e67f.ts
+Hustler,p9p://45.86.67.154:9906/5d4c596f00037cee078e283229e92ed5.ts
+Dorcel,p9p://45.86.67.154:9906/5d4c59d300046907078faf0e2ec1f6ef.ts
+Private,p9p://45.86.67.154:9906/5d4c5a4d0000fa2607918abd4b19d609.ts
+Redlight,p9p://45.86.67.154:9906/5d4c5ab0000b952e0793102c944e6d2b.ts
+Penthouse,p9p://45.86.67.154:9906/5d4f96c10008ca971435b1dd34df64a7.ts
+西方1ON1,p9p://45.86.67.154:9906/5d5993b80005f6e90770fd4750858dad.ts
+西方21Sextuary,p9p://45.86.67.154:9906/5d59940400084e1b077226c02d3c1976.ts
+西方葡萄牙情色,p9p://45.86.67.154:9906/5d59949e000647c707747fcbd735c60c.ts
+西方老牛吃嫩草,p9p://45.86.67.154:9906/5d5994f60008897a0775d81f36e3fcbf.ts
+日本加勒比無碼,p9p://45.86.67.154:9906/5d599556000458b807774e0d94f7b8e4.ts
+日本東京熱無碼,p9p://45.86.67.154:9906/5d59959d0008801e07786475971fae8c.ts
+韓國演藝圈潛規則,p9p://45.86.67.154:9906/5d5995e9000e2c6707798ec91bc8ba08.ts
+日本一本道無碼,p9p://45.86.67.154:9906/5d59962f00074b49077a9e76646ad3d6.ts
+日本天熱素人無碼,p9p://45.86.67.154:9906/5d59966d000e5f60077b9276d8257da1.ts
+Naughty America,p9p://45.86.67.154:9906/5d5996cc0004d512077d031d6df4719e.ts
+西方OFFICE場景,p9p://45.86.67.154:9906/5d59971a0008b9c4077e34cceff4aa94.ts
+西方黑白大戰,p9p://45.86.67.154:9906/5d59976d000162a8077f77232ed1532c.ts
+中字有碼1,p9p://45.86.67.154:9906/6088559700006d6a0f40bd67867e9505.ts
+中字有碼2,p9p://45.86.67.154:9906/608855c400097d900f416f8130c4b7e2.ts
+Happy,p9p://45.86.67.154:9906/60885889000aab420f4c4156421fedd9.ts
+上原亞衣,p9p://45.86.67.154:9906/60885714000d79780f469106a18a8398.ts
+日本PPV-1,p9p://45.86.67.154:9906/608856e1000e0e8a0f45c9f495659823.ts
+奧體金絲雀,p9p://45.86.67.154:9906/60885696000e73570f44a516ac364b5e.ts
+日本VR精品,p9p://45.86.67.154:9906/6088565d00040b9b0f43c3c4428ec6b5.ts
+潘朵拉粉紅,p9p://45.86.67.154:9906/608858600001ceac0f4b9ee9d6e55ce1.ts
+松視1,p9p://45.86.67.154:9906/608857aa0008e95c0f48d9cb3b7db140.ts
+松視2,p9p://45.86.67.154:9906/608857da0000c3a40f499335d3dd3c2f.ts
+松視3,p9p://45.86.67.154:9906/608be9db0003468b034356b14ecbccf5.ts
+蒼井空,p9p://45.86.67.154:9906/608856240007a22a0f42e6072d5e291b.ts
+驚艷電影,p9p://45.86.67.154:9906/608858090008d7df0f4a4cdf0b6a378b.ts
+彩虹E台,p9p://45.86.67.154:9906/6088577b000703e70f4821b7caacc0c8.ts
+天堂素人約啪,p9p://45.86.67.154:9906/608855f5000334d30f422d4d37584dc1.ts
+香蕉台,p9p://45.86.67.154:9906/608858b300032d400f4ce37b5b3165d3.ts
+潘多拉完美,p9p://45.86.67.154:9906/60885835000df6a60f4afa0edd0a04e6.ts
+大神貓先生,p9p://45.86.67.154:9906/6088574f000726f40f4775e0effc3aef.ts
+HOT,p9p://45.86.67.154:9906/608be96500093cd403418b48bfc325c1.ts
+彩虹電影,p9p://45.86.67.154:9906/608be98b000658ff03421efa31b1b7e3.ts
+LOOK,p9p://45.86.67.154:9906/608be9b2000514b40342b6ffdcae6771.ts
+波多野結衣,p9p://45.86.67.154:9906/6088554b000a8bdf0f3f971e47c8b07c.ts
+Heyzo無碼,p9p://45.86.67.154:9906/608bea27000c60bd034481e611c23d95.ts
+人妻斬,p9p://45.86.67.154:9906/608bea4b000e85d903450f12cb48a2ef.ts
+貓步毒藥,p9p://45.86.67.154:9906/608bea74000ea3350345af42d8d8b0a6.ts
+人妻熟女,p9p://45.86.67.154:9906/608bea960002cfd30346310ba8ab00a1.ts
+素人動畫,p9p://45.86.67.154:9906/608beab8000eeeb70346b8f59110da07.ts
+XXXAV,p9p://45.86.67.154:9906/608beae40002b5d4034761b4ed6c00f0.ts
+黑珍珠,p9p://45.86.67.154:9906/608beb520004891c03490fdc097d7e4c.ts
+色情世界,p9p://45.86.67.154:9906/608beb7600096d8803499dbcd1c788c1.ts
+人妻出軌,p9p://45.86.67.154:9906/608bec3e00060395034caa1cf343991f.ts
+阿拉伯情色,p9p://45.86.67.154:9906/608bec620007bc02034d372d176b1cdf.ts
+啄木鳥,p9p://45.86.67.154:9906/608bec97000589c3034e05a5aa2c6188.ts
+Hi Play,p9p://45.86.67.154:9906/608beb280004836603486bcab7d4e831.ts
+古川伊織,p9p://45.86.67.154:9906/608becd9000336e2034f06ddc00031d3.ts
+無碼破解,p9p://45.86.67.154:9906/608bed3c00098d4203508b344ba5ff1e.ts
+迷姦無碼,p9p://45.86.67.154:9906/608c0034000ce114039aa4ce516a1ea7.ts
+經典三級,p9p://45.86.67.154:9906/608c0057000ef9b8039b2e1056ace6eb.ts
+華男洋妞,p9p://45.86.67.154:9906/608c0090000eebf9039c0cb440ccacea.ts
+麻豆大番,p9p://45.86.67.154:9906/608c00b600071408039c9f226307f8cb.ts
+麻豆導演,p9p://45.86.67.154:9906/608c00e10007e058039d474f3d9f7f96.ts
+麻豆外番,p9p://45.86.67.154:9906/608c0103000de280039dcda8c9f55a82.ts
+麻豆台灣,p9p://45.86.67.154:9906/608c01a70005cbc903a04c36fe07e835.ts
+91老金,p9p://45.86.67.154:9906/608c01d60003609403a103308739719a.ts
+鴨總偵探,p9p://45.86.67.154:9906/608c01fd000c740003a19ddacc1c7d5f.ts
+金三角獵豔,p9p://45.86.67.154:9906/608c02220006ded803a22cf5cf1c760a.ts
+黑人幹翻天,p9p://45.86.67.154:9906/608c0247000bbce203a2bebca4cdb2c9.ts
+千人斬,p9p://45.86.67.154:9906/608c027c000c450603a38de66db6a92d.ts
+小寶尋花,p9p://45.86.67.154:9906/608c02a30002b14603a423cb81258ba5.ts
+午夜尋花,p9p://45.86.67.154:9906/608c02c80004e1aa03a4b4e26241a1bc.ts
+男爵探花,p9p://45.86.67.154:9906/608c02f80006677903a570c674c16ef7.ts
+大陸迷姦,p9p://45.86.67.154:9906/608c031d000bbb8103a602ab387ff987.ts
+SM西貢女,p9p://45.86.67.154:9906/608c034100080f6903a68e5b1f24e142.ts
+PsychopornTW,p9p://45.86.67.154:9906/608c037b0005e54c03a7705dc4f2e0d2.ts
+俄羅斯毛子,p9p://45.86.67.154:9906/608c03bd000d5ca203a8741602ffe939.ts
+美國家庭,p9p://45.86.67.154:9906/608c03e2000dff3203a904c8e2c1604e.ts
+歐美藝術,p9p://45.86.67.154:9906/608c0408000d5fc803a9990f5e1be750.ts
+果凍傳媒,p9p://45.86.67.154:9906/608c0435000affe303aa483b0c83ac05.ts
 
 
 
 
-$c_start香港(备用)$c_end
+$c_start其他2$c_end
+
+HOT,p8p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
+潘多拉完美,p8p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+极限电影,p8p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+LOOK HD,p8p://crfccs.kingh888.com:16666/60ab27300007c5930e60cbad188a91bd
+惊艳台,p8p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+香蕉台,p8p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+松视2台,p8p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+松视1台,p8p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1
+彩虹E台,p8p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹电影,p8p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+Cunnilingus,p8p://crfccs.kingh888.com:16666/60ab70b60001c9880f7ffd95bace24f3
+Blonde,p8p://crfccs.kingh888.com:16666/60ab70a40002d72f0f7fb78aefd6892e
+Solo girl,p8p://crfccs.kingh888.com:16666/60ab7092000628430f7f721440747700
+Couples,p8p://crfccs.kingh888.com:16666/60ab70820006339d0f7f3396eb1d08dd
+Big Butt,p8p://crfccs.kingh888.com:16666/60ab7074000469010f7efc7173919dd8
+Creampie,p8p://crfccs.kingh888.com:16666/60ab7064000574aa0f7ebe36edd56f5d
+Interracial,p8p://crfccs.kingh888.com:16666/60ab7047000494df0f7e4cb4bbaee6ba
+Masturbation,p8p://crfccs.kingh888.com:16666/60ab7034000aaf730f7e040c1a43198e
+BBW,p8p://crfccs.kingh888.com:16666/60ab7022000573560f7dbc65c7a7c516
+Young/Old,p8p://crfccs.kingh888.com:16666/60ab70110002dad70f7d795342d4455b
+Public,p8p://crfccs.kingh888.com:16666/60ab6ffb000a2d7f0f7d254314764200
+Orgy,p8p://crfccs.kingh888.com:16666/60ab6fec00082ce30f7cea283a526c13
+German,p8p://crfccs.kingh888.com:16666/60ab6fda0007e3e20f7ca3c5f3e96f00
+Shemale,p8p://crfccs.kingh888.com:16666/60ab6fc800082d9b0f7c5d88192b05b6
+Amateur,p8p://crfccs.kingh888.com:16666/60ab6fb6000b8a650f7c1814ba6d0807
+Big Tits,p8p://crfccs.kingh888.com:16666/60ab6fa60009ec320f7bd92abf911f6f
+Threesome,p8p://crfccs.kingh888.com:16666/60ab6f950004e0220f7b9578b29fcb6e
+Teen,p8p://crfccs.kingh888.com:16666/60ab6f77000386550f7b1fef3ff04705
+Strip,p8p://crfccs.kingh888.com:16666/60ab6f630008847b0f7ad31644e78979
+Milf,p8p://crfccs.kingh888.com:16666/60ab6f5300037e900f7a934df938ee61
+Mature,p8p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416
+Latina,p8p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1
+HD,p8p://crfccs.kingh888.com:16666/60ab6efa000787ad0f7938ae568e03ff
+Hardcore,p8p://crfccs.kingh888.com:16666/60ab6eea000b90780f78fb362da5bde6
+Fetish,p8p://crfccs.kingh888.com:16666/60ab6ed70002dde40f78aec43aa651ca
+Erotic,p8p://crfccs.kingh888.com:16666/60ab6ec40007e3700f7865d5af2800d9
+Ebony,p8p://crfccs.kingh888.com:16666/60ab6ea5000dc3580f77ee3eb0a503fc
+Blowjob,p8p://crfccs.kingh888.com:16666/60ab6e880004cfa20f777aabfe62cb07
+Asian,p8p://crfccs.kingh888.com:16666/60ab6e7a0001c5a50f7743347174894b
+Anal,p8p://crfccs.kingh888.com:16666/60ab6e6a0006200a0f7705d1ab2c12fd
 
 
+$c_start其他3$c_end
 
-鳳凰中文台,mitv://147.135.39.171:9906/5f325761000620a283ecc2c8321a7d61&link=123
-鳳凰資訊台,mitv://147.135.39.171:9906/5f32576100041fba83ecc23b4fe71c96&link=123
-鳳凰香港台,mitv://147.135.39.171:9906/5f3257610007e53983ecc3354ee27db6&link=123
-鳳凰電影台,mitv://147.135.39.171:9906/5e9b4e750002f3b7b43f77c81486506f.ts
-HKC 18,mitv://147.135.39.171:9906/5ea539e900018755daff46da4f370362.ts
-HKC 603,mitv://147.135.39.171:9906/5ef4ecd300091a2f1252b72006d82fc2.ts
-HKC財經資訊台,mitv://147.135.39.171:9906/5ead19e0000c2946f9c238242b751a54.ts
-HKC體育台,mitv://147.135.39.171:9906/5ea539e900076757daff48514c4e1e96.ts
-HKC新聞台,mitv://147.135.39.171:9906/5e9e83070000f800c0c4d18b692d70da.ts
-HKC直播新聞台,mitv://147.135.39.171:9906/5ef4ecd400015d191252b914239a34f8.ts
-HKC綜合娛樂台,mitv://147.135.39.171:9906/5e73be6500011d2f19b464df5ab64e5b.ts
-HKC電影台,mitv://147.135.39.171:9906/5e9e8065000ee629c0ba8c55779a5269.ts
-HKC beIN SPORTS1,mitv://147.135.39.171:9906/5ea28d9a0005c385d08e210c66e47615.ts
-HKC beIN SPORTS2,mitv://147.135.39.171:9906/5ea28d9a000cfc2bd08e22e03ebd0c76.ts
-HKC Sports Plus 1,mitv://147.135.39.171:9906/5ea539ea00007ceadaff4a743a176aa1.ts
-HKC Sports Plus 2,mitv://147.135.39.171:9906/5ef4ecd40007934c1252baaa5c8b564e.ts
-TVB J2,mitv://147.135.39.171:9906/5defdab5000c62a56ea0b90a0b532a03.ts
-TVB翡翠台(備),mitv://147.135.39.171:9906/5e9e8063000969abc0ba831e7a0351c1.ts
-TVB翡翠台,mitv://147.135.39.171:9906/5ea51995000ec10eda81021569fa53dc.ts
-TVB明珠台,mitv://147.135.39.171:9906/5defe1400004ed256eba461e3fa17ad5.ts
-TVB星河,mitv://147.135.39.171:9906/5ea53a9a000d39fddb01fd3f19aa567e.ts
-
-
-
-無綫財經資訊台,mitv://147.135.39.171:9906/5e975a520003b3a4a4cdbd1e7a4a258e.ts
-無綫新聞台(備),mitv://147.135.39.171:9906/5d9a2df6000c88299cbecee47d987ebd.ts
-無綫新聞台,mitv://147.135.39.171:9906/5ea2946b00081730d0a8c200646857fd.ts
-ViuTV,mitv://147.135.39.171:9906/5d9a2e7b000d28609cc0d68b68a05dd1.ts
-ViuTVsix,mitv://147.135.39.171:9906/5d9a2e7c0000af799cc0d74673341867.ts
-RTHK31,mitv://147.135.39.171:9906/5e9fd724000764a5c5f564790eb03709.ts
-RTHK32,mitv://147.135.39.171:9906/5e9fd724000d1fc7c5f565f078712f85.ts
-澳門蓮花,mitv://147.135.39.171:9906/5eb29ebb000185ac0f512ced64dc1bd4.ts
-香港開電視,mitv://147.135.39.171:9906/5e9fd74f000449a9c5f60ba621430299.ts
-新視覺HD,mitv://147.135.39.171:9906/5e9b4b120003d450b4323d3f070d7242.ts
-光耀才財經台,mitv://147.135.39.171:9906/5e8f5595000714bc857b29ee50a11cff.ts
-CHANNEL NEWSASIA,mitv://147.135.39.171:9906/5e9e806300039955c0ba819751806e57.ts
-Mediacorp5,mitv://147.135.39.171:9906/5ea29be000056759d0c5e25c6faf4d5e.ts
-Mediacorp8,mitv://147.135.39.171:9906/5ea29be0000e37c8d0c5e49e1d7e2fe9.ts
-MediacorpU,mitv://147.135.39.171:9906/5ea29be100062894d0c5e6736df27aa0.ts
-now sports 1,mitv://147.135.39.171:9906/5ed0ef0f000b4f0785bb2c6930870d48.ts
-now sports 2,mitv://147.135.39.171:9906/5ed0ef0f0009908b85bb2bfb19e9442c.ts
-now新聞台,mitv://147.135.39.171:9906/5e3e2d4d00034f186dbafcc93ae46ad8.ts
-Suria,mitv://147.135.39.171:9906/5ea53aef000da536db0349674f85730c.ts
-Vasantham TV,mitv://147.135.39.171:9906/5ea53b31000978a0db044a1d66cb6b06.ts
-
-$c_start台湾(备用)$c_end
-
-民視HD,mitv://147.135.39.171:9906/5ea4852c00050ce0d83d456d45c920f7.ts
-民視新聞台,mitv://147.135.39.171:9906/5ea522940007279ddaa4243912175fe1.ts
-台視HD,mitv://147.135.39.171:9906/5e59fad5000832893b0c1fb83c050635.ts
-中視HD,mitv://147.135.39.171:9906/5e7cf2610003655a3da780b8383c7868.ts
-
-華視HD,mitv://147.135.39.171:9906/5e7cf2610009c2c53da7824e77346905.ts
-公視HD,mitv://147.135.39.171:9906/5e9e760d00082ccec09222e0768b3cba.ts
-八大綜合台,mitv://147.135.39.171:9906/5e9e749a000d3deac08c7af061bf4966.ts
-八大娛樂台,mitv://147.135.39.171:9906/5e9e749b00099094c08c7dde5ba80b06.ts
-八大第一台,mitv://147.135.39.171:9906/5e9e749b00040aaac08c7c7774062e4f.ts
-八大戲劇台,mitv://147.135.39.171:9906/5e9e749a0007249ec08c795a648451d4.ts
-
-東森新聞,mitv://147.135.39.171:9906/5eb29b85000e2d4e0f44a539793f250c.ts
-東森財經新聞,mitv://147.135.39.171:9906/5eec88f90004b79cf18c98952f812d55.ts
-東森亞洲,mitv://147.135.39.171:9906/5ede6859000be2b3ba5d17d529f60875.ts
-東森綜合,mitv://147.135.39.171:9906/5eb29b860006eefb0f44a74c7d3950ab.ts
-東森電影,mitv://147.135.39.171:9906/5defe13e0007d9d56eba3f090a5f5661.ts
-東森洋片,mitv://147.135.39.171:9906/5ea13baf000efb4ecb66256578d5166f.ts
-東森戲劇,mitv://147.135.39.171:9906/5eb29b86000c614d0f44a8b302d67a7e.ts
-東森超視,mitv://147.135.39.171:9906/5e7cf271000168dd3da7beac2d47191e.ts
-東森幼幼,mitv://147.135.39.171:9906/5e7cf98d000118463dc383fc2a2c3dc9.ts
-三立新聞,mitv://147.135.39.171:9906/5eb29a60000cb7220f402c5343fa7df9.ts
-三立財經台,mitv://147.135.39.171:9906/5ea13bb00007ef12cb662788049d46cf.ts
-三立國際台,mitv://147.135.39.171:9906/5ea13fe00008dee7cb76834775f82877.ts
-三立台灣台,mitv://147.135.39.171:9906/5e7cf263000cf93c3da78af97f667d0c.ts
-三立都會台,mitv://147.135.39.171:9906/5e7cf98c000b22ec3dc382a41b515b90.ts
-緯來戲劇,mitv://147.135.39.171:9906/5dfb22fe0007e7e5170148dc58a73c8f.ts
-緯來綜合,mitv://147.135.39.171:9906/5e9e6e69000b4094c0744b0b13c15289.ts
-緯來電影,mitv://147.135.39.171:9906/5e9b449a00082550b418f99837b132a5.ts
-緯來育樂,mitv://147.135.39.171:9906/5e9e72fe00062f43c0862fbb1fb33e3f.ts
-緯來日本,mitv://147.135.39.171:9906/5e9b449a0002edbbb418f850343a565d.ts
-緯來體育,mitv://147.135.39.171:9906/5e9b4499000c2343b418f6ba6f8227e4.ts
-中天新聞,mitv://147.135.39.171:9906/5eec7db90008195bf160a77f5d316f05.ts
-中天新聞(H.265),mitv://147.135.39.171:9906/5d9a3461000c5e329cd7e0cc2586313a.ts
-中天綜合,mitv://147.135.39.171:9906/5e7cf98b000f2c2a3dc37fc6663e2451.ts
-中天娛樂,mitv://147.135.39.171:9906/5defdaa0000974136ea066475c980b2d.ts
-中天亞洲台,mitv://147.135.39.171:9906/5defdaa000044ff26ea064ef7ec56d18.ts
-TVBS新聞,mitv://147.135.39.171:9906/5ea4852100052c6fd83d1a840a5e74b2.ts
-
-TVBS,mitv://147.135.39.171:9906/5ea13fd10002b905cb764718238b415e.ts
-TVBS歡樂,mitv://147.135.39.171:9906/5ea13fd1000849aacb76488073a656f2.ts
-寰宇新聞,mitv://147.135.39.171:9906/5cc68d1700042feefadeb4a262de7324.ts
-
-壹電視新聞,mitv://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts
-壹電視綜合,mitv://147.135.39.171:9906/5ee385f50006a708ce58bfde6dca70d4.ts
-
-非凡新聞,mitv://147.135.39.171:9906/5e5a0a88000184ac3b49713b638b501b.ts
-
-年代新聞,mitv://147.135.39.171:9906/5defe1400000b7ea6eba450503ed45e8.ts
-星衛電影,mitv://147.135.39.171:9906/5e9b4b1300069e38b43241e231037404.ts
-
-
-衛視西片,mitv://147.135.39.171:9906/5ea1e2fc000b1e57cdf3a933489b3aee.ts
-衛視西片,mitv://147.135.39.171:9906/5e7cf2710006c39d3da7c01341645170.ts
-衛視中文,mitv://147.135.39.171:9906/5defdaa1000b1a3d6ea06a9c17f77c44.ts
-衛視卡式,mitv://147.135.39.171:9906/5ec62ecd0005c21e5bbc173f4d127405.ts
-FOX HD,mitv://147.135.39.171:9906/5ea13fe000031a3acb7681c056f53bb5.ts
-福斯動作電影,mitv://147.135.39.171:9906/5ea13fe100005a81cb7684fc6e2766c4.ts
-福斯優質影院,mitv://147.135.39.171:9906/5ea13bb0000c242fcb66289275e41d0b.ts
-福斯家庭影院,mitv://147.135.39.171:9906/5d9a33bb000a299f9cd557cf4d121c23.ts
-福斯犯罪影院,mitv://147.135.39.171:9906/5ea13bb10001df6fcb6629da1a076a80.ts
-
-
-HBO HD,mitv://147.135.39.171:9906/5e59fae3000b3dac3b0c57342fd33ba0.ts
-HBO Signature,mitv://147.135.39.171:9906/5eb3cc99000aa55e13ec5a6e1cb7093f.ts
-HBO Hits,mitv://147.135.39.171:9906/5eb3cc990005815c13ec59265dc86656.ts
-華納電視頻道,mitv://147.135.39.171:9906/5defdaa0000d7e3f6ea0675076d26f43.ts
-好萊塢電影台,mitv://147.135.39.171:9906/5e7cf98e0006ee193dc3896b4e817161.ts
-
-AXN,mitv://147.135.39.171:9906/5e7cf98f000d3ec43dc38ee9739950cb.ts
-
-
-BBC Earth,mitv://147.135.39.171:9906/5e7cf264000516d63da78cde4a2240a2.ts
-
-
-
-國家地理頻道,mitv://147.135.39.171:9906/5ea13fdf0004d36ecb767e555c896a66.ts
-國家地理頻道悠人,mitv://147.135.39.171:9906/5ea1441e000473decb87144e4b600a26.ts
-國家地理頻道野生,mitv://147.135.39.171:9906/5ea13fdf000c8069cb7680495d882a82.ts
-探索動力頻道,mitv://147.135.39.171:9906/5e9b4b11000d8f76b4323bd8404c1e97.ts
-Discovery EVE HD,mitv://147.135.39.171:9906/5ea13fe100060397cb76867304774d14.ts
-探索頻道亞洲,mitv://147.135.39.171:9906/5ea13bb1000a50e9cb662c0c47e9549f.ts
-探索頻道,mitv://147.135.39.171:9906/5ea13fde000ec14fcb767cee2fe05289.ts
-探索科學頻道,mitv://147.135.39.171:9906/5ea13fe1000b88c3cb7687db43d01a4a.ts
-動物星球,mitv://147.135.39.171:9906/5ea13bb00003dd3ccb66267f33fc00d1.ts
-歷史頻道1,mitv://147.135.39.171:9906/5d9a353100091ac79cdc6c20164369b0.ts
-歷史頻道2,mitv://147.135.39.171:9906/5d9a3718000bb2899ce3db2404476f62.ts
-
-
-
-EYE TV旅遊,mitv://147.135.39.171:9906/5eb5302a000e2110195949c1104f58d8.ts
-Food Network,mitv://147.135.39.171:9906/5d9a2611000610959c9ff6b605c1339e.ts
-TLC旅遊台,mitv://147.135.39.171:9906/5cc692b800066481faf4b217169a5a1b.tsB
-天映經典,mitv://147.135.39.171:9906/5e7cf98f00024e183dc38c1a5eb34315.ts
-天映頻道,mitv://147.135.39.171:9906/5e7cfab00001b8d03dc7f4e34dfd4368.ts
-龍祥電影,mitv://147.135.39.171:9906/5e7cf98e000cd16b3dc38ae278e073ec.ts
-美亞電影台HD,mitv://147.135.39.171:9906/5e7cf98e00020cab3dc388220eeb0f7e.ts
-美亞電影台(粵語),mitv://147.135.39.171:9906/5ea57da600045174dc07e1ce3dc61a80.ts
-CINEMAX,mitv://147.135.39.171:9906/5d9a26b0000b16229ca2651679a25739.ts
-CINEMAX,mitv://198.255.74.56:41196/600dbeb90006ac697bdb93d6a3d44027
-Ci罪案偵緝HD,mitv://147.135.39.171:9906/5e9e6e670005ae36c07441c41ce47c56.ts
-Ci罪案偵緝,mitv://198.255.74.56:41196/600dbea6000ae9747bdb4ab4a7056d24
-龍華電影,mitv://147.135.39.171:9906/5e975a5100046cd4a4cdb96549212d2b.ts
-KIX,mitv://147.135.39.171:9906/5ed1603f000d135b8775612e2a3f7c34.ts
-Thrill,mitv://147.135.39.171:9906/5ed15ffd0002a6fa87745cbf1c0f1bd0.ts
-FOX SPORTS(台灣),mitv://147.135.39.171:9906/5ee3894d000983f2ce65d05916fb74df.ts
-FOX體育台1,mitv://147.135.39.171:9906/5e5a0c21000ae2fd3b4fb144005e7ca2.ts
-FOX SPORTS 1,mitv://198.255.74.56:41196/600dbec70004ed717bdbca1311ef1d53
-FOX體育台2,mitv://147.135.39.171:9906/5e5a0c1500031eca3b4f80701a63557e.ts
-FOX體育台3,mitv://147.135.39.171:9906/5e5a0a86000b5a873b496bec12b01e3b.ts
-FOX SPORTS 3,mitv://198.255.74.56:41196/600dbec70003ebfd7bdbc9d191fd5948
-愛爾達體育1台,mitv://147.135.39.171:9906/5e7cf98c00060e963dc3815c316636de.ts
-愛爾達體育2台,mitv://147.135.39.171:9906/5e7cf264000a88743da78e456d1b6180.ts
-愛爾達體育3台,mitv://147.135.39.171:9906/5e7cf98d000729c73dc38592441f1b5a.ts
-博斯無限,mitv://147.135.39.171:9906/5defdab600015d2f6ea0ba230ef664fe.ts
-博斯高球,mitv://147.135.39.171:9906/5defe13d000eb2006eba3ce647e056da.ts
-博斯高球2,mitv://147.135.39.171:9906/5defe13e0003a4c36eba3e002cd3384a.ts
-博斯網球,mitv://147.135.39.171:9906/5defe13d0008ad4b6eba3b603e5d1ebb.ts
-博斯運動,mitv://147.135.39.171:9906/5defdab60006b85e6ea0bb7b06aa7d1f.ts
-博斯運動2,mitv://147.135.39.171:9906/5defe15200024c6d6eba8bc2352f7151.ts
-博斯魅力,mitv://147.135.39.171:9906/5ee7c0ad000474b8dede2fa57f3d1bd0.ts
-ELEVEN體育1台,mitv://147.135.39.171:9906/5eb29942000375f80f3bccc20a8f53e8.ts
-ELEVEN體育2台,mitv://147.135.39.171:9906/5eb299c800045a3d0f3dd87012f8418c.ts
-ESPN,mitv://147.135.39.171:9906/5ea1e2f400010518cdf387636039093f.ts
-WWE,mitv://147.135.39.171:9906/5e9e8306000a3ed5c0c4d0050d315c34.ts
-mio Stadium 1,mitv://147.135.39.171:9906/5d6b7e97000f0537e0d92571650c0e7a.ts
-mio Stadium 2,mitv://147.135.39.171:9906/5d761ef6000df28e0f9a40de2c3d62bb.ts
-
-BBC Lifestyle,mitv://147.135.39.171:9906/5e7cf26300079eee3da7899262bc4841.ts
-BBC WORLD NEWS,mitv://147.135.39.171:9906/5e7cf263000230893da7883a211a41d0.ts
-BBC Cbeebies(英語),mitv://147.135.39.171:9906/5dea93910008156c5a02c21b24cc6be4.ts
-
-Nick Jr.(英語),mitv://147.135.39.171:9906/5dea9391000dacc55a02c39228854fcb.ts
-Animax,mitv://147.135.39.171:9906/5d9a25ad00050d2e9c9e6fc864b540d4.ts
-Disney Junior(粵語),mitv://147.135.39.171:9906/5ece9f9a0001c4dd7cb4c8f0195f26a2.ts
-Disney XD,mitv://147.135.39.171:9906/5ece9f9a00077db97cb4ca673b8f3103.ts
-迪士尼頻道(粵語),mitv://147.135.39.171:9906/5e98a1410004fff3a9cad3045ac83cb9.ts
-迪士尼頻道,mitv://147.135.39.171:9906/5dea93920003218e5a02c4ca21f02f09.ts
-
-nickelodeon,mitv://147.135.39.171:9906/5d0e403800011a4910fbd8d44f7a61bc.ts
-CN卡通頻道,mitv://147.135.39.171:9906/5defe14000091d616eba47377b3a16c4.ts
-
-CN卡通頻道(英語),mitv://147.135.39.171:9906/5dea93910003206a5a02c0e279871b82.ts
-
-Boomerang(英語),mitv://147.135.39.171:9906/5dea9390000d3b785a02bf8a11dd08b9.ts
-
-MOMO親子台,mitv://147.135.39.171:9906/5cc68d17000c69a4fadeb6c56c456357.ts
-霹靂台灣台,mitv://147.135.39.171:9906/5eb29fdf000086880f55a14e1d6461c4.ts
-國興衛視,mitv://147.135.39.171:9906/5cc692b80007c375faf4b274502c5f68.ts
-MTV,mitv://147.135.39.171:9906/5e975a500008d0a0a4cdb69671c34c21.ts
-高點綜合台,mitv://147.135.39.171:9906/5ede79e400080386baa19dd37ef10dd6.ts
-大愛1,mitv://147.135.39.171:9906/5e6003e8000acb9e529f929c58ca20eb.ts
-大愛2,mitv://147.135.39.171:9906/5ee385f4000c2291ce58bd5d3ac82d3f.ts
-佛衛慈悲台,mitv://147.135.39.171:9906/5ede79e4000e493cbaa19f79282b2078.ts
-HUB都會台,mitv://147.135.39.171:9906/5e57771b0001c85a31397b7e7f5c427b.ts
-HUB娛家戲劇台,mitv://147.135.39.171:9906/5e57771a000a3baf313979c85a704d1c.ts
-Horse Racing 88,mitv://147.135.39.171:9906/5e5a08940003dadb3b41d0b76a253b19.ts
-ABC,mitv://147.135.39.171:9906/5ef7967a0008e8961cb97c02314900be.ts
-ABC News,mitv://147.135.39.171:9906/5eea255a000b0650e8377523487619b6.ts
-Bloomberg,mitv://147.135.39.171:9906/5defdaa10006c0ed6ea069831b9a2ab0.ts
-CBSN,mitv://147.135.39.171:9906/5eea255d000cf269e837815842dd5862.ts
-CNN,mitv://147.135.39.171:9906/5efc0848000602b02e1607f71bf1770b.ts
-CNBC,mitv://147.135.39.171:9906/5eea255e0002c094e83782a03165180c.ts
-Fox News,mitv://147.135.39.171:9906/5eec88f8000c8d8ff18c96b064502b37.ts
-HGTV,mitv://147.135.39.171:9906/5eb535c70006670d196f350514163185.ts
-DW,mitv://147.135.39.171:9906/5efb85a6000027022c17bdb0796926ff.ts
-新時代1,mitv://147.135.39.171:9906/5e9b4e7400070a19b43f74ea635a6a4b.ts
-新時代2,mitv://147.135.39.171:9906/5e9b4e74000c70b0b43f765126bb3cff.ts
-愛奇藝,mitv://147.135.39.171:9906/5e57755e00054af53132b22041d007fa.ts
-PPTV HD,mitv://147.135.39.171:9906/5eab17360001d134f1e7bbb1443657e0.ts
-NHK-G综合,mitv://147.135.39.171:9906/5f0a091b000ad08b64c964033a6c7866.ts
-NHK-E教育,mitv://147.135.39.171:9906/5f0a091b0004fc4464c9628c32df60b6.ts
-日本テレビ,mitv://147.135.39.171:9906/5f0a091a000d583964c960c7711e18c9.ts
-テレビ朝日,mitv://147.135.39.171:9906/5f0a0a67000da20b64ce759e0e5254fc.ts
-TBSテレビ,mitv://147.135.39.171:9906/5f0a0a69000badc764ce7cf16e4f7ef6.ts
-テレビ東京,mitv://147.135.39.171:9906/5f0a0919000d847d64c95cee17032f5e.ts
-フジテレビ,mitv://147.135.39.171:9906/5f0a091a0007744a64c95f401476622d.ts
-abc朝日,mitv://147.135.39.171:9906/5f0a0a680006ba4a64ce77c13ac64d8c.ts
-読売テレビ,mitv://147.135.39.171:9906/5f0a0d8f000cfa8c64dac9bf624b4af1.ts
-毎日放送,mitv://147.135.39.171:9906/5f0a0d8f0005c67764dac7db3b3e5459.ts
-関西テレビ,mitv://147.135.39.171:9906/5f0a0d8e000eb41a64dac6445f4d036e.ts
-朝日放送,mitv://147.135.39.171:9906/5f0a0d8e0008c06164dac4be170e7a3a.ts
-テレビ大阪,mitv://147.135.39.171:9906/5f0a0a68000dc1be64ce79967dce3c87.ts
-サンテレビ,mitv://147.135.39.171:9906/5f0a0d8e0001d63964dac2f952584b73.ts
-BS-1,mitv://147.135.39.171:9906/5f0a0a690004ccb764ce7b2c0f8f50aa.ts
-BSプレミアム,mitv://147.135.39.171:9906/5f0a0d8d000ac64a64dac153166063bb.ts
-BS日テレ,mitv://147.135.39.171:9906/5f0a0d8d0003dbed64dabf8e16076ef8.ts
-BS朝日,mitv://147.135.39.171:9906/5f0a0d8c000b8e3564dabda935ae303e.ts
-BS-TBS,mitv://147.135.39.171:9906/5f0a0d8c0005292f64dabc0372995a19.ts
-BSジャパン,mitv://147.135.39.171:9906/5f0a0fee000847bf64e40b9f5f0b130c.ts
-BSフジ,mitv://147.135.39.171:9906/5f0a0fee0001abc064e409e97a1c773b.ts
-WOWOWプライム,mitv://147.135.39.171:9906/5f0a0a650002fcb364ce6b1f6bbb4ead.ts
-WOWOWライブ,mitv://147.135.39.171:9906/5f0a0a65000982f364ce6cc5317462b5.ts
-WOWOWシネマ,mitv://147.135.39.171:9906/5f0a0a64000bf73f64ce697947f15185.ts
-スターチャンネル1,mitv://147.135.39.171:9906/5f0a0a640004d22864ce67a450f96f95.ts
-スターチャンネル2,mitv://147.135.39.171:9906/5f0a0d9100081d0764dad04760fe13d9.ts
-スターチャンネル3,mitv://147.135.39.171:9906/5f0a0d910001986164dacea13dcb4bb8.ts
-BSアニマックス,mitv://147.135.39.171:9906/5f0a0d90000a10eb64daccdc6f3e6f52.ts
-J sports 1,mitv://147.135.39.171:9906/5f0a0a670007ac7764ce7418540a501f.ts
-J sports 2,mitv://147.135.39.171:9906/5f0a0a66000ec12064ce720457d97d50.ts
-J sports 3,mitv://147.135.39.171:9906/5f0a0a66000805d464ce704f7abc370d.ts
-J sports 4,mitv://147.135.39.171:9906/5f0a0a6600013ae264ce6e8a42a3175c.ts
-グリーンチャンネル,mitv://147.135.39.171:9906/5f0a0d900003e69464dacb4653776ed9.ts
-スカイA sports＋,mitv://147.135.39.171:9906/5f0a0fed00096ed664e4080534846fa3.ts
-日テレG+ HD,mitv://147.135.39.171:9906/5f0a0fed00028a6d64e406402dd07c50.ts
-ゴルフネットワークHD,mitv://147.135.39.171:9906/5f0a0fec000b349364e4048a757b3a4d.ts
-時代劇専門チャンネル,mitv://147.135.39.171:9906/5f0a0fec00040f6464e402b53d536b3e.ts
-Music Japan TV,mitv://147.135.39.171:9906/5f0a0feb000cf83464e4010f305d4981.ts
-キッズステーションHD,mitv://147.135.39.171:9906/5f0a0feb00063ce364e3ff5a3edb198f.ts
-ディスカバリーチャンネル,mitv://147.135.39.171:9906/5f0a0fea000e564264e3fd856b3a5d97.ts
-ヒストリーチャンネル,mitv://147.135.39.171:9906/5f0a0fea00080c8464e3fbef41a6047c.ts
-ナショナル ジオグラフィッ,mitv://147.135.39.171:9906/5f0a0fea00010e9864e3fa2a42011c17.ts
-TBSニュースバード,mitv://147.135.39.171:9906/5f0a0fe90008224c64e3f8070efe3e3a.ts
-旅チャンネル,mitv://147.135.39.171:9906/5f0a0fe900014ede64e3f6513b971d27.ts
-Trans TV HD,mitv://147.135.39.171:9906/5ec63a960000db8e5bea1f1f456d4479.ts
-Trans 7 HD,mitv://147.135.39.171:9906/5ec63a95000af2ea5bea1dd75c637b34.ts
-Galaxy Premium,mitv://147.135.39.171:9906/5f0abba50008f5486782cea53ef56e77.ts
-IMC,mitv://147.135.39.171:9906/5f0abba6000027db6782d04b54d85e60.ts
-
+PERVMOM,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215380
+PENTHOUSE QUICKIES,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215381
+PUTALOCURA,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215382
+HUSTLER HD,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215384
+HOT HD2,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215385
+BANG BROS,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215386
+NF BUSTY,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215387
+BLUE HUSTLER,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215388
+PRIVATE HD,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215389
+CZECHSTREETS,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215390
+BRAZZERS,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215393
+EROX HD,http://l3dtv.ga:8080/estebanlaynes/guQ7qsHed8/215398
 
 $c_start其他$c_end
 
 
-驚艷台,mitv://147.135.39.171:9906/600fee6c000abd6a8ba10a1a128227a6.ts
-彩虹e台,mitv://147.135.39.171:9906/600fee6d0009bd7d8ba10dc303734365.ts
-彩虹電影,mitv://147.135.39.171:9906/600fee6e0000c8ea8ba10f5a23b93460.ts
-LOOK,mitv://147.135.39.171:9906/600fee6f000007ad8ba11313299f2579.ts
-松視1台,mitv://147.135.39.171:9906/600fee6e0007553f8ba1110f25803777.ts
-松視2台,mitv://147.135.39.171:9906/600fee6d000232968ba10bcf54416fd9.ts
-粉紅台,mitv://147.135.39.171:9906/600fee6b000b9a9b8ba106705fcc6fbe.ts
-完美台,mitv://147.135.39.171:9906/600fee6c0003b9df8ba10855530a6dc7.ts
-Playboy,mitv://147.135.39.171:9906/5e73be64000bc4a119b463b625bf0790.ts
-HOTns2,mitv://ns2.hellotvvod.com:9906/604c896000002f44ba234c2e19716622
-香蕉台ns2,mitv://ns2.hellotvvod.com:9906/604c896000065d85ba234dc432580abb
+ALBA XXX 5,http://185.134.22.131:8080/perla123/perla123/8414
+ALEXA BLACK - PLEASURE BEFORE BUSINESS,http://185.134.22.131:8080/perla123/perla123/53333
+ATHENA FARIS - CUMMINGS ON A BBC,http://185.134.22.131:8080/perla123/perla123/53334
+ATHENA FARIS - CUMMINGS ON A BBC_Website : iptvition.com / beneficie.com,http://185.134.22.131:8080/perla123/perla123/53317
+AWARD-WINNING ABELLA DANGER TWERKS & SQUIRTS,http://185.134.22.131:8080/perla123/perla123/53367
+BALKAN EROTIC,http://185.134.22.131:8080/perla123/perla123/7849
+BANGERZ,http://185.134.22.131:8080/perla123/perla123/13469
+BARBARA BROADCAST (1977),http://185.134.22.131:8080/perla123/perla123/53337
+BEHIND THE GREEN DOOR (1972),http://185.134.22.131:8080/perla123/perla123/53338
+FORCED ENTRY (1973),http://185.134.22.131:8080/perla123/perla123/53272
+DEVIL INSIDE MISS JONES (1973),http://185.134.22.131:8080/perla123/perla123/53345
+BARELY LEGAL TV,http://185.134.22.131:8080/perla123/perla123/13470
+
+BFF AND I CRAVE A BBC,http://185.134.22.131:8080/perla123/perla123/53283
+BIKINI CHAIN GANG,http://185.134.22.131:8080/perla123/perla123/53256
+BLACK SQUIRTER,http://185.134.22.131:8080/perla123/perla123/53257
+BLACK TV,http://185.134.22.131:8080/perla123/perla123/40190
+BLACKED.COM TWO WHITE CHICKS,http://185.134.22.131:8080/perla123/perla123/45665
+Brazzers TV Europe,http://185.134.22.131:8080/pedro123/pedro321/53589
+BRAZZERS TV,http://185.134.22.131:8080/perla123/perla123/6188
+BRIGHTON BLAZE NAUGHTY AND DELICIOUS,http://185.134.22.131:8080/perla123/perla123/53350
+BRITNEY BENZ LOVES THE BBC,http://185.134.22.131:8080/perla123/perla123/53314
+BUSTY ANAL NYMPHOS,http://185.134.22.131:8080/perla123/perla123/53258
+BUSTY RIDING ACADEMY,http://185.134.22.131:8080/perla123/perla123/53336
+BUTT BANGED NAUGHTY NURSES,http://185.134.22.131:8080/perla123/perla123/53351
+BY1,http://185.134.22.131:8080/perla123/perla123/8409
+BY2,http://185.134.22.131:8080/perla123/perla123/8412
+CANDY TV,http://185.134.22.131:8080/perla123/perla123/12208
+CANDY TV,http://185.134.22.131:8080/perla123/perla123/13494
+CENTO X CENTO,http://185.134.22.131:8080/perla123/perla123/13496
+CHEATING ON HER WITH A BBC,http://185.134.22.131:8080/perla123/perla123/53312
+CHEATING ON HER WITH A BBC,http://185.134.22.131:8080/perla123/perla123/53324
+CUM BEGGERS,http://185.134.22.131:8080/perla123/perla123/53339
+DEEP INSIDE ANNIE SPRINKLE,http://185.134.22.131:8080/perla123/perla123/53343
+DEEP INSIDE VANESSA DEL RIO,http://185.134.22.131:8080/perla123/perla123/53344
+DEVIL INSIDE MISS JONES (1973),http://185.134.22.131:8080/perla123/perla123/53345
+DIGGIN IN THE GAPES,http://185.134.22.131:8080/perla123/perla123/53340
+DIRTY ROTTEN MOTHERF*CKERS,http://185.134.22.131:8080/perla123/perla123/53341
+DORCEL,http://185.134.22.131:8080/perla123/perla123/7123
+DUSK!,http://185.134.22.131:8080/perla123/perla123/13509
+ERO X,http://185.134.22.131:8080/perla123/perla123/12210
+EROTIC 5 |,http://185.134.22.131:8080/perla123/perla123/45636
+Erotic,http://185.134.22.131:8080/pedro123/pedro321/13617
+EVE MADISON- GAPED,http://185.134.22.131:8080/perla123/perla123/53306
+EVIL ANGEL,http://185.134.22.131:8080/perla123/perla123/13529
+FORCED ENTRY (1973),http://185.134.22.131:8080/perla123/perla123/53272
+FRENCH LOVER,http://185.134.22.131:8080/perla123/perla123/9563
+FRESH OUTTA HIGH SCHOOL 13,http://185.134.22.131:8080/perla123/perla123/53352
+GERMAN GANG BANG ALL-STARS,http://185.134.22.131:8080/perla123/perla123/53270
+GISELLE PALMER,http://185.134.22.131:8080/perla123/perla123/53298
+HORNY OLD MEN,http://185.134.22.131:8080/perla123/perla123/53273
+HOTCLUB 3,http://185.134.22.131:8080/perla123/perla123/45637
+HUSTLER,http://185.134.22.131:8080/perla123/perla123/54259
+HUSTLER,http://185.134.22.131:8080/perla123/perla123/6166
+I LIKE IT ROUGH,http://185.134.22.131:8080/perla123/perla123/53280
+IF IT AIN\'T BLACK...TAKE IT BACK,http://185.134.22.131:8080/perla123/perla123/53307
+INNOCENT UNTIL PROVEN FILTHY,http://185.134.22.131:8080/perla123/perla123/53346
+INTERRACIAL,http://185.134.22.131:8080/perla123/perla123/13574
+JAM IT ALL THE WAY UP MY ASS,http://185.134.22.131:8080/perla123/perla123/53347
+JASMIN TV,http://185.134.22.131:8080/perla123/perla123/45638
+JASMIN,http://185.134.22.131:8080/perla123/perla123/7112
+JENNA  -EXPOSED- NAKED AT SPRING LAKE (1998),http://185.134.22.131:8080/perla123/perla123/53348
+JENNA HAZE - NYMPHOMANIAC,http://185.134.22.131:8080/perla123/perla123/53349
+JENNY SIMMONS - GANGBANG,http://185.134.22.131:8080/perla123/perla123/53305
+JENNY SIMONS BBC GANGBANG,http://185.134.22.131:8080/perla123/perla123/53295
+JENNY SIMONS BBC GANGBANG,http://185.134.22.131:8080/perla123/perla123/53326
+KACIE CASTLE EAGER FOR BBC,http://185.134.22.131:8080/perla123/perla123/53296
+KACIE CASTLE EAGER FOR BBC,http://185.134.22.131:8080/perla123/perla123/53325
+KAITLYN KATSAROS -DON\'T BREAK ME,http://185.134.22.131:8080/perla123/perla123/53311
+KYLER QUINN - RAINY DAY,http://185.134.22.131:8080/perla123/perla123/53294
+LATINOS 4 EVER,http://185.134.22.131:8080/perla123/perla123/53274
+LEAH LEE - BBC PIE,http://185.134.22.131:8080/perla123/perla123/53335
+LEAH LEE MILKING THE BBC,http://185.134.22.131:8080/perla123/perla123/53309
+LEAH LEE MILKING THE BBC,http://185.134.22.131:8080/perla123/perla123/53321
+LEO TV,http://185.134.22.131:8080/perla123/perla123/13578
+LOAD ALMIGHTY,http://185.134.22.131:8080/perla123/perla123/53276
+LUNA STORM,http://185.134.22.131:8080/perla123/perla123/53300
+MAX XXX +18,http://185.134.22.131:8080/perla123/perla123/13585
+MAX XXX 1,http://185.134.22.131:8080/perla123/perla123/45639
+MAX XXX 1,http://185.134.22.131:8080/perla123/perla123/45641
+MAXINE X - BJ FOR THE BOYFRIEND,http://185.134.22.131:8080/perla123/perla123/53292
+MERMAID SHARING WITH BBC,http://185.134.22.131:8080/perla123/perla123/53299
+MERMAID SHARING WITH BBC,http://185.134.22.131:8080/perla123/perla123/53329
+MILF REVOLUTION,http://185.134.22.131:8080/perla123/perla123/53353
+MILF TV,http://185.134.22.131:8080/perla123/perla123/9564
+MOMMA KNOWS BEST,http://185.134.22.131:8080/perla123/perla123/53286
+MRS SIREN - BRING ME YOUR BBC,http://185.134.22.131:8080/perla123/perla123/53289
+MY FIRST BLACK DICK,http://185.134.22.131:8080/perla123/perla123/53266
+NATALIA QUEEN - BBC DETENTION,http://185.134.22.131:8080/perla123/perla123/53310
+NATALIA QUEEN - BBC DETENTION,http://185.134.22.131:8080/perla123/perla123/53322
+NAUGHTY ALYSHA\'S I FUCK MY FANS,http://185.134.22.131:8080/perla123/perla123/53370
+NET XX,http://185.134.22.131:8080/perla123/perla123/10526
+
+
+
 
 
 
