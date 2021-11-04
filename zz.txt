@@ -86,76 +86,155 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 凤凰中文 ,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
 凤凰资讯,http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
-凤凰资讯,http://111.13.42.10/PLTV/88888888/224/3221225949/1.m3u8#http://223.82.250.72/live/fhzixun/1.m3u8
-凤凰中文,http://111.13.42.10/PLTV/88888888/224/3221225942/1.m3u8#http://223.82.250.72/live/fhchinese/1.m3u8
-HBO高清,http://198.16.106.62:8278/streams/d/sundance_twn/playlist.m3u8
-HBO家庭,http://198.16.106.61:8277/streams/d/hbofamily_twn/playlist.m3u8
-HBO强档,http://198.16.106.61:8277/streams/d/hbofhits_twn/playlist.m3u8
-HBO原創,http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
-FOX高清,http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
-FOX MOVIES,http://60.251.59.179:8530/xoxo.m3u8
-FOX Life,http://198.16.106.62:8278/streams/d/Foxlife/playlist.m3u8
-FOX犯罪,http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
-FOX家庭,http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
-FOX動作,http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
-亚洲美食,http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
-美食星球,http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
-亚洲旅游,http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
-国家地理,http://60.251.59.179:8502/xoxo.m3u8
-动物星球,http://60.251.59.179:8503/xoxo.m3u8
-BBC Earth HD,http://198.16.106.62:8278/streams/d/bbcearthhd_zero/playlist.m3u8
-BBC Earth Lifestyle,http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
-地理野生,http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
-地理悠人,http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
-Discovery eve,http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
-TVBS高清,http://60.251.59.179:8512/xoxo.m3u8
-TVBS新闻,http://60.251.59.179:8513/xoxo.m3u8
-TVBS欢乐,http://60.251.59.179:8520/xoxo.m3u8
-中天新闻,http://60.251.59.179:8515/xoxo.m3u8
-卫视中文,http://60.251.59.179:8521/xoxo.m3u8
-卫视电影,http://60.251.59.179:8529/xoxo.m3u8
-东森新闻,http://60.251.59.179:8514/xoxo.m3u8
-东森财经新闻,http://60.251.59.179:8517/xoxo.m3u8
-东森综合,http://60.251.59.179:8518/xoxo.m3u8
-东森戏剧,http://60.251.59.179:8519/xoxo.m3u8
-东森幼幼,http://60.251.59.179:8506/xoxo.m3u8
-东森超视,rtmp://59.124.75.153:1935/sat/tv771
-TLC,http://60.251.59.179:8504/xoxo.m3u8
-台视,rtmp://59.124.75.153/sat/tv071
-华视,rtmp://59.124.75.153/sat/tv111
-中视,rtmp://59.124.75.153/sat/tv091
 
 新闻,#genre#
-ELEVEN1,http://43.129.29.150:84/pls/tv/ELEVEN1/266a09bc2f8b77417059bc6efe75445d.flv
-TVBS,http://43.129.29.150:84/pls/tv/TVBSHD/266a09bc2f8b77417059bc6efe75445d.flv
-TVBS新聞,http://43.129.29.150:84/pls/tv/TVBSxwt/266a09bc2f8b77417059bc6efe75445d.flv
-TVB歡樂台,http://43.129.29.150:84/pls/tv/TVBShlt/266a09bc2f8b77417059bc6efe75445d.flv
-東森財經新聞,http://43.129.29.150:84/pls/tv/dscjxwt/266a09bc2f8b77417059bc6efe75445d.flv
-東森超視,http://43.129.29.150:84/pls/tv/dscs/266a09bc2f8b77417059bc6efe75445d.flv
-東森新聞,http://43.129.29.150:84/pls/tv/dsxwt/266a09bc2f8b77417059bc6efe75445d.flv
-翡翠高清,http://43.129.29.150:84/pls/tv/TVBfct/043eaead2b0c1e321aa952b4fd606f65.flv
-華視,http://43.129.29.150:84/pls/tv/hs/266a09bc2f8b77417059bc6efe75445d.flv
-華視新聞,http://43.129.29.150:84/pls/tv/TVBSxwt/266a09bc2f8b77417059bc6efe75445d.flv
-寰宇新聞,http://43.129.29.150:84/pls/tv/hyxwt/266a09bc2f8b77417059bc6efe75445d.flv
-民視第一台,http://43.129.29.150:84/pls/tv/msdyt/266a09bc2f8b77417059bc6efe75445d.flv
-民視台灣台,http://43.129.29.150:84/pls/tv/mstwt/266a09bc2f8b77417059bc6efe75445d.flv
-民視新聞台,http://43.129.29.150:84/pls/tv/msxwt/266a09bc2f8b77417059bc6efe75445d.flv
-三立台灣台,http://43.129.29.150:84/pls/tv/sltwt/266a09bc2f8b77417059bc6efe75445d.flv
-三立新聞,http://43.129.29.150:84/pls/tv/slxwt/043eaead2b0c1e321aa952b4fd606f65.flv
-三立新聞,http://43.129.29.150:84/pls/tv/slxwt/266a09bc2f8b77417059bc6efe75445d.flv
-台視,http://43.129.29.150:84/pls/tv/ts/266a09bc2f8b77417059bc6efe75445d.flv
-台視新聞,http://43.129.29.150:84/pls/tv/tsxwt/266a09bc2f8b77417059bc6efe75445d.flv
-緯來日本,http://43.129.29.150:84/pls/tv/wlrbt/266a09bc2f8b77417059bc6efe75445d.flv
-緯來體育,http://43.129.29.150:84/pls/tv/wltyt/266a09bc2f8b77417059bc6efe75445d.flv
-緯來育樂,http://43.129.29.150:84/pls/tv/wlylt/266a09bc2f8b77417059bc6efe75445d.flv
-無線財經,http://43.129.29.150:84/pls/tv/TVBwxcjzxt/043eaead2b0c1e321aa952b4fd606f65.flv
-無線新聞,http://43.129.29.150:84/pls/tv/TVBwxxwt/043eaead2b0c1e321aa952b4fd606f65.flv
-有線財經,http://43.129.29.150:84/pls/tv/yxcjzxt/043eaead2b0c1e321aa952b4fd606f65.flv
-有線新聞,http://43.129.29.150:84/pls/tv/xgyxxwt/043eaead2b0c1e321aa952b4fd606f65.flv
-中視,http://43.129.29.150:84/pls/tv/zs/266a09bc2f8b77417059bc6efe75445d.flv
-中視新聞,http://43.129.29.150:84/pls/tv/zsxwt/266a09bc2f8b77417059bc6efe75445d.flv
-中天新聞,http://43.129.29.150:84/pls/tv/ztxwt/043eaead2b0c1e321aa952b4fd606f65.flv
-中天新聞,http://43.129.29.150:84/pls/tv/ztxwt/266a09bc2f8b77417059bc6efe75445d.flv
+民視台灣,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv001
+民視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv002
+民視第一,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv003
+民視綜藝,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv004
+豬哥亮歌廳秀,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv006
+中天新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009
+非凡新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv010
+影迷數位電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv011
+Cnex,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv013
+時尚運動,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv014
+韓國娛樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv016
+達文西,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018
+八大精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv034
+八大綜合,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv039
+中視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv040
+華視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv041
+公視戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv042
+客家電視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv043
+靖天卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv044
+靖洋戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv045
+靖天綜合,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv046
+靖天日本,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv047
+非凡商業,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv048
+采昌,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv049
+台視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv051
+華視新聞資訊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv052
+Ginx Esports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv053
+靖天歡樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv054
+靖天映畫,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv055
+台視財經,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv056
+靖洋卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv057
+靖天戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv058
+CLASSICA古典樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv059
+靖天電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv061
+靖天育樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv062
+靖天國際,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv063
+中視精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv064
+靖天資訊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv065
+台視,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv066
+TVBS精彩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv067
+TVBS歡樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv068
+愛爾達娛樂,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv070
+TVBS新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072
+TVBS直播,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073
+中視新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074
+Catch Play,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv076
+Trace Sports,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv077
+Arirang,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv079
+中視經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv080
+Trace Urban,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv082
+Mezzo Live,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv083
+國會頻道1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv084
+國會頻道2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv085
+智林體育,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv101
+東森購物1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv102
+東森購物2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv103
+財經頻道,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv104
+中天亞洲,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv109
+V0A美國之音,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv03
+民視旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv07
+民視影劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv09
+半島國際新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv10
+民視新聞台,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv13
+愛放i-Fun動漫,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv15
+好訊息,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv16
+好訊息2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-ftv17
+龍華卡通,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn01
+BabyFirst,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn02
+龍華電影,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn03
+博斯魅力,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn04
+博斯高球1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn05
+博斯高球2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn06
+博斯運動1,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn07
+博斯運動2,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn08
+博斯網球,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn09
+博斯無限,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn10
+龍華日韓,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn11
+龍華偶像,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn12
+博斯電玩,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn13
+寰宇新聞,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14
+寰宇新聞台灣,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15
+梅蒂斯藝術,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn16
+亞洲旅遊,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn17
+龍華戲劇,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn18
+FashionOne,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn19
+ELTV英語,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn20
+龍華經典,http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn21
+
+民視,http://v3948069e.live.126.net/live/nteimwyu30134860/28.flv
+民視第一,http://v3948069e.live.126.net/live/epreliwi80996113/29.flv
+民視台灣,http://v3948069e.live.126.net/live/htdndniz25866884/30.flv
+民視綜藝,http://v3948069e.live.126.net/live/lsvtdgwt69296670/31.flv
+民視旅遊,http://v3948069e.live.126.net/live/dyjmdzws81670834/32.flv
+民視新聞,http://v3948069e.live.126.net/live/cmcfizof46736198/36.flv
+中視新聞,http://v3948069e.live.126.net/live/dscspbkh98253248/37.flv
+台視新聞,http://v3948069e.live.126.net/live/ugdbeaya63838689/38.flv
+寰宇新聞,http://v3948069e.live.126.net/live/paevmpzc60020136/39.flv
+中天新聞,http://v3948069e.live.126.net/live/myewtdtq55241913/40.flv
+年代新聞,http://v3948069e.live.126.net/live/tdhzoveg27028949/41.flv
+東森新聞,http://v3948069e.live.126.net/live/chljmwfc26030164/42.flv
+東森財經,http://v3948069e.live.126.net/live/xttzgmzd89254972/43.flv
+TVBS,http://v3948069e.live.126.net/live/olqudmbl26461676/44.flv
+華視新聞,http://v3948069e.live.126.net/live/faynljtw39421227/45.flv
+TVBS新聞,http://v3948069e.live.126.net/live/eyisbshx78425035/46.flv
+三立iNEWS,http://v3948069e.live.126.net/live/syiygqgw23248264/47.flv
+三立Live新聞,http://v3948069e.live.126.net/live/tizinjzv54935020/48.flv
+非凡新聞,http://v3948069e.live.126.net/live/fvyokqzp68633443/49.flv
+壹新聞,http://v3948069e.live.126.net/live/xtxndaws57833801/50.flv
+BBCNews,http://v3948069e.live.126.net/live/cakbruve46655165/51.flv
+ABCnews,http://v3948069e.live.126.net/live/wbrbruqn78846690/52.flv
+CNN,http://v3948069e.live.126.net/live/vhyiolar25209544/54.flv
+NHK World,http://v3948069e.live.126.net/live/uxoeaxnk44941053/55.flv
+CNA,http://v3948069e.live.126.net/live/xyptvspr68769369/56.flv
+JET綜合,http://v3948069e.live.126.net/live/wakudnpz00430412/57.flv
+Thrill,http://v3948069e.live.126.net/live/wkcsulor10807304/84.flv
+AXN,http://v3948069e.live.126.net/live/lgdhdhqt88784905/85.flv
+台視綜合,https://flv3948069e.live.126.net/live/sytv_a3230bb77e846899c6cdded52e7732f3.flv
+華視教育體育文化,https://flv3948069e.live.126.net/live/sytv_91030b1dae846205fdcdded56e773477.flv
+公視,https://flv3948069e.live.126.net/live/sytv_9dd30b5c8e846938c26dde70be773545.flv
+公視台語,https://flv3948069e.live.126.net/live/sytv_b2c30b53ae84670a8b8dde5c2e7733db.flv
+公視3,https://flv3948069e.live.126.net/live/sytv_f8630b6a5e8461aca04dde1d5e773c81.flv
+東森幼幼,https://flv3948069e.live.126.net/live/sytv_af430bf86e846549a43dde18be773787.flv
+東森綜合,https://flv3948069e.live.126.net/live/sytv_0f630b5d9e846b6ce81ddedcfe773eb1.flv
+東森戲劇,https://flv3948069e.live.126.net/live/sytv_ed630bae0e846d775dbdde1e9e773a71.flv
+東森超視,https://flv3948069e.live.126.net/live/sytv_e0c30bc8ee846a19f53dde422e773b0b.flv
+東森洋片,https://flv3948069e.live.126.net/live/sytv_02f30bf53e84628fcf0dde0bae773f6f.flv
+東森電影,https://flv3948069e.live.126.net/live/sytv_e8830b768e8469f6755dde403e773504.flv
+中天綜合,https://flv3948069e.live.126.net/live/sytv_acd30b276e846e42e1addec77e77314b.flv
+中天娛樂,https://flv3948069e.live.126.net/live/sytv_a2130beebe8469b84c6dde06fe773b34.flv
+三立綜合,https://flv3948069e.live.126.net/live/sytv_68630ba2ae846bae3b0ddebcee773182.flv
+三立臺灣,https://flv3948069e.live.126.net/live/sytv_e4030b695e8468e6698dde658e7737fe.flv
+三立都會,https://flv3948069e.live.126.net/live/sytv_df030be85e8465cba8bdde25ee7731f8.flv
+三立戲劇,https://flv3948069e.live.126.net/live/sytv_12d30b786e84667f624dde7bae773b99.flv
+三立新聞,https://flv3948069e.live.126.net/live/sytv_6aa30b0cbe8460a218addee46e773f2e.flv
+三立財經新聞,https://flv3948069e.live.126.net/live/sytv_aa430bd4ce8464e8df8dde26ce77300e.flv
+MTV綜合,https://flv3948069e.live.126.net/live/sytv_3c130b6e9e846d28029dde127e773f35.flv
+年代新聞,https://flv3948069e.live.126.net/live/sytv_42130b58fe846ad0680ddefd6e773390.flv
+年代MUCH,https://flv3948069e.live.126.net/live/sytv_29d30bed1e8460f70a0dde412e7737ff.flv
+JET綜合,https://flv3948069e.live.126.net/live/sytv_95630b467e8461e8adedde4f4e7739ef.flv
+東風衛視,https://flv3948069e.live.126.net/live/sytv_f1130b7efe8468c2a48dde3d0e773b13.flv
+壹新聞,https://flv3948069e.live.126.net/live/sytv_dbc30bc81e846ceeb07dde0d7e773580.flv
+壹電影,https://flv3948069e.live.126.net/live/sytv_4e030b54de8467636b7dde257e7736cc.flv
+高點綜合,https://flv3948069e.live.126.net/live/sytv_32630b02ce8468a2f27ddef1ae773d18.flv
+高點育樂,https://flv3948069e.live.126.net/live/sytv_2ec30b8dfe846e1ce5dddee84e7730f6.flv
+霹靂臺灣,https://flv3948069e.live.126.net/live/sytv_e3d30bd35e84661fc99dde3c7e773f89.flv
+Z頻道,https://flv3948069e.live.126.net/live/sytv_68130b91ee8465fdeb3dde2c8e773a3f.flv
+衛視電影,https://flv3948069e.live.126.net/live/sytv_72a30baf1e84656b6e2dde008e77399a.flv 
 
 
 
@@ -308,6 +387,219 @@ YY電影,http://106.54.30.243/dl/YY.php?t=35133142
 影视8,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226708/index.m3u8
 影视9,http://39.135.230.72/ott.fj.chinamobile.com/PLTV/88888888/224/3221225893/index.m3u8
 影视10,http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221226664/index.m3u8
+
+H+_111,#genre#
+松视1台,https://flv3948069e.live.126.net/live/sytv_8ca30b716e846bfa3b4ddeb5ce7734c8.flv
+松视2台,https://flv3948069e.live.126.net/live/sytv_56830b3d6e8464f8479dde69be773622.flv
+松视3台,https://flv3948069e.live.126.net/live/sytv_ca330b8dfe8461e4b3bdde39ce773e83.flv
+松视4台,https://flv3948069e.live.126.net/live/sytv_02630be6be846d47da6dde603e773bc3.flv
+潘朵啦玩美台,https://flv3948069e.live.126.net/live/sytv_30630b464e846ca2cb9ddefe0e773e87.flv
+
+HOT,rtmp://45.92.126.226/channel/60e5a836c47203d3a673d5ec
+彩虹e台,rtmp://45.92.126.226/channel/60e5a89ec47203d3a673d5f0
+松视1台,rtmp://45.92.126.226/channel/60e5a8cbc47203d3a673d5f2
+松视2台,rtmp://45.92.126.226/channel/60e5a8f2c47203d3a673d5f4
+松视3台,rtmp://45.92.126.226/channel/60e5a926c47203d3a673d5f7
+K频道,rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9
+潘朵啦玩美台,rtmp://45.92.126.226/channel/60e5a9bfc47203d3a673d5fb
+LOOK TV,rtmp://45.92.126.226/channel/60ecdf7f020b42a2f634be25
+潘朵啦粉红台,rtmp://45.92.126.226/channel/60fa6c9c8dfe8209677fdb1a
+惊艳台,rtmp://45.92.126.226/channel/60fa6d048dfe8209677fdb1c
+香蕉台,rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e
+
+Babes,http://home-playtv.com:8080/LatinoAmericanaTV/HetyJC567sfdh/152628
+Babes Tv,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/6363
+Balkan Erotic,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/443
+BangB,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/6364
+Brazzers,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/409
+EroXXX,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/6338
+Exotica,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/396
+Hustler HD,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/223
+Platinum,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/395
+Reality Kings,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/6365
+Red Light HD,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/222
+Red Light,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/397
+Satisfaction,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/394
+Vivid Red,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/8361
+Vivid Touch,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/8360
+Vivid,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/8359
+XYPLUS,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/8351
+Pink Erotic 1,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/74
+Pink Erotic 2,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/75
+Pink Erotic 3,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/76
+Pink Erotic 4,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/77
+Pink Erotic 5,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/732
+Pink Erotic 6,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/735
+Pink Erotic 7,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/734
+Pink Erotic 8,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/733
+Adult 1,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/7949
+Adult 2,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/7950
+Adult 3,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/7951
+Adult 4,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/7952
+Adult 5,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/7953
+Adult 6,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/7954
+Adult 7,http://media-future.eu:80/PkM7EE5xaf/uio3dyEKmM/7955
+
+
+
+ALBA XXX 1,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102542
+ALBA XXX 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102543
+ALBA XXX 3,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102550
+ALBA XXX 4,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102549
+ALBA XXX 5,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102548
+ANAL,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102617
+BABES TV HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102560
+BALKAN EROTIC,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102589
+BALKAN HOT 1,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102648
+BALKAN HOT 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102640
+BANG U,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102599
+BARELY LEGAL TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102605
+BEATE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102608
+BIG ASS,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102618
+BIG DICK,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102619
+BIG TITS,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102620
+BIKINI TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102660
+BLACK TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102516
+BLONDE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102621
+BLOWJOB,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102622
+BLUE HUSTLER HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102604
+BLUE HUSTLER,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102545
+BRAZZERS,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102536
+BRUNETTE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102623
+CANDY TV https://iptv.live,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102530
+CENTO X CENTO,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102534
+COMPILATION,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102624
+CUCKOLD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102625
+DORCEL HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102554
+DORCEL,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102546
+DREAM PORN,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102559
+DUSK! https://iptv.live,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102566
+EMANUELLE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102601
+ERO X,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102515
+EROX HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102556
+EVIL ANGEL HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102558
+EXTASY 4K,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102659
+EXTASY HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102565
+EXTREM,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102598
+EXXXOTICA TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102607
+FAKE AGENT 1,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102613
+FAKE AGENT 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102614
+FAKE AGENT 3,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102615
+FAP TV 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102531
+FAP TV 3,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102539
+FAP TV 4,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102540
+FAP TV ANAL,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102532
+FAP TV COMPILATION,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102538
+FAP TV LESBIAN,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102537
+FAP TV PARODY,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102535
+FAP TV TEENS,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102529
+FETISH,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102626
+FREE X TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102611
+FRENCH LOVER EUROPE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102603
+FRENCH LOVER,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102602
+GANGBANG,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102627
+HARDCORE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102629
+HOT HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102555
+HOT PLEASURE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102595
+HOT TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102572
+HUSTLER HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102513
+HUSTLER TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102567
+INTERRACIAL,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102630
+JASMIN,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102519
+JUST 89,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102642
+LATINA,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102631
+LEO TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102610
+LEO. TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102592
+LESBIAN AFFAIR,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102600
+LESBIAN,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102632
+LIVE CAMS,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102616
+MEIDEN VAN HOLLAND HARD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102577
+MIAMI TV XXX,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102547
+MILF TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102596
+MILF,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102633
+MULTI 4K,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102663
+NET XX,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102593
+NUART,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102522
+O LA LA,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102524
+OH AH TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102527
+OLDTIMER,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102591
+PASSIE TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102569
+PASSION,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102523
+PENTHOUSE GOLD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102641
+PENTHOUSE QUICKIES,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102517
+PINCO CLUB 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102662
+PINCO CLUB,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102661
+PINK EROTIC 1,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102581
+PINK EROTIC 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102582
+PINK EROTIC 3,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102583
+PINK EROTIC 4,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102584
+PINK EROTIC 5,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102585
+PINK EROTIC 6,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102586
+PINK EROTIC 7,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102587
+PINK EROTIC 8,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102588
+PINK O TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102526
+PLAYBOY EUROPE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102514
+PLAYHOUSE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102594
+PORNSTAR,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102634
+PORNSTERS 1,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102649
+PORNSTERS 10,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102658
+PORNSTERS 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102650
+PORNSTERS 3,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102651
+PORNSTERS 4,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102652
+PORNSTERS 5,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102653
+PORNSTERS 6,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102654
+PORNSTERS 7,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102655
+PORNSTERS 8,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102656
+PORNSTERS 9,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102657
+POV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102635
+PREMIUM PORN,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102544
+PRIVATE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102520
+PRIVE TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102571
+PURE BABES,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102664
+REALITY KINGS TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102570
+RED XXX,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102597
+REDLIGHT,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102518
+ROUGH,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102636
+RUSSIAN,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102637
+RUSSKAYA NOCH,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102521
+SCT,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102525
+SECRET CIRCLE TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102609
+SEX ATION HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102561
+SEX PRIVE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102666
+SEXTOSENSO,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102533
+SEXTREME,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102574
+SEXY HOT,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102575
+SHALUN TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102528
+SHELK,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102667
+SUPER ONE HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102557
+SUPER ONE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102551
+TABOO TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102590
+TBB 1,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102643
+TBB 2,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102644
+TBB 3,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102645
+TBB 4,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102646
+TBB 5,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102647
+TEEN,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102638
+THREESOME,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102639
+VENUS TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102573
+VIVID RED,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102512
+VIVID TV EUROPE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102568
+VIXEN HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102665
+X BIZARRE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102579
+X BUNGA BUNGA,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102580
+X DESIRE,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102578
+X1,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102576
+X-MO GAY,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102553
+XXL,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102541
+XY MAX HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102563
+XY MIX HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102564
+XY PLUS HD,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102562
+ZEST TV,http://45.94.31.72:8080/sofiane2022qrrETq7D2Z/uZrHArynyE/102606
+
+
+
+
+
 
 18+_111,#genre#
 日本J-Girl,p3p://45.86.67.154:9906/5d5992d900092aec076d9701a5d05e67.ts
