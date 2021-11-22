@@ -1,4 +1,4 @@
-﻿###
+###
 {
   "sites": [
     {
@@ -474,14 +474,7 @@
             "playUrl": "",
             "categories": []
        },
-       {
-            "key": "U猫m3u8",
-            "name": "U猫m3u8",
-            "type": 0,
-            "api": "http://umao.ml/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-       },
+       
        {
             "key": "BL视频",
             "name": "BL视频",
@@ -490,13 +483,7 @@
             "playUrl": "",
             "categories": []
        },
-       {
-            "key": "饭团资源",
-            "name": "饭团资源",
-            "type": 0,
-            "api": "http://fantuan.wkfile.com/api.php/provide/vod/at/xml/\n",
-            "playUrl": ""
-       },
+       
        {
             "key": "360资源",
             "name": "360资源",
@@ -526,21 +513,7 @@
             "api": "http://www.zycaiji.net:7788/api.php/provide/vod/at/xml//n",
             "playUrl": ""
        },
-       {
-           "key": "蓝光影视",
-           "name": "蓝光影视",
-           "type": 0,
-           "api": "https://09tv.top/api.php/provide/vod/at/xml",
-           "playUrl": ""
-       },
-       {
-           "key": "乐喵资源",
-           "name": "乐喵资源",
-           "type": 0,
-           "api": "https://98hyk.cn/api.php/provide/vod/at/xml",
-           "playUrl": "",
-           "categories": []
-       },
+       
        {
             "key": "番茄影院",
             "name": "番茄影院",
@@ -685,35 +658,20 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "穿梭资源",
-            "name": "穿梭资源",
-            "type": 0,
-            "api": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "速搜资源",
-            "name": "速搜资源",
-            "type": 0,
-            "api": "http://www.susouzy.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
+        
         {
             "key": "1886资源",
             "name": "1886资源",
-            "type": 1,
+            "type": 0,
             "api": "http://cj.1886zy.co/inc/api.php",
             "playUrl": "",
             "categories": []
         },
         {
-            "key": "蘑菇资源",
-            "name": "蘑菇资源",
+            "key": "百度资源",
+            "name": "百度资源",
             "type": 0,
-            "api": "http://www.moguzyw.com:520/moguzy.php/provide/vod/at/xml/",
+            "api": "https://cj.apibdzy.com/inc/api.php",
             "playUrl": "",
             "categories": []
         },
@@ -757,22 +715,7 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "电影牛",
-            "name": "电影牛",
-            "type": 0,
-            "api": "https://www.dianyingn.com/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "好好资源",
-            "name": "好好资源",
-            "type": 0,
-            "api": "http://haohaozy.com/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "categories": []
-        },
+        
         {
             "key": "影派资源",
             "name": "影派资源",
@@ -1469,6 +1412,120 @@
                     ]
                 },
                 {
+                    "name": "國家地理",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca6"
+                    ]
+                },
+                {
+                    "name": "探索頻道",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6e"
+                    ]
+                },
+                {
+                    "name": "探索科學",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d72"
+                    ]
+                },
+                {
+                    "name": "探索動力",
+                    "urls": [
+                        "rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d74"
+                    ]
+                },
+                {
+                    "name": "動物星球",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d6c"
+                    ]
+                },
+                {
+                    "name": "美食星球",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910d4a"
+                    ]
+                },
+                {
+                    "name": "HBO原創鉅獻",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60c2f6ca961593122ebaf8dc"
+                    ]
+                },
+                {
+                    "name": "HBO強檔鉅獻",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910cce"
+                    ]
+                },
+                {
+                    "name": "FOX MOVIES",
+                    "urls": [
+                        "rtmp://45.92.126.226/channel/60b4e50239e1b02e8b910ca8"
+                    ]
+                },
+                {
+                    "name": "AXN",
+                    "urls": [
+                        "rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910c9c"
+                    ]
+                },
+                {
+                    "name": "My Cinema Europe HD",
+                    "urls": [
+                        "rtmp://45.88.148.178/channel/60c2f712961593122ebaf8de"
+                    ]
+                },
+                {
+                    "name": "CatchPlay",
+                    "urls": [
+                        "rtmp://45.88.148.178/channel/60b4e50239e1b02e8b910d2a"
+                    ]
+                },
+                {
+                    "name": "達文西",
+                    "urls": [
+                        "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv018"
+                    ]
+                },
+                {
+                    "name": "TVBS直播",
+                    "urls": [
+                        "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv073"
+                    ]
+                },
+                {
+                    "name": "TVBS新聞",
+                    "urls": [
+                        "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv072"
+                    ]
+                },
+                {
+                    "name": "中天新聞",
+                    "urls": [
+                        "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv009"
+                    ]
+                },
+                {
+                    "name": "寰宇新聞",
+                    "urls": [
+                        "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn14"
+                    ]
+                },
+                {
+                    "name": "寰宇新聞台灣",
+                    "urls": [
+                        "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=litv-longturn15"
+                    ]
+                },
+                {
+                    "name": "中視新聞",
+                    "urls": [
+                        "http://hstv:hstv2021@tw.hstv.pro/litv/litvts.php?id=4gtv-4gtv074"
+                    ]
+                },
+                {
                     "name": "东方卫视",
                     "urls": [     
                          "http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8",               
@@ -1903,6 +1960,12 @@
                     ]
                 },
                 {
+                    "name": "彩虹电影",
+                    "urls": [
+                         "rtmp://45.92.126.226/channel/60ed7124020b42a2f634bfe5"
+                    ]
+                },
+                {
                     "name": "K频道",
                     "urls": [
                          "rtmp://45.92.126.226/channel/60e5a993c47203d3a673d5f9"
@@ -1932,28 +1995,23 @@
                          "rtmp://45.92.126.226/channel/60fa6d608dfe8209677fdb1e"
                     ]
                 },
+                
                 {
-                    "name": "BABES TV",
+                    "name": "Lesbea",
                     "urls": [
-                         "http://willwin.ayproviders.xyz:80/taRLeEk5r6/nbmg59RTM/139307"
+                         "http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6227/index.m3u8"
                     ]
                 },
                 {
-                    "name": "BABES",
+                    "name": "Lesbian Red TV",
                     "urls": [
-                         "http://thespeedmedia.watch:2086/Renata/Renata/135241"
-                    ]
-                },
-                {
-                    "name": "Blue Hustler",
-                    "urls": [
-                         "https://rotf.lol/poza69/stalker/zacj5NaQuQ7P3oPI/4"
+                         "http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6228/index.m3u8"
                     ]
                 },
                 {
                     "name": "Hustler HD",
                     "urls": [
-                         "https://rotf.lol/poza69/stalker/zacj5NaQuQ7P3oPI/1"
+                         "http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/6224/index.m3u8"
                     ]
                 },
                 {
@@ -1989,7 +2047,7 @@
                 {
                     "name": "Penthouse Passion",
                     "urls": [
-                         "http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/5010/index.m3u8"
+                         "http://qftjwvva.ottclub.xyz/iptv/SL65XV6TCY8WYY/1073/index.m3u8"
                     ]
                 }
             ]
