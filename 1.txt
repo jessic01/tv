@@ -1,4 +1,24 @@
 央视,#genre#
+CCTV-1综合,http://ott.js.chinamobile.com/TVOD/3/224/3221228049/index.m3u8	
+CCTV-2财经,http://ott.js.chinamobile.com/TVOD/3/224/3221228094/index.m3u8	
+CCTV-3综艺,http://ott.js.chinamobile.com/TVOD/3/224/3221228126/index.m3u8	
+CCTV-4中文,http://ott.js.chinamobile.com/TVOD/3/224/3221228091/index.m3u8		
+CCTV-5体育,http://ott.js.chinamobile.com/TVOD/3/224/3221228082/index.m3u8	
+CCTV-5+体育赛事, http://ott.js.chinamobile.com/TVOD/3/224/3221228076/index.m3u8
+CCTV-6电影,http://ott.js.chinamobile.com/TVOD/3/224/3221228123/index.m3u8	
+CCTV-7国防,http://ott.js.chinamobile.com/TVOD/3/224/3221227314/index.m3u8	
+CCTV-8电视,http://ott.js.chinamobile.com/TVOD/3/224/3221228079/index.m3u8	
+CCTV-9记录,http://ott.js.chinamobile.com/TVOD/3/224/3221227614/index.m3u8	
+CCTV-10科教,http://ott.js.chinamobile.com/TVOD/3/224/3221228078/index.m3u8	
+CCTV-11戏曲,http://ott.js.chinamobile.com/TVOD/3/224/3221227384/index.m3u8	
+CCTV-12社会,http://ott.js.chinamobile.com/TVOD/3/224/3221227655/index.m3u8	
+CCTV-13新闻,http://ott.js.chinamobile.com/TVOD/3/224/3221228121/index.m3u8	
+CCTV-14少儿, http://ott.js.chinamobile.com/TVOD/3/224/3221227201/index.m3u8	
+CCTV-15音乐, http://ott.js.chinamobile.com/TVOD/3/224/3221227538/index.m3u8	
+CCTV-16奥林,http://ott.js.chinamobile.com/TVOD/3/224/3221228112/index.m3u8	
+CCTV-16奥林,http://ott.js.chinamobile.com/TVOD/3/224/3221228127/index.m3u8	
+CCTV-17农业,http://ott.js.chinamobile.com/TVOD/3/224/3221227726/index.m3u8	
+
 CCTV-1综合,http://39.135.138.59:18890/PLTV/88888910/224/3221225618/index.m3u8
 CCTV-2财经,http://39.135.138.59:18890/PLTV/88888910/224/3221225619/index.m3u8
 CCTV-3综艺,http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
