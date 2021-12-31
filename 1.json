@@ -60,7 +60,7 @@
       "filterable": 0
     },
 	
-			    {
+   {
       "key": "搜狐视频会员(官源)",
       "name": "搜狐视频会员(官源)",
       "type": 0,
@@ -70,7 +70,7 @@
       "filterable": 0
     },
 	
-			    {
+    {
       "key": "优酷视频会员(官源)",
       "name": "优酷视频会员(官源)",
       "type": 0,
@@ -91,7 +91,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "xiaogui_555电影"
-    }，
+    },
 	  
 	  
     {
