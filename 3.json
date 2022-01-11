@@ -2,185 +2,6 @@
   "sites": [
     
     {
-      "key": "2345_spider",
-      "name": "2345影视(官源)",
-      "type": 3,
-      "api": "csp_YS2345",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/2345.json"
-    },
-    {
-      "key": "sogou_spider",
-      "name": "搜狗影视(官源)",
-      "type": 3,
-      "api": "csp_YSSogou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/sogou.json"
-    },
-    {
-      "key": "360_spider",
-      "name": "360影视(官源)",
-      "type": 3,
-      "api": "csp_YS360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/360.json"
-    },
-    {
-      "key": "rrm_spider",
-      "name": "人人迷(免解)",
-      "type": 3,
-      "api": "csp_Rrm",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "B9C8093A210EADA1"
-    },
-    {
-      "key": "ikan_spider",
-      "name": "爱看(SP)",
-      "type": 3,
-      "api": "csp_IKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "A9545C889B5D"
-    },
-    {
-      "key": "gdyy_spider",
-      "name": "孤单影视(FV0)",
-      "type": 3,
-      "api": "csp_Gdyy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "00c8ce12-fece-5bd8-90d8-04ae99099644"
-    },
-    {
-      "key": "wgyy_spider",
-      "name": "乌龟影视(FV0)",
-      "type": 3,
-      "api": "csp_Wgyy",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "dfcd0b28-56b4-5313-9ce2-7e9f0857186f"
-    },
-    
-    {
-      "key": "dsx_spider",
-      "name": "大师兄影视(V0)",
-      "type": 3,
-      "api": "csp_Dsxys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "zjdr_spider",
-      "name": "追剧达人(V0)",
-      "type": 3,
-      "api": "csp_Zjdr",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "epang_spider",
-      "name": "阿房App(SP)",
-      "type": 3,
-      "api": "csp_EPangApp",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1
-    },
-    {
-      "key": "libvio_spider",
-      "name": "Libvio(V0)",
-      "type": 3,
-      "api": "csp_Libvio",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "nfzjm_spider",
-      "name": "南府追剧(AT)",
-      "type": 3,
-      "api": "csp_Nfzjm",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    
-    {
-      "key": "jpys_spider",
-      "name": "极品影视(SP)",
-      "type": 3,
-      "api": "csp_Jpys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/jipin.json"
-    },
-    {
-      "key": "buka_spider",
-      "name": "真不卡(SP)",
-      "type": 3,
-      "api": "csp_Buka",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/buka.json"
-    },
-    {
-      "key": "ftys_spider",
-      "name": "饭团影视(SP)",
-      "type": 3,
-      "api": "csp_Ftys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/fantuan.json"
-    },
-    {
-      "key": "9ekk_spider",
-      "name": "9亿看看(SP)",
-      "type": 3,
-      "api": "csp_Nekk",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/ext/9ekk.json"
-    },
-    {
-      "key": "csp_YydsAli1",
-      "name": "YYDS阿里(SP)",
-      "type": 3,
-      "api": "csp_YydsAli1",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "csp_xpath_cjt",
-      "name": "CJT影视(XP)",
-      "type": 3,
-      "api": "csp_XPathMac",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/pub/xpath/cjtys.json"
-    },
-    
-    
-    {
       "key": "腾讯视频(官源)",
       "name": "腾讯视频（官源)",
       "type": 0,
@@ -216,10 +37,25 @@
       "quickSearch": 1,
       "filterable": 0
     },	
-	
-
-   
-	  
+    {
+      "key": "ikan_spider",
+      "name": "爱看(SP)",
+      "type": 3,
+      "api": "csp_IKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "A9545C889B5D"
+    },   
+    {
+      "key": "csp_YydsAli1",
+      "name": "YYDS阿里(SP)",
+      "type": 3,
+      "api": "csp_YydsAli1",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0
+    },  
     {
     "key": "csp_Enlienli",
     "name": "嗯哩嗯哩(爬虫)",
