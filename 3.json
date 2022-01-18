@@ -1893,8 +1893,68 @@
                     "urls": [
                          "http://183.207.248.71:80/cntv/live1/n-xiqumd/n-xiqumd"
                     ]
+                },
+                {
+                    "name": "松視1台",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/PineVision1"
+                    ]
+                },
+                {
+                    "name": "松視2台",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/PineVision2"
+                    ]
+                },
+                {
+                    "name": "松視3台",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/PineVision3"
+                    ]
+                },
+                {
+                    "name": "Happy",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/HAPPY"
+                    ]
+                },
+                {
+                    "name": "K 頻道",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/Kchannel"
+                    ]
+                },
+                {
+                    "name": "香蕉台",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/BananaStation"
+                    ]
+                },
+                {
+                    "name": "驚豔成人電影台",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/AmazingTaiwan"
+                    ]
+                },
+                {
+                    "name": "JStar極限台電影頻道",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/JSTAR"
+                    ]
+                },
+                {
+                    "name": "潘朵啦高畫質粉紅台",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/PandoraPink"
+                    ]
+                },
+                {
+                    "name": "潘朵啦高畫質玩美台",
+                    "urls": [
+                         "rtmp://125.227.196.250:1935/live/PandoraPlays"
+                    ]
                 }
-              
+                
             ]
         }
     ],
