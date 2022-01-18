@@ -1,42 +1,5 @@
 {
   "sites": [
-    
-    {
-      "key": "腾讯视频(官源)",
-      "name": "腾讯视频（官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "芒果TV会员(官源)",
-      "name": "芒果TV会员(官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
-   {
-      "key": "搜狐视频会员(官源)",
-      "name": "搜狐视频会员(官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
-    {
-      "key": "优酷视频会员(官源)",
-      "name": "优酷视频会员(官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
     {
       "key": "ikan_spider",
       "name": "爱看(SP)",
