@@ -1,60 +1,6 @@
 {
   "sites": [
-     {
-      "key": "芒果TV会员(官源)",
-      "name": "芒果TV会员(官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/mgtv/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
-   {
-      "key": "搜狐视频会员(官源)",
-      "name": "搜狐视频会员(官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/sohu/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
-    {
-      "key": "优酷视频会员(官源)",
-      "name": "优酷视频会员(官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/youku/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },	
-    {
-      "key": "ikan_spider",
-      "name": "爱看(SP)",
-      "type": 3,
-      "api": "csp_IKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "A9545C889B5D"
-    },   
-    {
-      "key": "csp_YydsAli1",
-      "name": "YYDS阿里(SP)",
-      "type": 3,
-      "api": "csp_YydsAli1",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0
-    },    
-    {
-      "key": "腾讯视频(官源)",
-      "name": "腾讯视频（官源)",
-      "type": 0,
-      "api": "http://api.000zy.com/provide/vod/from/qq/at/xml/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },  
+     
     {
     "key": "csp_Enlienli",
     "name": "嗯哩嗯哩(爬虫)",
@@ -2089,7 +2035,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "https://sharertv.coding.net/p/mao/d/mao/git/raw/master/custom_spider3.jar",
+  "spider": "https://gitee.com/cf010/tv/raw/master/custom_spider3.jar",
 
   "ijk": [
     {
