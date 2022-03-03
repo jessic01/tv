@@ -907,7 +907,95 @@
             "api": "http://bttcj.com/inc/sapi.php",
             "playUrl": "",
             "categories": []
-        }
+        },
+        {
+            "key": "爱播资源",
+            "name": "爱播资源",
+            "type": 0,
+            "api": "https://cj.apiabzy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "探探资源",
+            "name": "探探资源",
+            "type": 0,
+            "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "秀色资源",
+            "name": "秀色资源",
+            "type": 0,
+            "api": "https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "美少女",
+            "name": "美少女",
+            "type": 0,
+            "api": "https://www.msnii.com/api/xml.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "淫水机",
+            "name": "淫水机",
+            "type": 0,
+            "api": "https://www.xrbsp.com/api/xml.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "香奶儿",
+            "name": "香奶儿",
+            "type": 0,
+            "api": "https://www.gdlsp.com/api/xml.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "白嫖",
+            "name": "白嫖",
+            "type": 0,
+            "api": "https://www.kxgav.com/api/xml.php",
+            "playUrl": "",
+            "categories": []
+        },,
+        {
+            "key": "小湿妹",
+            "name": "小湿妹",
+            "type": 0,
+            "api": "https://www.afasu.com/api/xml.php",
+            "playUrl": "",
+            "categories": []
+        },,
+        {
+            "key": "黄AV",
+            "name": "黄AV",
+            "type": 0,
+            "api": "https://www.pgxdy.com/api/xml.php",
+            "playUrl": "",
+            "categories": []
+        },,
+        {
+            "key": "奶茶资源",
+            "name": "奶茶资源",
+            "type": 0,
+            "api": "https://caiji.naichaapi.com/inc/seacmsapi.php",
+            "playUrl": "",
+            "categories": []
+        },
+        {
+            "key": "523资源网",
+            "name": "523资源网",
+            "type": 0,
+            "api": "https://caiji.523zyw.com/inc/seacmsapi.php",
+            "playUrl": "",
+            "categories": []
+        },
     ],
 
 
