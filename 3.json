@@ -832,7 +832,7 @@
             "key": "佳丽资源",
             "name": "佳丽资源",
             "type": 0,
-            "api": "https://jializyzapi.com/api.php/Seacms/vod/",
+            "api": "https://www.jializyzapi.com/api.php/provide/vod/",
             "playUrl": "",
             "categories": []
         },
@@ -896,8 +896,8 @@
             "key": "老鸭资源",
             "name": "老鸭资源",
             "type": 0,
-            "api": "https://api.apilyzy.com/api.php/Seacms/vod/",
-            "playUrl": "",
+            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
+            "playUrl": "https://player.77lehuo.com/aliplayer/?url=",
             "categories": []
         },
         {
