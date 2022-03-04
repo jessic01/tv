@@ -876,7 +876,7 @@
             "key": "佳丽资源",
             "name": "佳丽资源",
             "type": 0,
-            "api": "https://www.jializyzapi.com/api.php/provide/vod/",
+            "api": "http://www.jializyzapi.com/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": []
         },
