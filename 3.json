@@ -463,7 +463,78 @@
             "playUrl": "",
             "categories": []
         },
-        
+        {
+            "key": "色色资源站",
+            "name": "色色资源站",
+            "type": 0,
+            "api": "http://secj8.com/inc/jsonsapi.php?ac=videolist",
+            "playUrl": "",
+            "categories": []
+        },
+	{
+            "key": "玖玖资源站",
+            "name": "玖玖资源站",
+            "type": 0,
+            "api": "http://99zywcj.com/inc/jsonsapi.php?ac=videolist",
+            "playUrl": "",
+            "categories": []
+        },
+	{
+            "key": "狼少年资源站",
+            "name": "狼少年资源站",
+            "type": 0,
+            "api": "http://cjmygzy.com/inc/jsonsapi.php?ac=videolist",
+            "playUrl": "",
+            "categories": []
+        },
+	{
+            "key": "富二代资源站",
+            "name": "富二代资源站",
+            "type": 0,
+            "api": "http://f2dcj6.com/sapi/json?ac=videolist",
+            "playUrl": "",
+            "categories": []
+        }, 
+	{
+            "key": "字幕网资源站",
+            "name": "字幕网资源站",
+            "type": 0,
+            "api": "http://zmcj88.com/sapi/json?ac=videolist",
+            "playUrl": "",
+            "categories": []
+        }, 
+	{
+            "key": "久草资源站",
+            "name": "久草资源站",
+            "type": 0,
+            "api": "http://jcspcj8.co/sapi/json?ac==videolist",
+            "playUrl": "",
+            "categories": []
+        }, 
+	{
+            "key": "JAV名优资源站",
+            "name": "JAV名优资源站",
+            "type": 0,
+            "api": "http://mygzycj.com/sapi.php?ac=jsonvideolist",
+            "playUrl": "",
+            "categories": []
+        },
+	{
+            "key": "利来资源站",
+            "name": "利来资源站",
+            "type": 0,
+            "api": "http://llzxcj.com/inc/json.php?ac=videolist",
+            "playUrl": "",
+            "categories": []
+        },
+	{
+            "key": "博天堂资源站",
+            "name": "博天堂资源站",
+            "type": 0,
+            "api": "http://bttcj.com/inc/jsonsapi.php?ac=videolist",
+            "playUrl": "",
+            "categories": []
+        }, 
          
         {
             "key": "芒果（限成年人）",
