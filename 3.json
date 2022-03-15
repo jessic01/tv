@@ -369,14 +369,7 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "淘片直解",
-            "name": "淘片直解",
-            "type": 0,
-            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
-            "playUrl": "",
-            "categories": []
-       },
+        
        
        {
             "key": "BL视频",
@@ -387,13 +380,7 @@
             "categories": []
        },
        
-       {
-            "key": "360资源",
-            "name": "360资源",
-            "type": 0,
-            "api": "http://xa88.vip:88/api.php/provide/vod/at/xml",
-            "playUrl": "https://www.2ajx.com/vip.php?url="
-       },
+       
        {
             "key": "星辰资源",
             "name": "星辰资源",
@@ -465,38 +452,8 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "ZY资源",
-            "name": "ZY资源",
-            "type": 0,
-            "api": "https://zy.zcocc.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "明日资源",
-            "name": "明日资源",
-            "type": 0,
-            "api": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "柚子资源",
-            "name": "柚子资源",
-            "type": 0,
-            "api": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "侦探APP",
-            "name": "侦探APP",
-            "type": 0,
-            "api": "http://ys.huangguay.com/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "categories": []
-        },
+       
+       
         {
             "key": "KK看剧",
             "name": "KK看剧",
@@ -505,22 +462,8 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "萌果资源",
-            "name": "萌果资源",
-            "type": 0,
-            "api": "http://api.appearoo.top/api.php/provide/vod/at/xml/",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "美剧星球",
-            "name": "美剧星球",
-            "type": 0,
-            "api": "https://www.meijuxq.com/inc/api.php",
-            "playUrl": "",
-            "categories": []
-        },
+       
+       
         {
             "key": "追剧吧",
             "name": "追剧吧",
@@ -529,14 +472,7 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "安逸影院",
-            "name": "安逸影院",
-            "type": 0,
-            "api": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-            "playUrl": "",
-            "categories": []
-        },
+       
         {
             "key": "天空资源",
             "name": "天空资源",
@@ -561,30 +497,8 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "1886资源",
-            "name": "1886资源",
-            "type": 0,
-            "api": "http://cj.1886zy.co/inc/api.php",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "百度资源",
-            "name": "百度资源",
-            "type": 0,
-            "api": "https://cj.apibdzy.com/inc/api.php",
-            "playUrl": "",
-            "categories": []
-        },
-        {
-            "key": "红牛资源",
-            "name": "红牛资源",
-            "type": 0,
-            "api": "https://www.hongniuzy.com/inc/api.php",
-            "playUrl": "",
-            "categories": []
-        },
+       
+        
         {
             "key": "恐怖鸭资源",
             "name": "恐怖鸭资源",
@@ -601,14 +515,7 @@
             "playUrl": "",
             "categories": []
         },
-        {
-            "key": "淘片资源",
-            "name": "淘片资源",
-            "type": 0,
-            "api": "https://taopianzy.com/home/cjapi/c4ca4238a0b923820dcc509a6f75849b/vod/xml",
-            "playUrl": "",
-            "categories": []
-        },
+        
         {
             "key": "88资源",
             "name": "88资源",
