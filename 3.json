@@ -2214,16 +2214,11 @@
             ]
         }
     ],
-     "parses": [
+    "parses": [
     {
-      "name": "Json併发",
+      "name": "点此解析",
       "type": 2,
       "url": "Parallel"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
     },
     {
       "name": "无名",
