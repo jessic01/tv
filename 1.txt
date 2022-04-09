@@ -89,8 +89,8 @@ CCTV-17农业农村,http://39.135.138.59:18890/PLTV/88888910/224/3221225909/inde
 內蒙古衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
 黑龍江衛視,http://39.135.138.59:18890/PLTV/88888910/224/3221225736/index.m3u8
 
-凤凰中文,http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
-凤凰资讯,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+凤凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
+凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
 凤凰香港,http://223.110.236.2/ott.js.chinamobile.com/PLTV/3/224/3221228060/index.m3u8
 
 港台,#genre#
