@@ -473,6 +473,14 @@
             "playUrl": "",
             "categories": []
         },
+	  {
+            "key": "酷豆资源",
+            "name": "酷豆资源",
+            "type": 0,
+            "api": "https://api.kdapi.info/api.php/provide/vod/at/xml/",
+            "playUrl": "",
+            "categories": []
+        },
         {
             "key": "辣椒资源",
             "name": "辣椒资源",
@@ -701,7 +709,7 @@
             "key": "BB资源",
             "name": "BB资源",
             "type": 0,
-            "api": "http://bbzy.cc/inc/seacms.php",
+            "api": "http://caiji26.com/home/cjapi/p0g8/mc/vod/xml/",
             "playUrl": "",
             "categories": []
         }
