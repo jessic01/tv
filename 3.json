@@ -474,14 +474,6 @@
             "categories": []
         },
         {
-            "key": "9987资源",
-            "name": "9987资源",
-            "type": 0,
-            "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml",
-            "playUrl": "https://parse.qbzyz.com/parse?resources=",
-            "categories": []
-        },
-        {
             "key": "辣椒资源",
             "name": "辣椒资源",
             "type": 0,
@@ -645,7 +637,7 @@
             "key": "丝袜资源",
             "name": "丝袜资源",
             "type": 0,
-            "api": "https://siwazyw.tv/api.php/provide/vod/at/xml/",
+            "api": "https://siwazyw.cc/api.php/provide/vod/at/xml/",
             "playUrl": "",
             "categories": []
         },
