@@ -624,33 +624,29 @@ Muslin,p5p://fccs.123178.top:9906/616563d0000b2314136be89528f1689f
 
 其他_asdf,#genre#
 
-彩虹e台,mitv://ns2.hellotvvod.com:9906/5ec7ebdf20d3435986ee50b5e67209ba
-彩虹電影台,mitv://ns2.hellotvvod.com:9906/5846f10a1dca4e889226fbb813d269af
-Look TV,mitv://ns2.hellotvvod.com:9906/2c4f0eccccec4dfd8685055ee9f8e2a8
-香蕉台,mitv://ns2.hellotvvod.com:9906/a6fef6e74b4f48d0bfe6342ec87575c0
-驚豔成人電影台,mitv://ns2.hellotvvod.com:9906/c9c7a5ab147f448588866523e8e6c178
-潘朵啦高畫質粉紅台,mitv://ns2.hellotvvod.com:9906/d2c2dcda43a847158de3be53e05f5fba
-潘朵啦高畫質玩美台,mitv://ns2.hellotvvod.com:9906/b499545bfbde4e9a9db204191602309e
-松視1台,mitv://ns2.hellotvvod.com:9906/256cd356e2e7424aaef03b07170c0a7c
-松視2台,mitv://ns2.hellotvvod.com:9906/7f2d5b6c6f8d46e0a72b45fe6eb31da6
-松視3台,mitv://ns2.hellotvvod.com:9906/b4a2c6e69da44f758254a311cabe3f1d
-Hot,mitv://ns2.hellotvvod.com:9906/e97014fbd6f74d2f97777c213d6392fa
-Happy,mitv://ns2.hellotvvod.com:9906/1269c71356f54b919d69c2f54f635a89
-PLAYBOY,mitv://ns2.hellotvvod.com:9906/5a627ba45e9542df8ec11d690d111ad0
+彩虹e台,p5p://45.92.126.18:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
+K 頻道,p5p://45.92.126.18:9906/60e5c69c0007bf360cfd3979da394ad7
+Look TV,p5p://45.92.126.18:9906/60ed753e0003e9cf1108a73c5ad48fc9
+驚豔成人電影台,p5p://45.92.126.18:9906/60fd2dbc0002e8d300ed4537251ee06d
+香蕉台,p5p://45.92.126.18:9906/60fd2ddd000096c200edc58716da3240
+潘朵啦高畫質玩美台,p5p://45.92.126.18:9906/60e5c6c10007bff20cfdca01da007296
+潘朵啦高畫質粉紅台,p5p://45.92.126.18:9906/60fd2d970005922100ecb55d2f333764
+JStar極限台電影頻道,p5p://45.92.126.18:9906/60fd2dff000297b000ee4ada2986dc4f
+松視1台,p5p://45.92.126.18:9906/60e5c60e000509400cfb0e18dd7b20e2
+松視2台,p5p://45.92.126.18:9906/60e5c644000b70ee0cfbe2ab20648a6b
+松視3台,p5p://45.92.126.18:9906/60e5c670000a55dc0cfc8e43fe53445e
+Hot,p5p://45.92.126.18:9906/60e5c5940008bfb40cf9327b7a38210e
+Happy,p5p://45.92.126.18:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
 
-Happy,p5p://fccs.123178.top:9906/60e5c5bb0000e84a0cf9c8d164f11b3b
-Hot,p5p://fccs.123178.top:9906/60e5c5940008bfb40cf9327b7a38210e
-JStar極限台電影頻道,p5p://fccs.123178.top:9906/60fd2dff000297b000ee4ada2986dc4f
-K 頻道,p5p://fccs.123178.top:9906/60e5c69c0007bf360cfd3979da394ad7
-Look TV,p5p://fccs.123178.top:9906/60ed753e0003e9cf1108a73c5ad48fc9
-彩虹e台,p5p://fccs.123178.top:9906/60e5c5e4000b60ac0cfa6ba7ff5ef206
-驚豔成人電影台,p5p://fccs.123178.top:9906/60fd2dbc0002e8d300ed4537251ee06d
-潘朵啦高畫質粉紅台,p5p://fccs.123178.top:9906/60fd2d970005922100ecb55d2f333764
-潘朵啦高畫質玩美台,p5p://fccs.123178.top:9906/60e5c6c10007bff20cfdca01da007296
-松視1台,p5p://fccs.123178.top:9906/60e5c60e000509400cfb0e18dd7b20e2
-松視2台,p5p://fccs.123178.top:9906/60e5c644000b70ee0cfbe2ab20648a6b
-松視3台,p5p://fccs.123178.top:9906/60e5c670000a55dc0cfc8e43fe53445e
-香蕉台,p5p://fccs.123178.top:9906/60fd2ddd000096c200edc58716da3240
+彩虹e台,p5p://crfccs.kingh888.com:16666/60ab271b0008823b0e6079d6366a0d7e
+彩虹電影台,p5p://crfccs.kingh888.com:16666/60ab2705000438470e6022cd64274913
+香蕉台,p5p://crfccs.kingh888.com:16666/60ab2769000e40550e61abfe014de5b1
+驚豔成人電影台,p5p://crfccs.kingh888.com:16666/60ab27790005917d0e61e8453f868fd2
+潘朵啦高畫質玩美台,p5p://crfccs.kingh888.com:16666/60ab279b0002b9f90e626c5b4a6b3931
+JStar極限台電影頻道,p5p://crfccs.kingh888.com:16666/60ab2789000ebe270e62291ec8b20e2d
+松視1台,p5p://crfccs.kingh888.com:16666/60ab2744000d91cc0e611b49573518f1 
+松視2台,p5p://crfccs.kingh888.com:16666/60ab2759000359320e616ab455299cce
+Hot,p5p://crfccs.kingh888.com:16666/60ab27ac000dd0ce0e62b1998dc28571
 
 京彩1,p5p://crfccs.kingh888.com:16666/60ab6f2a000125b50f79f28b8f8bc416 
 京彩2,p5p://crfccs.kingh888.com:16666/60ab6f18000750370f79adcf701ffea1 
