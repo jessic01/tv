@@ -595,6 +595,21 @@ KLT-靖天國際台,mitv://ns2.hellotvvod.com:9906/0696e63574d740c1af8bc083b2f06
 ETtoday綜合台,mitv://ns2.hellotvvod.com:9906/9b381853550446c5a67a206be6528897.ts
 ELTV生活英語台,mitv://ns2.hellotvvod.com:9906/2508441ce7034d18b1c9f05a15d06231.ts
 BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/87eb48364d604a47b6fd2d75115d6aad.ts
+
+探索频道,mitv://ns2.hellotvvod.com:9906/9c0a057219044213ac643c8a8e5d50c0
+Discovery Asia,mitv://ns2.hellotvvod.com:9906/8338adb9ba1541929a6106de04cfdec5
+Discovery科學頻道,mitv://ns2.hellotvvod.com:9906/29f6899f71c64f5394c865d50ea00911
+DMAX,mitv://ns2.hellotvvod.com:9906/f4a3049579cf4a109e2755cff0aae884
+EVE,mitv://ns2.hellotvvod.com:9906/1093dacfe6c3404eb67360c75cfb3ce0
+國家地理高畫質野生頻道,mitv://ns2.hellotvvod.com:9906/56543494b4f64682b1cf6a1aa771c34c
+國家地理頻道,mitv://ns2.hellotvvod.com:9906/cbf2e0c0e1ed4e11a564047614cb962d
+動物星球,mitv://ns2.hellotvvod.com:9906/8df6a02edb7946eebae8115ab6fd8ec7
+HISTORY,mitv://ns2.hellotvvod.com:9906/8282b66d64db4dd884b125ce6a43d7cf
+HISTORY 2,mitv://ns2.hellotvvod.com:9906/d13e7bea35dd4c01bf258f127a01b393
+BBC Earth,mitv://ns2.hellotvvod.com:9906/555289b9056947f18bb9658c62299697
+BBC Lifestyle,mitv://ns2.hellotvvod.com:9906/2dcc681591d640ceb91c09b5eb7cbb83
+
+
 少儿,#genre#
 尼克兒童頻道,mitv://ns2.hellotvvod.com:9906/915056237901456bad0378ea0711cb8e.ts
 達文西頻道,mitv://ns2.hellotvvod.com:9906/10e1cf7b96804d94ab0d26a6b6797261.ts
