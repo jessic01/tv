@@ -290,7 +290,7 @@ now直播台,mitv://ns2.hellotvvod.com:9906/2f68a9720fcb49d08f3933423f86bb7d
 now新闻台,mitv://ns2.hellotvvod.com:9906/7a7898681c3f48709f87e49bbfe399dc
 NHK新闻资讯台,mitv://ns2.hellotvvod.com:9906/ee99d9f34866468ab9f091aebe20f66b
 JKN 18,mitv://ns2.hellotvvod.com:9906/6c61e44d6f4442a79ed529fe5ea8e3d4
-有线直播新闻台	#N/A
+
 有线新闻台,mitv://ns2.hellotvvod.com:9906/339b6503355247ab88fb2e2d96e15076
 有线财经资讯台,mitv://ns2.hellotvvod.com:9906/07aa183b2954420bbda2660f683962fc
 TNN 16,mitv://ns2.hellotvvod.com:9906/30d097e6bf674f9db6aa76c8baf2643e
@@ -302,8 +302,7 @@ Fox News,mitv://ns2.hellotvvod.com:9906/6a2ccb6291b847efabdd53ad160438a1
 Euronews,mitv://ns2.hellotvvod.com:9906/af7cc712745f47b894aece428a2daf94
 DW,mitv://ns2.hellotvvod.com:9906/9ea2debfd0504d4cb5a883bc59030643
 CNN,mitv://ns2.hellotvvod.com:9906/70bb587728714742ab29d8d5bc7a5f73
-CNBC,mitv://ns2.hellotvvod.com:9906/2cd33fecc1fa4311ae090718afdd89e1
-CNBC Awaaz	#N/A
+
 CNA,mitv://ns2.hellotvvod.com:9906/958d54d1a42043b2bb92c86508f2349c
 CGTN,mitv://ns2.hellotvvod.com:9906/51f46c8734c54c8c98a76e587536959c
 CBSN,mitv://ns2.hellotvvod.com:9906/511f246d5cc84b59930727ba92da7a37
