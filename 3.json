@@ -1822,7 +1822,7 @@
 	   {name:'云解析',type:3,url:'https://jx.ppflv.com/?url='},
 	   {name:'盘古',type:3,url:'https://www.pangujiexi.cc/jiexi.php?url='},
 	   {name:'饭团解析',type:3,url:'https://www.fantuantva.com/jiexi/jiexi-gf/?url='}
-           ]
+           ],
 	
   "flags": [
     "youku",
