@@ -1307,84 +1307,109 @@
                         "http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8"
                     ]
                 },
-		{
-                    "name": "国家地理",
-                    "urls": [
-                        "http://211.23.114.106:8509/http/61.221.81.94:8088/hls/61/803/ch01.m3u8"
-                    ]
-                },
-		{
-                    "name": "Discovery",
-                    "urls": [
-                        "http://211.23.114.106:8510/http/61.221.81.94:8088/hls/71/813/ch44.m3u8"
-                    ]
-                },
-                {
+		 {
                     "name": "动物星球",
                     "urls": [
-                        "http://211.23.114.106:8512/http/61.221.81.94:8088/hls/70/812/ch37.m3u8"
+                         "http://198.16.64.10:8278/animalplanet_twn/playlist.m3u8?tid=ME1E7303496773034967&ct=19225&tsum=07b0edc521a4edcb7a00d7e943b8aa72"
                     ]
                 },
-                {
-                    "name": "HBO HD",
+		    {
+                    "name": "BBC Earth",
                     "urls": [
-                        "http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8"
+                         "http://198.16.64.10:8278/bbcearth_twn/playlist.m3u8?tid=ME4E1221123312211233&ct=19225&tsum=6c7cae0711b757a53b43540bf40f93b0"
                     ]
                 },
                 {
-                    "name": "AXN电影",
+                    "name": "国家地理",
                     "urls": [
-                        "http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8"
+                         "http://198.16.64.10:8278/natgeohd_twn/playlist.m3u8?tid=ME0E9332119893321198&ct=19225&tsum=86a42e161c519916f498348c3c672787"
                     ]
                 },
                 {
-                    "name": "FOXmovies",
+                    "name": "国家地理野生",
                     "urls": [
-                        "http://211.23.114.106:8560/http/116.50.42.19:8081/hls/62/804/ch08.m3u8"
+                         "http://198.16.64.10:8278/natgeowild_twn/playlist.m3u8?tid=ME7E6122598161225981&ct=19225&tsum=c88897efa30d472128421acf3d4b62c8"
                     ]
                 },
                 {
+                    "name": "探索亚洲",
+                    "urls": [
+                         "http://198.16.64.10:8278/discoverytwn_twn/playlist.m3u8?tid=MCEC2689621926896219&ct=19225&tsum=1739c52807970a89c1c15d7afea86b26"
+                    ]
+                },
+                {
+                    "name": "探索动力",
+                    "urls": [
+                         "http://198.16.64.10:8278/discoveryturbo_twn/playlist.m3u8?tid=MD5D5964869459648694&ct=19225&tsum=a21251b62069dff5c52601a3e4bc4a6d"
+                    ]
+                },
+                {
+                    "name": "探索科学",
+                    "urls": [
+                         "http://198.16.64.10:8278/discoverysc_twn/playlist.m3u8?tid=MA9A4194864841948648&ct=19225&tsum=d87ede28c5152d8a730038fd5fb8207f"
+                    ]
+                },
+                {
+                    "name": "探索频道",
+                    "urls": [
+                         "http://198.16.64.10:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc"
+                    ]
+                },{
+                    "name": "美食星球",
+                    "urls": [
+                         "http://198.16.64.10:8278/foodplanet_twn/playlist.m3u8?tid=MCCC8639507586395075&ct=19226&tsum=69f5a90ff21aa5f4f58667bcdd713353"
+                    ]
+                },{
+                    "name": "HISTORY",
+                    "urls": [
+                         "http://198.16.64.10:8278/History/playlist.m3u8?tid=MBCB1996306119963061&ct=19225&tsum=7c5458c8f917c8d0b182fb436f66e64f"
+                    ]
+                },{
+                    "name": "Warner TV",
+                    "urls": [
+                         "http://198.16.64.10:8278/WarnerTV/playlist.m3u8?tid=MADA9911440699114406&ct=19225&tsum=19bde622e34ceabf296cf92a9a1adede"
+                    ]
+                },{
+                    "name": "HBO",
+                    "urls": [
+                         "http://198.16.64.10:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce"
+                    ]
+                },{
+                    "name": "HBO原创",
+                    "urls": [
+                         "http://198.16.64.10:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a"
+                    ]
+                },{
+                    "name": "TVBS",
+                    "urls": [
+                         "http://198.16.64.10:8278/tvbs/playlist.m3u8?tid=MDED5111960351119603&ct=19226&tsum=49931e2d3885c468d56ffae2c2db9e6e"
+                    ]
+                },{
+                    "name": "TVBS新闻台",
+                    "urls": [
+                         "http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MEFE5283322452833224&ct=19226&tsum=5f4e9bb0782ab3aae36328763cba2ffd"
+                    ]
+                },{
+                    "name": "中天新闻",
+                    "urls": [
+                         "http://198.16.64.10:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203"
+                    ]
+                },{
+                    "name": "中视新闻",
+                    "urls": [
+                         "http://198.16.64.10:8278/zhongshinews_twn/playlist.m3u8?tid=MD8D4836803548368035&ct=19226&tsum=a2f06c15a5e9c4dc67565c2b8598c8da"
+                    ]
+                },{
                     "name": "好莱坞电影",
                     "urls": [
-                        "http://211.23.114.106:8554/http/116.50.42.19:8081/hls/74/816/ch55.m3u8"
+                         "http://198.16.64.10:8278/hollywoodmovies_twn/playlist.m3u8?tid=MECE5611281156112811&ct=19225&tsum=ad8884ee16b04f885f24bae98fc5fb9f"
+                    ]
+                },{
+                    "name": "AXN",
+                    "urls": [
+                         "http://198.16.64.10:8278/Axn/playlist.m3u8?tid=MDAD8374621983746219&ct=19225&tsum=60883af30a38d2c40db4c04f8651ffaa"
                     ]
                 },
-                {
-                    "name": "TVBS直播",
-                    "urls": [
-                        "http://211.23.114.106:8545/http/116.50.42.19:8081/hls/64/806/ch15.m3u8"
-                    ]
-                },
-                {
-                    "name": "TVBS新聞",
-                    "urls": [
-                        "http://211.23.114.106:8546/http/116.50.42.19:8081/hls/64/806/ch16.m3u8"
-                    ]
-                },
-                {
-                    "name": "中天新聞",
-                    "urls": [
-                        "http://211.23.114.106:8541/http/60.251.39.91:8081/hls/78/80/ch63max.m3u8"
-                    ]
-                },
-                {
-                    "name": "寰宇新聞",
-                    "urls": [
-                        "http://211.23.114.106:8547/http/116.50.42.19:8081/hls/76/818/ch62.m3u8"
-                    ]
-                },
-                {
-                    "name": "东森新闻",
-                    "urls": [
-                        "http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8"
-                    ]
-                },
-                {
-                    "name": "年代新闻",
-                    "urls": [
-                        "http://211.23.114.106:8517/http/60.251.39.91:8081/hls/67/809/ch27.m3u8"
-                    ]
-                },   
                 {
                     "name": "东方卫视",
                     "urls": [     
