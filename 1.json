@@ -720,8 +720,7 @@
 		  "type":1,
 		  "api":"https://mgzyz1.com/api.php/provide/vod/",
 		  "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
-		  "searchable":0,
-		  "quickSearch":0
+		  "categories": []
 	  }
 
     ],
