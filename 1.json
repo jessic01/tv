@@ -1894,13 +1894,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-	     {"name":"CK资源","type":3,"url":"https://ckm3u8.cc/?url="},
-	   {"name":"金鹰资源","type":3,"url":"https://hd.njeere.com/play?url="},
-	   {"name":"酷伦理","type":3,"url":"https://jx.kujiexi.net/m3u8.php?url="},
-	   {"name":"影库资源","http://jx.ykyunbo.com/m3u8.php?url="},
-	   {"name":"红牛资源","type":3,"url":"https://www.tutukiki.com/m3u8/?url="},
-	   {"name":"无尽资源","type":3,"url":"https://jx.wujinkk.com/dplayer/?url="},
-	   {"name":"闪电资源","type":3,"url":"https://www.shankubf.com/m3u8/?url="},
+	     
 {"name":"线路m9","type":1,"url":"https://api.m3u8.tv:5678/home/api?type=ys&uid=1931000&key=gktuvyzABEORSYZ135&url="},
 {"name":"线路NX","type":1,"url":"https://vip.nxflv.com/home/api?uid=701203&key=bltuyCEFKLTX013679&url="},
 {"name":"Pro","type":1,"url":"http://api.vip123kan.vip/?url=","ext":{"flag":["youku","优酷","mgtv","芒果","qq","腾讯","qiyi","爱奇艺","qq","奇艺"]}},
@@ -1959,7 +1953,7 @@
     "wasu",
     "bilibili"
   ],
-  "spider": "https://gitee.com/cf010/tv/raw/master/custom_spider3.jar",
+  "spider": "https://jar1234.coding.net/p/m/d/m/git/raw/master/custom_spider_0330.jar;md5;01a4ac9109a0602124cee4feddc1971e",
 
   "ijk": [
     {
