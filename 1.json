@@ -713,16 +713,8 @@
             "api": "http://caiji26.com/home/cjapi/p0g8/mc/vod/xml/",
             "playUrl": "",
             "categories": []
-        },
-	  {
-		  "key":"*芒果资源",
-		  "name":"*芒果资源",
-		  "type":1,
-		  "api":"https://mgzyz1.com/api.php/provide/vod/",
-		  "playUrl": "https://mgm3u8-player.com/player/DPm3u8.php?url=",
-		  "categories": []
-	  }
-
+        }
+	  
     ],
 
 
