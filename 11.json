@@ -1000,12 +1000,12 @@
             "name": "番号资源",
             "type": 0,
             "api": "http://fhapi9.com/api.php/Seacms/vod/from/fhm3u8/at/xml/",
-            "playUrl": "",
+            "playUrl": "https://www.dplayerx.com/m3u8.php?url=",
             "categories": []
         },
 
 
-		  
+{"key":"*泡芙资源","name":"*泡芙资源","type":0,"api":"http://zmcj88.com/api?ac=list","url":"https://okjx.cc/?url=","searchable":1,"quickSearch":1,"filterable":0},	  
 		  
 {"key":"*色猫资源","name":"*色猫资源","type":0,"api":"https://api.maozyapi.com/inc/apijson_vod.php","playUrl": "https://api.semaoapi.com/m3u8/?url=","categories": []},
 
@@ -1021,16 +1021,16 @@
 
 {"key":"*奶茶资源","name":"*奶茶资源","type":0,"api":"https://caiji.naichaapi.com/inc/apijson_vod.php","playUrl": "https://jiexi.naichaapi.com/?url=","categories": []},
 
-{"key":"*JAV名优馆","name":"*JAV名优馆","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*色色资源","name":"*色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*玖玖资源","name":"*玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*狼少年","name":"*狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*富二代资源","name":"*富二代资源","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*字幕网","name":"*字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*久草资源","name":"*久草资源","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":0,"quickSearch":0},
-{"key":"*利来资源","name":"*利来资源","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":0,"quickSearch":0},
+{"key":"*JAV名优馆","name":"*JAV名优馆","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*博天堂","name":"*博天堂","type":0,"api":"http://bttcj.com/inc/sapi.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*环亚资源","name":"*环亚资源","type":0,"api":"http://wmcj8.com/inc/sapi.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*色色资源","name":"*色色资源","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*玖玖资源","name":"*玖玖资源","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*狼少年","name":"*狼少年","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*富二代资源","name":"*富二代资源","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*字幕网","name":"*字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*久草资源","name":"*久草资源","type":0,"api":"http://jcspcj8.com/api?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+{"key":"*利来资源","name":"*利来资源","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
 {"key":"*美少女资源","name":"*美少女资源","type":0,"api":"https://www.msnii.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*淫水机资源","name":"*淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
 {"key":"*香奶儿资源","name":"*香奶儿资源","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
