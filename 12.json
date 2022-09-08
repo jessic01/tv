@@ -1003,8 +1003,21 @@
             "playUrl": "https://www.dplayerx.com/m3u8.php?url=",
             "categories": []
         },
-
-{"key":"淫水机资源","name":"淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
+	  
+	  
+	  
+	  
+	  
+{"key":"向日葵","name":"向日葵","type":0,"api":"http://mygzycj.com/api.php?ac=list","playUrl":"","categories":[]},
+{"key":"小AV","name":"小AV","type":0,"searchable":0,"quickSearch":0,"api":"https://www.pgxdy.com/api/xml.php","playUrl":""},
+{"key":"小姐姐资源","name":"小姐姐资源","type":2,"api":"https://xjjzyapi.com/home/cjapi/askl/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"小湿妹资源","name":"小湿妹资源","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"熊猫资源","name":"熊猫资源","type":0,"api":"http://jcspcj8.com/api?ac=list","playUrl":"","categories":[]},
+{"key":"秀色采集","name":"秀色采集","type":0,"searchable":0,"quickSearch":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xml/","playUrl":"https://api.xiusebf.com/m3u8/?url="},
+{"key":"亚洲成人在线","name":"亚洲成人在线","type":2,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":0,"quickSearch":0}
+{"key":"夜夜撸资源","name":"夜夜撸资源","type":2,"api":"https://www.caiji23.com/home/cjapi/kls6/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"一本道资源","name":"一本道资源","type":2,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":0,"quickSearch":0},
+{"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"淫窝资源","name":"淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"影库资源","name":"影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag":"qb,tj","categories":[]},
 {"key":"字幕网","name":"字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0}
