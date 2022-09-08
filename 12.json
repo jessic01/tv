@@ -1002,8 +1002,14 @@
             "api": "http://fhapi9.com/api.php/Seacms/vod/from/fhm3u8/at/xml/",
             "playUrl": "https://www.dplayerx.com/m3u8.php?url=",
             "categories": []
-        }
+        },
 
+{"key":"淫水机资源","name":"淫水机资源","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
+{"key":"淫窝资源","name":"淫窝资源","type":1,"api":"https://api.yinwoapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+{"key":"影库资源","name":"影库资源","type":1,"api":"https://api.ykapi.net/api.php/provide/vod/from/ykm3u8/","tag":"qb,tj","categories":[]},
+{"key":"字幕网","name":"字幕网","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0}
+	  
+	  
 
 
         
