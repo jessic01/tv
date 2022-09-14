@@ -1009,9 +1009,9 @@
 	  
 	  
 {"key": "豆豆","name": "豆豆","type": 1,"api": "http://www.36717.info/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key":"010爱资源","name":"010爱资源","type":0,"api":"http://www.010aizy.com/API/macs.php","searchable":0,"quickSearch":0},
+{"key":"010爱资源","name":"010爱资源","type":0,"api":"http://www.010aizy.com//API/seas.php","searchable":0,"quickSearch":0},
 {"key":"523","name":"523","type":0,"api":"https://caiji.523zyw.com/inc/seacmsapi.php","playUrl":"https://api.523zyw.com/?url=","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"52AVAV","name":"52AVAV","type":2,"api":"https://52zyapi.com/home/cjapi/asda/mc/vod/xml/m3u8","searchable":0,"quickSearch":0},
+{"key":"52AVAV","name":"52AVAV","type":2,"api":"https://52zyapi.com/home/cjapi/asda/sea/vod/xml/iframe","searchable":0,"quickSearch":0},
 {"key":"91md","name":"91md","type":1,"api":"https://91md.me/api.php/provide/vod/from/mdm3u8/","tag":"qb,tj,rm","categories":[]},
 {"key":"99资源","name":"99资源","type":1,"api":"http://99zy.pw/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"9号资源","name":"9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":0},
