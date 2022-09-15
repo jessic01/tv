@@ -98,6 +98,18 @@
 
 
 
+{"key":"土狗官采","name":"土狗官采(官)","type":1,"api":"http://vip-02.tgzy.cc/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"首涂官采","name":"首涂官采(官)","type":1,"api":"http://zy.ishoutu.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"雪人官采","name":"雪人官采(官)","type":1,"api":"https://zl.chinafix.wang/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"鸭奈飞1","name":"鸭奈飞1(优)","type":1,"api":"http://106.13.199.87:4433/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"人人资源","name":"人人资源(优)","type":1,"api":"http://www.rrzyw.cc/api.php/provide/vod/","searchable":1,"quickSearch":
+{"key":"星一蓝光","name":"星一蓝光(优)","type":1,"api":"http://lgku.suboyun.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},	  
+	  
+	  
+	  
+	  
+	  
+
 {"key":"筋斗云","name":"筋斗云(优)","type":1,"api":"https://tv.jindcloud.com/api.php/provide/vod/","playUrl":"parse:parwix1","searchable":1,"quickSearch":1},
 {"key":"金鹰资源","name":"金鹰资源(切)","type":1,"api":"http://jinyingzy.com/provide/vod","searchable":1,"quickSearch":1},
 {"key":"蓝天资源","name":"蓝天资源(切)","type":1,"api":"https://api.ltzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
