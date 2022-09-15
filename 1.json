@@ -1,9 +1,9 @@
 {
   "sites": [
-{"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml/","searchable":1,"quickSearch":1},
-{"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml/","searchable":1,"quickSearch":1},
-{"key":"一本道资源","name":"一本道资源(切)","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml/","searchable":1,"quickSearch":1},
-	  
+{"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/json","searchable":1,"quickSearch":1},
+{"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/json","searchable":1,"quickSearch":1},
+{"key":"一本道资源","name":"一本道资源(切)","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/json","searchable":1,"quickSearch":1},
+{"key":"三级片资源","name":"三级片资源(切)","type":0,"api":"https://caiji.jjjzy.cc/inc/api.php","searchable":1,"quickSearch":1},	  
 { "key": "BT天堂（限成年人）", "name": "BT天堂（限成年人）","type": 0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","categories": []},	  
 {"key":"鲨鱼","name":"鲨鱼(切)","type":1,"api":"https://shayuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"乐播","name":"乐播(切)","type":1,"api":"https://lbapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -101,7 +101,22 @@
 {"key":"向日葵","name":"向日葵","type":0,"api":"http://mygzycj.com/api.php?ac=list","playUrl":"","categories":[]},
 {"key":"小AV","name":"小AV","type":0,"searchable":0,"quickSearch":0,"api":"https://www.pgxdy.com/api/xml.php","playUrl":""},
 {"key":"熊猫资源","name":"熊猫资源","type":0,"api":"http://jcspcj8.com/api?ac=list","playUrl":"","categories":[]},
-{"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},	  
+{"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},	
+{"key":"草莓2","name":"草莓2","type":1,"api":"http://192.154.101.146:8888/inc/api.php","searchable":1,"quickSearch":1},	
+	  
+{"key":"国色资源","name":"国色资源","type":1,"api":"https://api.guosezy.com/api.php","searchable":1,"quickSearch":1},		  
+{"key":"金莲资源","name":"金莲资源","type":1,"api":"https://111kkkkk.com/api.php","searchable":1,"quickSearch":1},		  
+{"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hghhh.com/api.php","searchable":1,"quickSearch":1},		  
+{"key":"热巴资源","name":"热巴资源","type":1,"api":"http://reba.aishunxs.com/api.php","searchable":1,"quickSearch":1},
+{"key":"狼友资源","name":"狼友资源","type":1,"api":"https://www.langyouzy.com/api.php","searchable":1,"quickSearch":1},	  
+{"key":"热巴资源","name":"热巴资源","type":1,"api":"http://reba.aishunxs.com/api.php","searchable":1,"quickSearch":1},	  
+{"key":"香蕉视频","name":"香蕉视频","type":1,"api":"https://ea111.cc/api.php","searchable":1,"quickSearch":1},	  
+{"key":"色南国资源","name":"色南国资源","type":1,"api":"https://api.sexnguon.com/api.php","searchable":1,"quickSearch":1},	  
+{"key":"4000资源","name":"4000资源","type":1,"api":"http://4000zy.com/api.php","searchable":1,"quickSearch":1},	  
+	  
+	  
+	  
+	  
 {"key":"*CK资源","name":"超酷福利","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitea.com/zwx/itv/raw/branch/dev/jar/18.jar"}
 
 
