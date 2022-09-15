@@ -6,6 +6,13 @@
 {"key":"csp_appysv2_影库(萝卜)","name":"影库(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yingkudy.com/lvdou_api.php/v1.vod"},
 {"key":"csp_appysv2_佑尘云影视(萝卜)","name":"佑尘云影视(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://v.i7yc.cn/api.php/v1.vod"},
 {"key":"csp_appysv2_鑫总资源(萝卜)","name":"鑫总资源(萝卜)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.mmhkj.xyz/lvdou_api.php/v1.vod"},
+
+	  
+	  
+	  
+	  
+	  
+	  
 {"key":"诺讯资源","name":"诺讯资源(官)","type":1,"api":"http://caiji.nxflv.com/api.php/provide/vod/","playUrl":"https://www.nxflv.com/?url=","searchable":1,"quickSearch":1},
 {"key":"艾克资源","name":"艾克资源(官)","type":1,"api":"https://ikcss.cn/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"devclh资源","name":"devclh资源(官)","type":1,"api":"http://zl.devclh.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -182,167 +189,6 @@
   "searchable": 1,
   "quickSearch": 0,
   "filterable": 1
-},
-
- {
-    "key": "csp_xpath_94sm",
-    "name": "94神马(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/94sm.json"
-},
-{
-    "key": "csp_xpath_jpys",
-    "name": "极品影视(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
-},
-{
-    "key": "csp_xpath_age",
-    "name": "AGE动漫(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/agefans.json"
-},
-{
-    "key": "csp_xpath_jpyszl",
-    "name": "极品直链(XPath)",
-    "type": 3,
-    "api": "csp_XPathMac",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/jpys.json"
-},
-{
-    "key": "csp_xpath_nfmov",
-    "name": "NFMovies(XPath)",
-    "type": 3,
-    "api": "csp_XPathNfMov",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/nfmovie.json"
-},
-{
-    "key": "csp_xpath_tvci",
-    "name": "大师兄(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/tvci.json"
-},
-{
-    "key": "csp_xpath_duboku",
-    "name": "独播库(XPath)",
-    "type": 3,
-    "api": "csp_XPath",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/duboku.json"
-},
-{
-     "key": "csp_xpath_saohuotv",
-     "name": "骚火电影(XPath)",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/saohuotv2.json"
-},
-{
-     "key": "csp_xpath_dm84",
-     "name": "动漫巴士(XPath)",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/dm84.json"
-},
-{
-    "key": "csp_xpath_egg",
-    "name": "蛋蛋影院(XPath)",
-    "type": 3,
-    "api": "csp_XPathEgg",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/egg.json"
-},
-{
-    "key": "csp_yysdali",
-    "name": "YYDS影视(XPath)",
-    "type": 3,
-    "api": "csp_YydsAli",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 0,
-    "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/yyds.json"
-},
-{
-     "key": "csp_xpath_555",
-     "name": "555电影(XPath)",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/555.json"
-},
-{
-     "key": "csp_xpath_sky4k",
-     "name": "天空4K(XPath)",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/catvod/CatVodTVSpider@master/xpath/sky4k.json"
-},
-{
-     "key": "csp_xpath_4kyu",
-     "name": "一只鱼4K(XPath)",
-     "type": 3,
-     "api": "csp_XPath",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0,
-     "ext": "https://cdn.jsdelivr.net/gh/lite-cucumber/CatVodTVSpider@master/xpath/4kyu.json"
-},
-{
-     "key":"csp_xpath_miniku",
-     "name":"Miniku(XPath)",
-     "type":3,
-     "api":"csp_XPath",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable": 0,
-     "ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/miniku.json"
-},
-{
-     "key":"csp_xpath_pianba",
-     "name":"Pianba(XPath)",
-     "type":3,
-     "api":"csp_XPath",
-     "searchable":1,
-     "quickSearch":1,
-     "filterable": 0,
-     "ext":"https://cdn.jsdelivr.net/gh/Tangsan99999/CatVodTVSpider@master/xpath/pianba.json"
 },
 
 
