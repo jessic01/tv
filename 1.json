@@ -1,5 +1,10 @@
 {
   "sites": [
+{"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml/","searchable":1,"quickSearch":1},
+{"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml/","searchable":1,"quickSearch":1},
+{"key":"一本道资源","name":"一本道资源(切)","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml/","searchable":1,"quickSearch":1},
+	  
+	  
 {"key":"鲨鱼","name":"鲨鱼(切)","type":1,"api":"https://shayuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"乐播","name":"乐播(切)","type":1,"api":"https://lbapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"丝袜资源","name":"丝袜资源(切)","type":1,"api":"https://siwazyw.cc/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -28,12 +33,8 @@
 {"key":"青青草视频","name":"青青草视频(切)","type":0,"api":"https://www.caiji05.com/home/cjapi/cfda/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"麻豆视频","name":"麻豆视频(切)","type":0,"api":"https://www.caiji04.com/home/cjapi/cfc7/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"麻豆视频2","name":"麻豆视频2(切)","type":1,"api":"https://madouse.la/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
-{"key":"一本道资源","name":"一本道资源(切)","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml/","searchable":1,"quickSearch":1},
-{"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml/","searchable":1,"quickSearch":1},
-{"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml/","searchable":1,"quickSearch":1},
 {"key":"99资源","name":"99资源(切)","type":1,"api":"http://99zy.pw/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
 {"key":"老鸭资源","name":"老鸭资源(切)","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
-{"key":"花椒资源","name":"花椒资源(切)","type":1,"api":"https://apihjzy.com/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
 {"key":"KK写真资源","name":"KK写真资源(切)","type":1,"api":"https://kkzy.me/api.php/provide/vod/at/json/","searchable":1,"quickSearch":1},
 {"key":"91麻豆","name":"91麻豆(切)","type":1,"api":"https://91md.me/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"速播资源","name":"速播资源(切)","type":1,"api":"https://api.suboapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
@@ -74,7 +75,6 @@
 {"key": "豆豆","name": "豆豆","type": 1,"api": "http://www.36717.info/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"010爱资源","name":"010爱资源","type":0,"api":"http://www.010aizy.com//API/seas.php","searchable":0,"quickSearch":0},
 {"key":"9号资源","name":"9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"ap441i156dlyE","name":"草莓资源","type":0,"api":"https://caiji.caomeiapi.com/inc/api.php","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"ASMR","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"JAV名优馆","name":"JAV名优馆","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
 {"key":"KK真资源","name":"KK真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
