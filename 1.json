@@ -4,7 +4,7 @@
 {"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml/","searchable":1,"quickSearch":1},
 {"key":"一本道资源","name":"一本道资源(切)","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml/","searchable":1,"quickSearch":1},
 	  
-	  
+{ "key": "BT天堂（限成年人）", "name": "BT天堂（限成年人）","type": 0,"api": "http://bttcj.com/inc/sapi.php","playUrl": "","categories": []},	  
 {"key":"鲨鱼","name":"鲨鱼(切)","type":1,"api":"https://shayuapi.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"乐播","name":"乐播(切)","type":1,"api":"https://lbapi9.com/api.php/provide/vod","searchable":1,"quickSearch":1},
 {"key":"丝袜资源","name":"丝袜资源(切)","type":1,"api":"https://siwazyw.cc/api.php/provide/vod","searchable":1,"quickSearch":1},
