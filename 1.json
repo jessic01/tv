@@ -59,7 +59,7 @@
 {"key":"浪潮资源","name":"浪潮资源(卡切)","type":1,"api":"http://langchaozy6.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"佳丽资源","name":"佳丽资源(卡切)","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"哥哥妹妹","name":"哥哥妹妹(切)","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1},
-
+{"key":"老司鸡资源","name":"老司鸡资源(切)","type":0,"api":"https://www.lsjapi.com/home/cjapi/asd2g8/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"草莓资源","name":"草莓资源(切)","type":1,"api":"https://caiji.caomeiapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key":"523资源","name":"523资源(切)","type":1,"api":"https://caiji.523zyw.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key":"爱看资源","name":"爱看资源(切)","type":1,"api":"https://www.aikanzyz9.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
