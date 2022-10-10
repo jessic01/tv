@@ -1,6 +1,6 @@
 {
   "sites": [
-	  
+{"key":"随便看电影","name":"随便看","type":0,"api":"https://www.sbkdy.com/inc/api.php","playUrl":"","categories":[]},	  
 {"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"一本道资源","name":"一本道资源(切)","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1,"quickSearch":1},
@@ -98,7 +98,7 @@
 {"key":"鲨鱼资源","name":"鲨鱼资源","type":1,"api":"https://shayuapi.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"水蜜桃","name":"水蜜桃","type":0,"api":"http://51smt4.xyz/api.php/provide/vod/at/xml/","playUrl":"","categories":[],"searchable":0,"quickSearch":0},
 {"key":"瞬间影视","name":"瞬间影视","type":1,"api":"http://app.7en7.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
-{"key":"随便看电影","name":"随便看","type":0,"api":"https://www.sbkdy.com/inc/api.php","playUrl":"","categories":[]},
+
 {"key":"向日葵","name":"向日葵","type":0,"api":"http://mygzycj.com/api.php?ac=list","playUrl":"","categories":[]},
 {"key":"小AV","name":"小AV","type":0,"searchable":0,"quickSearch":0,"api":"https://www.pgxdy.com/api/xml.php","playUrl":""},
 {"key":"熊猫资源","name":"熊猫资源","type":0,"api":"http://jcspcj8.com/api?ac=list","playUrl":"","categories":[]},
