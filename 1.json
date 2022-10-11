@@ -1,6 +1,6 @@
 {
   "sites": [
-{"key":"随便看电影","name":"随便看","type":0,"api":"https://www.sbkdy.com/inc/api.php","playUrl":"","categories":[]},	  
+	  
 {"key":"亚洲成人在线","name":"亚洲成人在线(切)","type":0,"api":"https://www.caiji01.com/home/cjapi/cfd2/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"草榴视频","name":"草榴视频(切)","type":0,"api":"https://www.caiji02.com/home/cjapi/cfas/mc10/vod/xml","searchable":1,"quickSearch":1},
 {"key":"一本道资源","name":"一本道资源(切)","type":0,"api":"https://www.caiji03.com/home/cjapi/cfg8/mc10/vod/xml","searchable":1,"quickSearch":1},
