@@ -104,7 +104,7 @@
 {"key":"熊猫资源","name":"熊猫资源","type":0,"api":"http://jcspcj8.com/api?ac=list","playUrl":"","categories":[]},
 {"key":"易看资源","name":"易看资源","type":1,"api":"https://api.yikanapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},	
 {"key":"草莓2","name":"草莓2","type":1,"api":"http://192.154.101.146:8888/inc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},	
-{"key":"蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://eggsvideo.top//inc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},	  
+{"key":"蛋蛋视频","name":"蛋蛋视频","type":1,"api":"https://www.9206.cc/inc/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},	  
 {"key":"国色资源","name":"国色资源","type":1,"api":"https://api.guosezy.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},		  
 {"key":"金莲资源","name":"金莲资源","type":1,"api":"https://111kkkkk.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},		  
 {"key":"皇冠资源","name":"皇冠资源","type":1,"api":"https://hghhh.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},		  
