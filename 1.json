@@ -131,8 +131,7 @@
 {"key":"花色资源","name":"花色资源","type":1,"api":"https://api.huasezy.xyz/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},	  
 
 {"key":"速度资源","name":"速度资源","type":1,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":1,"quickSearch":1},
-{"key":"61783","name":"61783","type":1,"api":"https://61783.xyz/api.php","searchable":1,"quickSearch":1},	  	  
-{"key":"CK资源","name":"CK资源","type":1,"api":"http://www.feifei67.com/api.php/provide/vod/","searchable":0,"quickSearch":0,"filterable":0,"jar":"https://gitea.com/zwx/itv/raw/branch/dev/jar/18.jar"}
+	  	  
 
 
         
