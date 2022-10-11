@@ -49,12 +49,22 @@
 {"key":"色猫资源","name":"色猫资源(切)","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key":"花魁资源","name":"花魁资源(切)","type":1,"api":"https://caiji.huakuiapi.com/inc/apijson_vod.php","searchable":1,"quickSearch":1},
 {"key":"葡萄资源","name":"葡萄资源(切)","type":1,"api":"https://caiji.putaozy.net/inc/apijson_vod.php","searchable":1,"quickSearch":1},
-{"key":"博天堂","name":"博天堂(切)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
-{"key":"wmcj8","name":"wmcj8(切)","type":0,"api":"http://wmcj8.com/inc/sapi.php","searchable":1,"quickSearch":1},
 {"key":"天噜啦资源","name":"天噜啦资源(切)","type":0,"api":"http://www.987caiji.com/api/max.php","searchable":1,"quickSearch":1},
+	  
+{"key":"环亚资源","name":"环亚资源(切)","type":0,"api":"http://wmcj8.com/inc/jsonsapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"狼少年","name":"狼少年(切)","type":0,"api":"http://cjmygzy.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"色色资源","name":"色色资源(切)","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
 {"key":"玖玖资源","name":"玖玖资源(切)","type":0,"api":"http://99zywcj.com/inc/sapi.php?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"久草资源","name":"久草资源(切)","type":0,"api":" http://jcspcj8.com/sapi/json?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"富二代资源","name":"富二代资源(切)","type":0,"api":"http://f2dcj6.com/sapi/json?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"字幕网","name":"字幕网(切)","type":0,"api":"http://zmcj88.com/sapi/json?ac=videolist","searchable":1,"quickSearch":1},
+{"key":"利来资源","name":"利来资源(切)","type":0,"api":"http://llzxcj.com/inc/json.php?ac=videolist","searchable":1,"quickSearch":1},	  
+{"key":"JAV名优馆","name":"JAV名优馆","type":0,"api":"http://bttcj.com/inc/jsonsapi.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},	  
+{"key":"博天堂","name":"博天堂(切)","type":0,"api":"http://bttcj.com/inc/sapi.php","searchable":1,"quickSearch":1},
+	  
+	  
+	  
+	  
 {"key":"番号资源","name":"番号资源(卡切)","type":1,"api":"http://fhapi9.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"浪潮资源","name":"浪潮资源(卡切)","type":1,"api":"http://langchaozy6.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
 {"key":"佳丽资源","name":"佳丽资源(卡切)","type":1,"api":"http://www.jializyzapi.com/api.php/provide/vod/at/json","searchable":1,"quickSearch":1},
@@ -69,15 +79,12 @@
 {"key":"香奶儿资源","name":"香奶儿资源(切)","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"白嫖资源","name":"白嫖资源(切)","type":0,"api":"https://www.kxgav.com/api/xml.php","searchable":1,"quickSearch":1},
 {"key":"小湿妹资源","name":"小湿妹资源(切)","type":0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1},
-{"key":"久草资源","name":"久草资源(切)","type":0,"api":"http://jcspcj8.com/api?ac=videolist","searchable":1,"quickSearch":1},
-{"key":"富二代资源","name":"富二代资源(切)","type":0,"api":"http://f2dcj6.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
-{"key":"字幕网","name":"字幕网(切)","type":0,"api":"http://zmcj88.com/sapi?ac=videolist","searchable":1,"quickSearch":1},
-{"key":"利来资源","name":"利来资源(切)","type":0,"api":"http://llzxcj.com/inc/sck.php?ac=videolist","searchable":1,"quickSearch":1},
+
 {"key": "豆豆","name": "豆豆","type": 1,"api": "http://www.36717.info/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"010爱资源","name":"010爱资源","type":0,"api":"http://www.010aizy.com//API/seas.php","searchable":0,"quickSearch":0},
 {"key":"9号资源","name":"9号资源","type":0,"api":"http://fhapi9.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"ASMR","name":"ASMR","type":1,"api":"http://www.asmr19.in/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"JAV名优馆","name":"JAV名优馆","type":0,"api":"http://mygzycj.com/api.php?ac=videolist","playUrl": "https://www.dplayerx.com/m3u8.php?url=","searchable":0,"quickSearch":0},
+
 {"key":"KK真资源","name":"KK真资源","type":1,"api":"https://kkzy.me/api.php/provide/vod/","playUrl":"","categories":[],"quickSearch":0,"searchable":0},
 {"key":"zp123","name":"色猫资源（慢）","type":0,"api":"https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"大地采集","name":"大地","type":0,"searchable":0,"quickSearch":1,"api":"https://dadiapi.com/apple_m3u8.php","playUrl":"https://play.dadiapi.com/watch?url="},
