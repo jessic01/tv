@@ -1,5 +1,13 @@
 世界杯,#genre#
 CCTV5,mitv://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p2p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p3p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p4p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p5p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p6p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p7p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p8p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
+CCTV5,p9p://ns3.hellotvvod.com:9906/637b2d4b0006710dfafd4e2468a94278
 CCTV5+,mitv://ns3.hellotvvod.com:9906/ad05dcdb3c594dae83a7d7cc04007a81
 五星体育,mitv://ns3.hellotvvod.com:9906/e3968d039dc041858c32bace9a360836
 广东体育,mitv://ns3.hellotvvod.com:9906/637c6e390007e1e3ffe2f0311e186cce
