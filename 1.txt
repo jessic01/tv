@@ -807,3 +807,4 @@ PLAYBOY,mitv://ns3.hellotvvod.com:9906/3ac91e2561644c169eb39b25417af672
 JStar极限台,mitv://ns3.hellotvvod.com:9906/d75c5d1e63e54be3b0d3a678e7085095
 HAPPY,mitv://ns3.hellotvvod.com:9906/a9c151ae1a8248eaa1761c5c1d29e34d
 K,mitv://ns3.hellotvvod.com:9906/d1aff3d18e4041b29a8f212ea81c5f22
+
