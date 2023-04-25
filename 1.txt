@@ -110,7 +110,6 @@ BBC World News,mitv://generationnexxxt.com:19806/4500941de27f434cae09553a1f0ed4d
 Nat Geo Wild,mitv://generationnexxxt.com:19806/789748eb75bb4c3b9522742df4eaee1b
 Nation TV,mitv://generationnexxxt.com:19806/7d87284193a64a7f9f518849c02d7441
 
-
 AMC最爱电影,mitv://generationnexxxt.com:19806/596bc566f5024110b7a9832f4a4e1f86
 AXN,mitv://generationnexxxt.com:19806/426b8f2102a04888aeeafa89c555e835
 AXN亚洲,mitv://generationnexxxt.com:19806/8add116b0e7d408f89cdf74897f02aef
