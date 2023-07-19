@@ -188,6 +188,10 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 翡翠台,http://r.jdshipin.com/qClQf
 明珠台,http://r.jdshipin.com/ZQ4kN
 
+
+
+国家地理,http://66.181.39.224/ml.php?id=natgeohd_twn
+国家地理野生,http://66.181.39.224/ml.php?id=natgeowild_twn
 WB TV,http://208.115.225.174:14132
 HBO,http://208.115.225.174:14136
 HBO 2,http://208.115.225.174:14140
