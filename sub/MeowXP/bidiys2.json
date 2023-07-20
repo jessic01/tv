@@ -6,17 +6,7 @@
   "pCfgJsR": "[\\W|\\S|.]*?MacPlayerConfig.player_list[\\W|\\S|.]*?=([\\W|\\S|.]*?),MacPlayerConfig.downer_list",
   "dcShow2Vip": {},
   "dcPlayUrl": "true",
-  "cateManual": {
-    "南瓜电影": "nanguady",
-    "电影": "dianying",
-    "连续剧": "lianxuju",
-    "综艺": "zongyi",
-    "动漫": "dongman",
-    "国产剧": "guochanju",
-    "欧美剧": "oumeiju",
-    "国漫": "gcdm",
-    "日漫": "rbdm",
-  },
+   "cateManual": {"南瓜电影":"nanguady","4K专区": "huiyuanzhuanqu","电影": "dianying","连续剧": "lianxuju","动漫": "dongman","综艺": "综艺"},
 
   "homeVodNode": "//div[@class=('module-item-cover')]",
   "homeVodName": "//div[@class=('module-item-pic')]/a/@title",
