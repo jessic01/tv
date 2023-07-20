@@ -85,7 +85,6 @@
 {"key":"csp_xp_tjyy","name":"💢奇优影院","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/huigutongying.json"},
 {"key":"csp_xp_dy888","name":"💢电影888","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./sub/MeowXP/dy888.json"},
 {"key":"csp_xp_lranc","name":"💢天天影视","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/lranc.json"},
-{"key":"csp_xp_dmntv","name":"💢弹幕影院","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/dmntv.json"},
 {"key":"csp_xp_yingba","name":"💢电影吧","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/yingba.json"},
 {"key":"csp_xp_dingzidy","name":"💢钉子电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"./sub/MeowXP/dingzidy.json"},
 
