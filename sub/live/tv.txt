@@ -187,7 +187,6 @@ CETV1,http://222.71.90.218:8888/newlive/live/hls/48/live.m3u8
 
 AXNTW,http://66.181.39.224/ml.php?id=axn_twn
 AXN,http://66.181.39.224/ml.php?id=Axn
-DiscoveryTurbo,http://66.181.39.224/ml.php?id=discoveryturbo_twn
 探索频道,http://66.181.39.224/ml.php?id=discoverych_twn
 探索亚洲,http://66.181.39.224/ml.php?id=discoverytwn_twn
 BBC EARTH,http://66.181.39.224/ml.php?id=bbcearth_twn
