@@ -55,7 +55,7 @@
     "isLock": true
   },
   {
-    "api": "https://lbapi9.com/api.php/provide/vod/",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/json/",
     "name": "🔞乐播资源",
     "noHistory": true,
     "isLock": true
@@ -93,15 +93,6 @@
     {
     "api": "https://lovedan.net/api.php/provide/vod/",
     "name": "🔞艾旦",
-    "noHistory": true,
-    "isLock": true
-  },
-
-   
-
-    {
-    "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
-    "name": "🔞AIvin",
     "noHistory": true,
     "isLock": true
   },
