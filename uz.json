@@ -111,12 +111,7 @@
     "noHistory": true,
     "isLock": true
   },
-    {
-    "api": "https://subocaiji.com/api.php/provide/vod/at/json",
-    "name": "🔞速播",
-    "noHistory": true,
-    "isLock": true
-  },
+    
     {
     "api": "https://api.maozyapi.com/inc/apijson_vod.php",
     "name": "🔞色猫",
@@ -129,12 +124,7 @@
     "noHistory": true,
     "isLock": true
   },
-    {
-    "api": "http://f2dcj6.com/sapi?ac=videolist",
-    "name": "🔞富二代",
-    "noHistory": true,
-    "isLock": true
-  },
+   
     {
     "api": "https://www.afasu.com/api/xml.php",
     "name": "🔞小湿妹",
