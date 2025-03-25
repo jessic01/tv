@@ -75,6 +75,12 @@
     "isLock": true
   },
 
+    {
+    "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+    "name": "🔞鲨鱼",
+    "noHistory": true,
+    "isLock": true
+  },
 
 
     {
@@ -150,7 +156,7 @@
     "isLock": true
   },
      {
-    "api": "https://apiyutu.com/api.php/provide/vod/at/xml",
+    "api": "https://apiyutu.com/api.php/providedao/vod/?ac=list",
     "name": "🔞玉兔",
     "noHistory": true,
     "isLock": true
@@ -186,7 +192,7 @@
     "isLock": true
   },  
   {
-    "api": "https://apilj.com/api.php/provide/vod/at/xml/",
+    "api": "http://api.11bat.com/api.php/provide/vod/at/json/",
     "name": "🔞辣椒",
     "noHistory": true,
     "isLock": true
