@@ -91,12 +91,7 @@
     "isLock": true
   },
 
-    {
-    "api": "https://aosikazy.com/api.php/provide/vod/at/xml",
-    "name": "🔞奥斯卡",
-    "noHistory": true,
-    "isLock": true
-  },
+   
 
     {
     "api": "http://lbapiby.com/api.php/provide/vod/at/xml",
