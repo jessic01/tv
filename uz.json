@@ -76,7 +76,7 @@
   },
 
     {
-    "api": "https://shayuapi.com/api.php/provide/vod/at/json/",
+    "api": "http://sybyapi.com/api.php/provide/vod/at/json/",
     "name": "🔞鲨鱼",
     "noHistory": true,
     "isLock": true
@@ -102,12 +102,7 @@
     "noHistory": true,
     "isLock": true
   },
-    {
-    "api": "https://www.jingpinx.com/api.php/provide/vod/?ac=list",
-    "name": "🔞探探",
-    "noHistory": true,
-    "isLock": true
-  },
+   
     
     {
     "api": "https://api.maozyapi.com/inc/apijson_vod.php",
