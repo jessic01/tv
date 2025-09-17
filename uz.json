@@ -1,5 +1,29 @@
 [
   {
+    "api": "https://dadiapi.com/feifei2/",
+    "name": "🔞大地资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://thzy1.me/api.php/provide/vod/?ac=list",
+    "name": "🔞桃花资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
+    "name": "🔞百万资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://api.bwzyz.com/api.php/provide/vod/at/json/",
+    "name": "🔞百万资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
     "api": "https://api.apilyzy.com/api.php/provide/vod/",
     "name": "🔞老鸭资源",
     "noHistory": true,
@@ -12,7 +36,7 @@
     "isLock": true
   },
   {
-    "api": "http://fhapi9.com/api.php/provide/vod/",
+    "api": "http://fhapi9.com/api.php/provide/vod/from/fhm3u8/at/xml/",
     "name": "🔞番号资源",
     "noHistory": true,
     "isLock": true
