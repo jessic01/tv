@@ -16,7 +16,7 @@
         "name": "🔵1080源"
     },
     {
-        "api": "https://cj.ffzyapi.com/api.php/provide/vod",
+        "api": "https://api.ffzyapi.com/api.php/provide/vod/from/ffm3u8/at/xml/",
         "name": "🔵非凡源"
     },
     {
