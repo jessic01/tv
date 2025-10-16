@@ -1,13 +1,4 @@
-trojan://af38d5b3837811bf886fc1297d89435c@47.242.225.242:443?allowInsecure=1&peer=hezijiasuqi.com,#香港专线2
-trojan://af38d5b3837811bf886fc1297d89435c@47.83.121.99:443?allowInsecure=1&peer=hezijiasuqi.com,#香港专线4
-trojan://af38d5b3837811bf886fc1297d89435c@47.86.9.253:443?allowInsecure=1&peer=hezijiasuqi.com,#香港专线3
-trojan://af38d5b3837811bf886fc1297d89435c@8.210.125.207:443?allowInsecure=1&peer=hezijiasuqi.com,#香港专线1
-trojan://af38d5b3837811bf886fc1297d89435c@125.227.238.151:443?allowInsecure=1&peer=hezijiasuqi.com,#台湾线路2
-trojan://af38d5b3837811bf886fc1297d89435c@61.216.76.114:443?allowInsecure=1&peer=hezijiasuqi.com,#台湾线路1
-trojan://af38d5b3837811bf886fc1297d89435c@218.232.76.185:443?allowInsecure=1&peer=hezijiasuqi.com,#韩国线路2
-trojan://af38d5b3837811bf886fc1297d89435c@27.102.118.145:443?allowInsecure=1&peer=hezijiasuqi.com,#韩国线路1
-trojan://af38d5b3837811bf886fc1297d89435c@133.242.157.140:443?allowInsecure=1&peer=hezijiasuqi.com,#日本专线3
-trojan://af38d5b3837811bf886fc1297d89435c@153.121.37.176:443?allowInsecure=1&peer=hezijiasuqi.com,#日本专线2
-trojan://af38d5b3837811bf886fc1297d89435c@49.212.170.40:443?allowInsecure=1&peer=hezijiasuqi.com,#日本专线1
+vless://987292da-2d08-4032-b43a-feadd79a9398@usa.visa.com:2053?encryption=none&security=tls&sni=checkout-criterion-economic-specify.trycloudflare.com&fp=chrome&type=ws&host=checkout-criterion-economic-specify.trycloudflare.com&path=%2F987292da-2d08-4032-b43a-feadd79a9398%3Fed%3D2048#cf_tunnel_visa_us_2053
+
 
 
