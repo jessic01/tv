@@ -232,6 +232,12 @@
     "isLock": true
   },
   {
+    "api": "https://91jpzyw.com/api.php/provide/vod/at/json",
+    "name": "🔞91精品资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
         "name": "麻豆社",
         "api": "https://ghfast.top/https://raw.githubusercontent.com/jessic01/tv/refs/heads/main/madou.js",
         "instance": "madou20240626",
