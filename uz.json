@@ -207,6 +207,30 @@
     "noHistory": true,
     "isLock": true
   },
+   {
+    "api": "https://xzybb1.com/api.php/provide/vod/at/xml",
+    "name": "🔞幸资源",
+    "noHistory": true,
+    "isLock": true
+  },
+   {
+    "api": "https://api.xgbbk8.com/api.php/provide/vod/at/xml",
+    "name": "🔞杏吧资源",
+    "noHistory": true,
+    "isLock": true
+  },
+   {
+    "api": "https://api.souavzy.vip/api.php/provide/vod/at/json",
+    "name": "🔞搜av资源",
+    "noHistory": true,
+    "isLock": true
+  },
+  {
+    "api": "https://www.mdzyapi.com/api.php/provide/vod/?ac=list",
+    "name": "🔞魔都资源",
+    "noHistory": true,
+    "isLock": true
+  },
   {
         "name": "麻豆社",
         "api": "https://ghfast.top/https://raw.githubusercontent.com/jessic01/tv/refs/heads/main/madou.js",
