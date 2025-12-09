@@ -1,5 +1,5 @@
 央视,#genre#
-CTV-1 综合,https://iptv.catvod.com/live.php?id=CCTV-1%20%E7%BB%BC%E5%90%88
+CCTV-1 综合,https://iptv.catvod.com/live.php?id=CCTV-1%20%E7%BB%BC%E5%90%88
 CCTV-2 财经,https://iptv.catvod.com/live.php?id=CCTV-2%20%E8%B4%A2%E7%BB%8F
 CCTV-3 综艺,https://iptv.catvod.com/live.php?id=CCTV-3%20%E7%BB%BC%E8%89%BA
 CCTV-4 中文国际,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85
@@ -18,6 +18,26 @@ CCTV-15 音乐,https://iptv.catvod.com/live.php?id=CCTV-15%20%E9%9F%B3%E4%B9%90
 CCTV-17 农业农村,https://iptv.catvod.com/live.php?id=CCTV-17%20%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91
 CCTV-4 中文国际 欧洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E6%AC%A7%E6%B4%B2
 CCTV-4 中文国际 美洲,https://iptv.catvod.com/live.php?id=CCTV-4%20%E4%B8%AD%E6%96%87%E5%9B%BD%E9%99%85%20%E7%BE%8E%E6%B4%B2
+
+CCTV-1,https://iptv.catvod.com/live.php?id=CCTV-1
+CCTV-2,https://iptv.catvod.com/live.php?id=CCTV-2
+CCTV-3,https://iptv.catvod.com/live.php?id=CCTV-3
+CCTV-4,https://iptv.catvod.com/live.php?id=CCTV-4
+CCTV-4K,https://iptv.catvod.com/live.php?id=CCTV-4K
+CCTV-5,https://iptv.catvod.com/live.php?id=CCTV-5
+CCTV-5plus,https://iptv.catvod.com/live.php?id=CCTV-5plus
+CCTV-6,https://iptv.catvod.com/live.php?id=CCTV-6
+CCTV-7,https://iptv.catvod.com/live.php?id=CCTV-7
+CCTV-8,https://iptv.catvod.com/live.php?id=CCTV-8
+CCTV-9,https://iptv.catvod.com/live.php?id=CCTV-9
+CCTV-10,https://iptv.catvod.com/live.php?id=CCTV-10
+CCTV-11,https://iptv.catvod.com/live.php?id=CCTV-11
+CCTV-12,https://iptv.catvod.com/live.php?id=CCTV-12
+CCTV-13,https://iptv.catvod.com/live.php?id=CCTV-13
+CCTV-14,https://iptv.catvod.com/live.php?id=CCTV-14
+CCTV-15,https://iptv.catvod.com/live.php?id=CCTV-15
+CCTV-16,https://iptv.catvod.com/live.php?id=CCTV-16
+CCTV-17,https://iptv.catvod.com/live.php?id=CCTV-17
 
 
 上海,#genre#
